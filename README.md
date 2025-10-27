@@ -10,6 +10,10 @@ You can install the package directly from the Git repository using pip:
 pip install git+https://github.com/hannesrosenbusch/LLM_annotate.git
 ```
 
+```python
+import llm_annotate
+```
+
 ## Tutorial
 
 You can view a full tutorial for the package in the preprint: 
