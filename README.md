@@ -10,10 +10,16 @@ You can install the package directly from the Git repository using pip:
 pip install git+https://github.com/hannesrosenbusch/LLM_annotate.git
 ```
 
-## Usage
+## Tutorial
 
 You can view a full tutorial for the package in the preprint: 
 https://docs.google.com/document/d/1avsdgYS7ox7TkIwePbH_oPyruJKGNie8MIbP-6Cbm3U/edit?usp=sharing
+
+## Examples
+
+See the `examples/` directory for:
+- `demo.ipynb` - Basic usage walkthrough
+- `data/` - Sample data files for testing
 
 ## Contributing
 
