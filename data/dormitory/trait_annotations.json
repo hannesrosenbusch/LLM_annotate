@@ -1,0 +1,3658 @@
+{
+  "Claudio": [
+    {
+      "Action": "Writes 'Happy Holidays' on blackboard",
+      "thoughtful": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Pushes dessert cart",
+      "dedicated": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Probes for reviews and suggestions",
+      "perfectionist": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Replays gardener's compliment",
+      "insecure": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Considers eating cannoli with gardener",
+      "hopeful": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Shivers in winter air",
+      "sensitive to cold": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Considers seeing tailor",
+      "self-conscious": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Feels pride in campus",
+      "proud": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Offers free samples to struggling students",
+      "generous": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Avoids looking at Thomas's untucked shirt",
+      "non-judgmental": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Wears a suit to make the day special for students",
+      "considerate": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Feels embarrassed when complimented",
+      "humble": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Fails to stop Thomas from taking a cannoli",
+      "passive": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Offers lactose-free snacks",
+      "people-pleaser": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Continues on solitary path",
+      "solitary": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Cringes at rejection of food",
+      "sensitive": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Distracts himself with observations",
+      "observant": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Arranges cannoli on plate",
+      "meticulous": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Parks cart against bike stands",
+      "considerate": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Holds breath and waits",
+      "cautious": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Decides noise was nerves",
+      "rational": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Stares at woman and nods",
+      "compliant": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Starts moving after being called",
+      "responsive": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Balancing cargo and descending stairs",
+      "careful": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Carrying cannoli",
+      "obsessive": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Attempting to jog",
+      "poor cardiovascular fitness": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Expressing confusion and concern about the gun",
+      "concerned": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Using angry voice about weapon",
+      "protective": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Offers wallet to robber",
+      "trait": "compliant",
+      "value": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Tries to convince himself of being robbed",
+      "trait": "self-deceptive",
+      "value": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Avoids looking at the gun",
+      "trait": "fearful",
+      "value": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Kicks blanket off",
+      "uncomfortable": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Makes mental note to contact landlord",
+      "responsible": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Realizes it is winter",
+      "confused": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Remembers being stung",
+      "anxious": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Wears suit for delivery",
+      "prepared": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Researches cannoli recipes in bed",
+      "anxious": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Exhibits self-soothing behavior",
+      "anxious": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Displays disorganized speech",
+      "agitated": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Suffers involuntary self-inflicted injury",
+      "agitated": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Whimpers and slides back",
+      "fearful": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Fails to respond",
+      "overwhelmed": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Touches mouth and tastes blood",
+      "injured": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Stares at Finn",
+      "shocked": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Staggers and stumbles towards the door",
+      "confused": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Drops to his knees and rests on the railing",
+      "overwhelmed": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Controls his breathing and heartbeat settles",
+      "calm": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Requests Finn to only speak when asked",
+      "assertive": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Avoids eye contact with supernatural boy",
+      "nervous": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Imagines family activities",
+      "imaginative": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Verifies algae",
+      "skeptical": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Proposes a yes-or-no game",
+      "strategic": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Acknowledges health warnings",
+      "self-aware": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Struggles to understand Finn's explanations",
+      "confused": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Seeks another adult to talk to",
+      "dependent": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Feels nervous about dying",
+      "anxious": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Ponders life changes after near-death experience",
+      "introspective": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Continues working in the same job despite lack of promotion",
+      "content": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Wipes sweat with a pocket square",
+      "anxious": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Tries to control breathing",
+      "worried": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Questions Finn about his body changes",
+      "curious": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Feels violated by body modification",
+      "violated": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Does not feel proud of weight loss",
+      "unimpressed": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Expresses feeling better",
+      "hopeful": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Questions surroundings",
+      "curious": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Deemphasizes pain",
+      "desirous to impress": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Follows Helena",
+      "curious": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Wipes sand off his feet",
+      "tidy": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Feels self-conscious about wet shirt",
+      "self-conscious": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Attempts to make conversation",
+      "awkward": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Attempts humor",
+      "romantically interested": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Wonders if Mel is ignoring him",
+      "self-conscious": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Falls back in the corridor",
+      "shy": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Hums in agreement",
+      "agreeable": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Tries to hide discomfort",
+      "uncomfortable": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Winces at disinfectant",
+      "sensitive": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Thanks Helena for helping",
+      "kind": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Observes flour on Helena's clothes and deduces she baked something",
+      "observant": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Guesses pie flavor",
+      "observant": 1,
+      "enthusiastic": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Throws dice reluctantly",
+      "reluctant": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Observes Helena",
+      "observant": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Critiques cafeteria design",
+      "observant": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Thinks about improving cafeteria",
+      "thoughtful": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Considers psychological treatment",
+      "self-reflective": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Evaluates kitchen cleanliness",
+      "detail-oriented": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Conceded mistake",
+      "humble": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Inspected the crowd",
+      "observant": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Joined clapping",
+      "friendly": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Raises eyebrows at Helena's language",
+      "judgmental": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Furrows eyebrows",
+      "concerned": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Zones out",
+      "disinterested": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Hopes judges are different",
+      "empathetic": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Helps with serving",
+      "helpful": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Compliments Helena",
+      "supportive": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Fetches water for everyone",
+      "considerate": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Demands extra-large portion of stew",
+      "supportive": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Avoids looking closely at stew",
+      "tactful": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Notices girl has run away",
+      "trait": "observant",
+      "Chunk": 37
+    },
+    {
+      "Action": "Helps with dishes",
+      "helpful": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Introduces himself to Maya",
+      "polite": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Suggests sitting down to talk",
+      "trait": "conciliatory",
+      "Chunk": 39
+    },
+    {
+      "Action": "Apologizes to Maya",
+      "trait": "considerate",
+      "Chunk": 39
+    },
+    {
+      "Action": "Walks slowly to avoid appearing overeager",
+      "self-conscious": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Feels ashamed about suspicions",
+      "sensitive": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Plans to search for Riko despite suspicions",
+      "caring": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Fails to respond to Helena's statements",
+      "socially awkward": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Apologizes for room sharing",
+      "considerate": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Acknowledges poor communication skills",
+      "self-aware": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Tries to reassure Maya",
+      "empathetic": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Offers to clean clothes",
+      "cleanliness": 1,
+      "helpful": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Walks back and forth, tidies the room, and opens an envelope",
+      "anxious": 1,
+      "responsible": 1,
+      "socially awkward": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Regrets not having a comb or shaving kit",
+      "self-conscious": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Picks up dry soil and sprinkles it back into the cactus pot",
+      "tidy": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Stumbles and catches balance in the white space",
+      "disoriented": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Nods in agreement with Helena about Finn",
+      "agreeable": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Stumbles back and falls after Finn's comment",
+      "embarrassed": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Pulls away from Helena's offered hand",
+      "ashamed": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Unable to meet Helena’s eyes",
+      "awkward": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Staggered to his feet",
+      "distressed": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Heart beat in his throat",
+      "anxious": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Glaring at Finn",
+      "betrayed": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Face burning",
+      "embarrassed": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Head pulsed painfully",
+      "stressed": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Failed to return Helena's smile",
+      "uncomfortable": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Feels uncomfortable",
+      "anxious": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Suggests listening to Helena",
+      "considerate": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Forced a smile",
+      "trait": "discontent",
+      "value": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Looked helplessly",
+      "trait": "low confidence",
+      "value": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Pressed fingers against forehead",
+      "trait": "stressed",
+      "value": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Spoke in a strained voice",
+      "trait": "anxious",
+      "value": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Expresses concern about risk",
+      "cautious": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Apologizes repeatedly",
+      "apologetic": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Hopes Finn's insights will dissuade him from the challenge",
+      "optimistic": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Tries to delay the challenge",
+      "hesitant": 1,
+      "cautious": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Expresses confusion",
+      "confused": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Hands shackled",
+      "powerless": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Tries to communicate with Helena",
+      "perceptive": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Experiences physical distress",
+      "vulnerable": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Resists pressing button",
+      "trait": "resilient",
+      "value": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Reflects on being a pushover",
+      "trait": "self-aware",
+      "value": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Hesitates to select a switch",
+      "indecisive": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Selects lowest level",
+      "cautious": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Frozen, unable to act",
+      "paralyzed by fear": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Feels dizzy and shouts explanations",
+      "anxious": 1,
+      "Chunk": 67
+    },
+    {
+      "Action": "Flips down switch number one",
+      "cautious": 1,
+      "Chunk": 67
+    },
+    {
+      "Action": "Tries to smile back at Helena",
+      "forgiving": 1,
+      "Chunk": 67
+    },
+    {
+      "Action": "Gets shocked and drops to the ground",
+      "enduring": 1,
+      "Chunk": 67
+    },
+    {
+      "Action": "Puts the table upright with Finn's help",
+      "resilient": 1,
+      "Chunk": 67
+    },
+    {
+      "Action": "Flips switch",
+      "decisive": 1,
+      "Chunk": 68
+    },
+    {
+      "Action": "Endures shock",
+      "resilient": 1,
+      "Chunk": 68
+    },
+    {
+      "Action": "Lies motionless with dried blood",
+      "injured": 1,
+      "Chunk": 69
+    },
+    {
+      "Action": "Confused about his surroundings",
+      "disoriented": 1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Mistakes Finn for an angel",
+      "naive": 1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Cheered on the roller coaster",
+      "childlike": 1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Yells about clothes and sheets",
+      "considerate": 1,
+      "Chunk": 71
+    },
+    {
+      "Action": "Surprised by own words",
+      "self-aware": 1,
+      "Chunk": 71
+    },
+    {
+      "Action": "Holds burning paper",
+      "curious": 1,
+      "Chunk": 71
+    },
+    {
+      "Action": "Ducks instinctively",
+      "cautious": 1,
+      "Chunk": 71
+    },
+    {
+      "Action": "Apologizes for squishing Maya",
+      "polite": 1,
+      "Chunk": 71
+    },
+    {
+      "Action": "Shields Maya from fire",
+      "protective": 1,
+      "Chunk": 72
+    },
+    {
+      "Action": "Coughs and struggles to breathe",
+      "resilient": 1,
+      "Chunk": 72
+    },
+    {
+      "Action": "Endures pain from melted suit pants",
+      "resilient": 1,
+      "Chunk": 73
+    },
+    {
+      "Action": "Squirmed at choice of words",
+      "sensitive": 1,
+      "Chunk": 73
+    },
+    {
+      "Action": "Jokes about his situation",
+      "optimistic": 1,
+      "resilient": 1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Changes sheets and vacuums",
+      "considerate": 1,
+      "tidy": 1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Cannot remember where he is",
+      "confused": 1,
+      "Chunk": 76
+    },
+    {
+      "Action": "Elated to see Maya",
+      "friendly": 1,
+      "Chunk": 76
+    },
+    {
+      "Action": "Assumes they are in Maya's parents' house",
+      "assumptive": 1,
+      "Chunk": 76
+    },
+    {
+      "Action": "Finds confusion amusing with Maya around",
+      "optimistic": 1,
+      "Chunk": 76
+    },
+    {
+      "Action": "Accepts water and drinks it quickly",
+      "thirsty": 1,
+      "Chunk": 76
+    },
+    {
+      "Action": "Tries to remember last conversation with Maya",
+      "forgetful": 1,
+      "Chunk": 76
+    },
+    {
+      "Action": "Laughs at Maya's question",
+      "dismissive": 1,
+      "Chunk": 76
+    },
+    {
+      "Action": "Hits head on bunk bed",
+      "clumsy": 1,
+      "Chunk": 76
+    },
+    {
+      "Action": "Experiences searing pain in legs",
+      "injured": 1,
+      "Chunk": 76
+    },
+    {
+      "Action": "Feels tested and wonders about past actions",
+      "anxious": 1,
+      "Chunk": 77
+    },
+    {
+      "Action": "Participates in talent show despite confusion",
+      "compliant": 1,
+      "Chunk": 77
+    },
+    {
+      "Action": "Comments on decorations",
+      "observant": 1,
+      "Chunk": 78
+    },
+    {
+      "Action": "Offers to get Maya a sandwich",
+      "considerate": 1,
+      "Chunk": 78
+    },
+    {
+      "Action": "Remembers students' first coffee experiences",
+      "nostalgic": 1,
+      "Chunk": 78
+    },
+    {
+      "Action": "Fetches an energizing drink for Maya",
+      "helpful": 1,
+      "Chunk": 78
+    },
+    {
+      "Action": "Balances a tray on his lap",
+      "skillful": 1,
+      "Chunk": 78
+    },
+    {
+      "Action": "Laughs openly",
+      "cheerful": 1,
+      "Chunk": 78
+    },
+    {
+      "Action": "Creates a layered drink",
+      "creative": 1,
+      "Chunk": 79
+    },
+    {
+      "Action": "Explains drink ingredients",
+      "knowledgeable": 1,
+      "Chunk": 79
+    },
+    {
+      "Action": "Avoids using alcohol",
+      "considerate": 1,
+      "Chunk": 79
+    },
+    {
+      "Action": "Inquires about Maya's coffee habits",
+      "curious": 1,
+      "Chunk": 79
+    },
+    {
+      "Action": "Initiates applause",
+      "supportive": 1,
+      "Chunk": 80
+    },
+    {
+      "Action": "Reaches out to Maya",
+      "empathetic": 1,
+      "Chunk": 80
+    },
+    {
+      "Action": "Watches Maya and Helena",
+      "observant": 1,
+      "Chunk": 81
+    },
+    {
+      "Action": "Claps off rhythm",
+      "disengaged": 1,
+      "Chunk": 81
+    },
+    {
+      "Action": "Distracted by news of Maya's sister's death",
+      "empathetic": 1,
+      "Chunk": 82
+    },
+    {
+      "Action": "Unsure about expressing condolences",
+      "socially awkward": 1,
+      "Chunk": 82
+    },
+    {
+      "Action": "Feels uneasy about young girl in show",
+      "protective": 1,
+      "empathetic": 1,
+      "Chunk": 83
+    },
+    {
+      "Action": "Attempts to stand from wheelchair",
+      "determined": 1,
+      "concerned": 1,
+      "Chunk": 84
+    },
+    {
+      "Action": "Tries to understand the situation",
+      "trait": "confused",
+      "Chunk": 86
+    },
+    {
+      "Action": "Grasps at a paper",
+      "curious": 1,
+      "Chunk": 87
+    },
+    {
+      "Action": "Searches for a happy memory",
+      "nostalgic": 1,
+      "Chunk": 87
+    },
+    {
+      "Action": "Observes the crowd and cakes",
+      "observant": 1,
+      "Chunk": 88
+    },
+    {
+      "Action": "Engages in conversation with his mother",
+      "thoughtful": 1,
+      "Chunk": 88
+    },
+    {
+      "Action": "Stays on the balcony all night",
+      "reflective": 1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Stares blankly, trapped in fantasies or memories",
+      "detached": 1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Watches boy's actions",
+      "observant": 1,
+      "Chunk": 90
+    },
+    {
+      "Action": "Falls into flames",
+      "vulnerable": 1,
+      "helpless": 1,
+      "Chunk": 91
+    },
+    {
+      "Action": "Acknowledges his flaws humorously",
+      "self-aware": 1,
+      "Chunk": 92
+    },
+    {
+      "Action": "Expresses fear and concern about a boy",
+      "anxious": 1,
+      "Chunk": 92
+    },
+    {
+      "Action": "Encourages Maya to make her own decision",
+      "trait": "supportive",
+      "value": 1,
+      "Chunk": 93
+    }
+  ],
+  "Thomas": [
+    {
+      "Action": "Has been working on his degree for six or seven years",
+      "persistent": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Introduces girl as future girlfriend",
+      "optimistic": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Snatches a cannoli without asking",
+      "impulsive": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Compliments Claudio's suit",
+      "friendly": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Eats cannoli and praises cafeteria",
+      "appreciative": 1,
+      "Chunk": 3
+    }
+  ],
+  "Girl": [
+    {
+      "Action": "Declines dessert due to lactose intolerance",
+      "considerate": 1,
+      "Chunk": 3
+    }
+  ],
+  "Professor Hartmann": [
+    {
+      "Action": "Disguises herself for mission",
+      "intelligent": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Calls for help",
+      "assertive": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Waves Claudio down the stairs",
+      "directive": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Fumbling with a gun",
+      "clumsy": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Carrying a gun on campus",
+      "reckless": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Demands Helena to identify a man",
+      "authoritative": 1,
+      "Chunk": 85
+    },
+    {
+      "Action": "Yells at assistant",
+      "impatient": 1,
+      "Chunk": 85
+    },
+    {
+      "Action": "Holds camera close to Helena",
+      "intrusive": 1,
+      "Chunk": 85
+    },
+    {
+      "Action": "Demands subject's name",
+      "authoritative": 1,
+      "Chunk": 90
+    },
+    {
+      "Action": "Pushes assistant aside",
+      "aggressive": 1,
+      "Chunk": 90
+    }
+  ],
+  "Gardener": [
+    {
+      "Action": "Holding a camera and dodging back into the lab",
+      "cautious": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Instructing Professor Hartmann",
+      "anxious": 1,
+      "Chunk": 5
+    }
+  ],
+  "Maya": [
+    {
+      "Action": "Watches parents argue",
+      "trait": "observant",
+      "value": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Throws jabs at punching bag",
+      "trait": "aggressive",
+      "value": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Grounded for starting a fight",
+      "trait": "rebellious",
+      "value": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Plans night with music",
+      "trait": "independent",
+      "value": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Listens to Turkish rap at high volume",
+      "rebellious": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Ignores damage to laptop",
+      "careless": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Upset about parents forfeiting her ticket",
+      "resentful": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Avoids looking at family photos",
+      "discontent": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Drinks energy drinks",
+      "defiant": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Plans to intensify drug effects with energy drinks",
+      "reckless": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Dismisses parental trust speech",
+      "cynical": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Drinks alcohol",
+      "rebellious": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Ignores mom's rule",
+      "defiant": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Enters studio",
+      "curious": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Observes paintings",
+      "reflective": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Stops painting",
+      "disillusioned": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Listens to music",
+      "escapist": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Uses toxic paint and solvents",
+      "reckless": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Ignores safety warnings",
+      "careless": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Closes window to trap vapors",
+      "self-destructive": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Listens to poorly reviewed music",
+      "nonconformist": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Feels indifferent to parents' opinion",
+      "disillusioned": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Laughs during a dangerous situation",
+      "detached": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Inhales chemicals",
+      "reckless": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Vomits without feeling nauseous",
+      "detached": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Hits head on floorboards",
+      "careless": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Sees hallucinations",
+      "imaginative": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Wakes up disoriented and sick",
+      "disoriented": 1,
+      "intoxicated": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Considers she might have broken into a neighbor’s shed",
+      "reckless": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Pukes into the sand",
+      "nauseous": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Tries to focus despite her state",
+      "determined": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Flings boy into room",
+      "aggressive": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Ignores boy's pleas",
+      "stubborn": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Decides to get away and sober up",
+      "determined": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Chooses right side of the beach",
+      "rebellious": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Walks towards the ocean despite hallucinations",
+      "determined": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Thinks about her parents' potential embarrassment",
+      "self-conscious": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Remembers her parents' actions during a crisis",
+      "resentful": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Follows shadows into the ocean",
+      "curious": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Feels disconnected from her surroundings",
+      "disoriented": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Takes a step towards the abyss",
+      "brave": 1,
+      "scared": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Pulled back by an orangutan",
+      "saved": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Follows an orangutan",
+      "curious": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Ignores Koko's protests",
+      "independent": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Feels pleasantly woozy",
+      "carefree": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Thinks about being in a rehab clinic",
+      "paranoid": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Considers old celebrities",
+      "distracted": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Kicks mushroom heads",
+      "playful": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Questions her own behavior",
+      "self-reflective": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Considers surroundings as hallucinations",
+      "imaginative": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Touches and interacts with surroundings",
+      "curious": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Runs away from spreading colors",
+      "fearful": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Slows pace to listen to forest sounds",
+      "appreciative": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Imitates bush movements",
+      "playful": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Realizes her behavior is not normal",
+      "self-aware": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Stops dancing after hearing a familiar crack",
+      "cautious": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Feels fear and tries to block out nightmare",
+      "anxious": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Runs after Chrissy",
+      "brave": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Tries to locate Chrissy",
+      "determined": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Feels fear and anxiety",
+      "protective": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Screams for Chrissy and the monster",
+      "desperate": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Remembers past events",
+      "traumatized": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Waits for father's reaction",
+      "anxious": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Remembers Chrissy's casket",
+      "guilty": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Interacts with cat Uma",
+      "startled": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Runs from cat",
+      "fearful": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Runs away and inspects scratches",
+      "trait": "adventurous",
+      "Chunk": 37
+    },
+    {
+      "Action": "Sneaks past old people",
+      "trait": "stealthy",
+      "Chunk": 37
+    },
+    {
+      "Action": "Reads letter addressed to her",
+      "trait": "curious",
+      "Chunk": 37
+    },
+    {
+      "Action": "Reads letter and dismisses it as gibberish",
+      "skeptical": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Throws letter into the corner",
+      "disregardful": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Screams and jumps back",
+      "fearful": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Screams in confusion",
+      "confused": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Sits in muddy clothes",
+      "careless": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Mentions Finn's comments",
+      "blunt": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Reads letter with grim expression",
+      "troubled": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Ignores Claudio's offers",
+      "unresponsive": 1,
+      "disengaged": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Slips out of bed silently",
+      "stealthy": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Goes to the beach early",
+      "adventurous": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Considers her surroundings might not be hallucinations",
+      "thoughtful": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Decides to play with Koko",
+      "playful": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Feels apprehensive about the forest but proceeds",
+      "brave": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Opened her senses to the forest",
+      "trait": "attuned to nature",
+      "value": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Tipped an imaginary hat to the toucan",
+      "trait": "playful",
+      "value": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Considered doing something fun with her final hours",
+      "trait": "optimistic",
+      "value": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Scoffed at the idea of visiting a gallery",
+      "trait": "disinterested in art",
+      "value": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Rekindled her love for nature",
+      "trait": "nature-loving",
+      "value": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Jogged and skipped",
+      "trait": "carefree",
+      "value": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Held her breath upon seeing Finn's face morph",
+      "trait": "curious",
+      "value": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Accidentally nudges the orangutan",
+      "careless": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Screams back at Finn",
+      "defensive": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Points into the forest",
+      "impatient": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Snaps at Koko",
+      "irritable": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Kneels by the water and recalls a memory",
+      "reflective": 1,
+      "nostalgic": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Attempts to use a statue to transport back to the forest",
+      "imaginative": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Prefers to spend her last hours playing in the forest",
+      "nostalgic": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Inspects art gallery",
+      "curious": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Slides on floor",
+      "playful": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Shows disinterest in early art",
+      "discerning": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Remembers family documentary nights",
+      "nostalgic": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Desires more multimedia exhibitions",
+      "open-minded": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Critiques video art",
+      "critical": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Thinks about future judgment of her generation",
+      "self-conscious": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Eager to prevent Mel’s video from being the last piece of art she saw",
+      "determined": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Feels emotional looking at Riko's drawing",
+      "sentimental": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Attempts to hide her emotions",
+      "guarded": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Attempts to be sassy with Alamar",
+      "defensive": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Questions the purpose of art therapy",
+      "skeptical": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Follows Alamar to the workshop",
+      "curious": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Follows Alamar",
+      "curious": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Comments on ink remover",
+      "observant": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Scoffs but looks eagerly ahead",
+      "skeptical": 1,
+      "eager": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Stops short at mention of her shelf",
+      "surprised": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Thinks 'How dare this guy?'",
+      "defiant": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Enforces a 'no helping' policy during painting",
+      "independent": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Stares at Alamar in open confrontation",
+      "assertive": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Corrects Alamar absent-mindedly",
+      "detail-oriented": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Struggles to hold on to all the brushes, sponges, and wipes",
+      "determined": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Chooses isolated spot to work",
+      "independent": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Reluctant to participate in challenge",
+      "reluctant": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Plans to paint as a way to elapse",
+      "creative": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Sorts brushes meticulously",
+      "organized": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Rejects Alamar's help",
+      "self-reliant": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Decides to draw something pretty instead of profound",
+      "pragmatic": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Inspects Alamar's pre-mixed colors",
+      "artistic": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Spills paint on pajama pants",
+      "careless": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Feels angry tears",
+      "emotional": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Thinks she is stupid and useless",
+      "self-critical": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Corrects Alamar about apes",
+      "knowledgeable": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Throws palette knife and gesso",
+      "impulsive": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Paints caricature of Alamar",
+      "artistic": 1,
+      "determined": 1,
+      "spiteful": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Steps backwards as Alamar approaches",
+      "cautious": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Rips canvas from easel and walks away",
+      "defiant": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Reflects on past painting session",
+      "reflective": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Speeds up to avoid Alamar",
+      "determined": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Smashes canvas on easel",
+      "rebellious": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Experiences disorientation",
+      "confused": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Sits and watches waves",
+      "contemplative": 1,
+      "Chunk": 68
+    },
+    {
+      "Action": "Thinks about Alamar's reaction",
+      "reflective": 1,
+      "Chunk": 68
+    },
+    {
+      "Action": "Confronts Uma",
+      "courageous": 1,
+      "Chunk": 68
+    },
+    {
+      "Action": "Expresses exhaustion",
+      "weary": 1,
+      "Chunk": 68
+    },
+    {
+      "Action": "Kicks cat",
+      "violent": 1,
+      "remorseful": 1,
+      "Chunk": 69
+    },
+    {
+      "Action": "Runs away from injured cat",
+      "avoidant": 1,
+      "Chunk": 69
+    },
+    {
+      "Action": "Attempts to use defibrillator",
+      "helpful": 1,
+      "skeptical": 1,
+      "Chunk": 69
+    },
+    {
+      "Action": "Considers consequences of negligence",
+      "conscientious": 1,
+      "Chunk": 69
+    },
+    {
+      "Action": "Acknowledges risk of electric shock",
+      "reckless": 1,
+      "Chunk": 69
+    },
+    {
+      "Action": "Saves Claudio's life",
+      "good person": 1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Feels ashamed about her past",
+      "guilt-ridden": 1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Grips tightly to the cart",
+      "anxious": 1,
+      "Chunk": 71
+    },
+    {
+      "Action": "Holds hands over ears",
+      "overwhelmed": 1,
+      "Chunk": 71
+    },
+    {
+      "Action": "Keeps head down and eyes closed",
+      "annoyed": 1,
+      "Chunk": 71
+    },
+    {
+      "Action": "Fans Claudio with a magazine",
+      "caring": 1,
+      "Chunk": 72
+    },
+    {
+      "Action": "Tasked to watch over Claudio",
+      "trustworthy": 1,
+      "Chunk": 73
+    },
+    {
+      "Action": "Offers to get water for Claudio",
+      "caring": 1,
+      "empathetic": 1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Feels pain from Claudio's kind words",
+      "sensitive": 1,
+      "conflicted": 1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Pushes wheelchair into room",
+      "caring": 1,
+      "Chunk": 76
+    },
+    {
+      "Action": "Asks Claudio about his feelings",
+      "concerned": 1,
+      "Chunk": 76
+    },
+    {
+      "Action": "Gently holds Claudio's shoulder",
+      "gentle": 1,
+      "Chunk": 76
+    },
+    {
+      "Action": "Conducts a diagnostic interview",
+      "analytical": 1,
+      "Chunk": 77
+    },
+    {
+      "Action": "Prepares items for Claudio",
+      "considerate": 1,
+      "Chunk": 77
+    },
+    {
+      "Action": "Comments on decorations",
+      "dismissive": 1,
+      "Chunk": 78
+    },
+    {
+      "Action": "Declines food offer",
+      "independent": 1,
+      "Chunk": 78
+    },
+    {
+      "Action": "Smiles sadly",
+      "empathetic": 1,
+      "Chunk": 78
+    },
+    {
+      "Action": "Admires the drink",
+      "appreciative": 1,
+      "Chunk": 79
+    },
+    {
+      "Action": "Drinks coffee despite parental disapproval",
+      "rebellious": 1,
+      "Chunk": 79
+    },
+    {
+      "Action": "Enjoys the drink",
+      "open-minded": 1,
+      "Chunk": 79
+    },
+    {
+      "Action": "Refuses to write a poem about her dead sister",
+      "resilient": 1,
+      "Chunk": 80
+    },
+    {
+      "Action": "Flares nostrils and grinds teeth",
+      "angry": 1,
+      "Chunk": 80
+    },
+    {
+      "Action": "Claps and supports Helena",
+      "supportive": 1,
+      "Chunk": 81
+    },
+    {
+      "Action": "Claps loudly for Riko",
+      "supportive": 1,
+      "encouraging": 1,
+      "Chunk": 83
+    },
+    {
+      "Action": "Supports Claudio",
+      "caring": 1,
+      "empathetic": 1,
+      "Chunk": 84
+    },
+    {
+      "Action": "Pushes Claudio's wheelchair to safety",
+      "trait": "protective",
+      "Chunk": 86
+    },
+    {
+      "Action": "Pushes wheelchair and barricades door",
+      "protective": 1,
+      "Chunk": 87
+    },
+    {
+      "Action": "Whispers to Claudio to think of something nice",
+      "calming": 1,
+      "Chunk": 87
+    },
+    {
+      "Action": "Hugged Claudio",
+      "caring": 1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Keeps her eyes on Claudio",
+      "loyal": 1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Realizes Finn would stab his finger into her brain",
+      "perceptive": 1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Closes her eyes and holds her breath",
+      "resigned": 1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Sinks to her knees",
+      "distressed": 1,
+      "Chunk": 90
+    },
+    {
+      "Action": "Pushes Claudio through fire",
+      "brave": 1,
+      "determined": 1,
+      "selfless": 1,
+      "Chunk": 91
+    },
+    {
+      "Action": "Crawls to Claudio despite being badly burned",
+      "resilient": 1,
+      "Chunk": 92
+    },
+    {
+      "Action": "Hopes Claudio is still alive",
+      "caring": 1,
+      "Chunk": 92
+    },
+    {
+      "Action": "Grimaces and says nothing about parents",
+      "trait": "resentful",
+      "value": 1,
+      "Chunk": 93
+    },
+    {
+      "Action": "Blames herself for sister's death",
+      "trait": "guilt-ridden",
+      "value": 1,
+      "Chunk": 93
+    },
+    {
+      "Action": "Decides to go back with Claudio",
+      "trait": "compliant",
+      "value": 1,
+      "Chunk": 93
+    },
+    {
+      "Action": "Wakes up in a puddle of paint and vomit",
+      "trait": "disoriented",
+      "value": 1,
+      "Chunk": 93
+    },
+    {
+      "Action": "Remembers a tunnel and bright light",
+      "trait": "reflective",
+      "value": 1,
+      "Chunk": 93
+    },
+    {
+      "Action": "Cleans up paint mess",
+      "responsible": 1,
+      "Chunk": 94
+    },
+    {
+      "Action": "Hangs painting of family",
+      "family-oriented": 1,
+      "Chunk": 94
+    }
+  ],
+  "Uma": [
+    {
+      "Action": "Hisses at Maya",
+      "territorial": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Hisses and blocks Maya",
+      "aggressive": 1,
+      "Chunk": 68
+    },
+    {
+      "Action": "Ignores the drug-infused escapade",
+      "trait": "indifferent",
+      "value": 1,
+      "Chunk": 93
+    }
+  ],
+  "Finn": [
+    {
+      "Action": "Observes and comments on Claudio's behavior",
+      "observant": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Mimics Claudio's appearance",
+      "playful": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Analyzes Claudio's neuroticism",
+      "analytical": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Explains diagnosis",
+      "analytical": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Presents evidence",
+      "methodical": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Walks in semi-circle",
+      "dramatic": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Admits not being a human psychologist",
+      "honest": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Forgets to introduce himself",
+      "forgetful": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Steps out of Claudio's way with a concerned look",
+      "considerate": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Develops a new psychological theory",
+      "innovative": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Keeps his promise to only speak when asked",
+      "respectful": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Engages in yes-or-no game",
+      "cooperative": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Explains Claudio's condition",
+      "informative": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Avoids discussing medical details",
+      "cautious": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Explains the concept of the island",
+      "knowledgeable": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Dismisses magic in favor of science",
+      "rational": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Expresses frustration with Claudio's misunderstanding",
+      "impatient": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Explains the concept of elapsing",
+      "informative": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Encourages Claudio to walk faster",
+      "motivational": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Mentions Professor Hartmann",
+      "mysterious": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Transforms and speaks in a dissonant voice",
+      "supernatural": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Offers psychological transformations",
+      "ambitious": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Claims to be a better psychologist than Freud",
+      "overconfident": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Modifies Claudio's body without consent",
+      "manipulative": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Encourages Claudio to feel proud of changes",
+      "persuasive": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Questions Claudio's feelings",
+      "inquisitive": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Introduces Helena",
+      "facilitator": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Mentions nursing situations as opportunities for romantic attraction",
+      "romantic": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Described as anti-magic and focused on psychology",
+      "pragmatic": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Explains need for randomization",
+      "scientific": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Organized dinner competition",
+      "leader": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Announces Simone's awakening",
+      "enthusiastic": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Performs celebratory pirouette",
+      "expressive": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Explains psychology protocol",
+      "knowledgeable": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Confuses BCT with Exposure Therapy",
+      "confused": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Improves therapy",
+      "innovative": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Talks about therapy and competition",
+      "verbose": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Studies residents' reactions",
+      "observant": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Welcomes residents to Reanimation Island",
+      "trait": "mysterious",
+      "Chunk": 37
+    },
+    {
+      "Action": "Transforms face into Maya's",
+      "mysterious": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Expresses concern about Maya's aggression",
+      "cautious": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Nods reluctantly to look for Riko",
+      "trait": "reluctant",
+      "Chunk": 39
+    },
+    {
+      "Action": "Insists on room assignments",
+      "trait": "authoritative",
+      "Chunk": 39
+    },
+    {
+      "Action": "Grows in size and becomes angry",
+      "trait": "intimidating",
+      "Chunk": 39
+    },
+    {
+      "Action": "Shrinks back to normal size",
+      "trait": "composed",
+      "Chunk": 39
+    },
+    {
+      "Action": "Makes negative comments about Claudio",
+      "judgmental": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Face morphed between his and the girl's image",
+      "trait": "mysterious",
+      "value": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Shook his head as if angry with himself",
+      "trait": "self-critical",
+      "value": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Continues monologue in an Asian language",
+      "oblivious": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Accuses Maya of distraction",
+      "blaming": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Acknowledges alternative explanation",
+      "open-minded": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Watches sparrows fly after Riko",
+      "indifferent": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Hastens up the slope to find Riko",
+      "determined": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Storms into the room",
+      "assertive": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Winks and claps hands",
+      "confident": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Scowls and admits psychology is difficult",
+      "frustrated": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Shouted back at Claudio",
+      "assertive": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Explained behavioral observations",
+      "scientific": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Pointed at his clipboard",
+      "methodical": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Uses magic in the lab",
+      "unconventional": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Silences Helena",
+      "controlling": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Acknowledges the importance of listening",
+      "self-aware": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Made a note on clipboard",
+      "trait": "observant",
+      "value": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Shouted",
+      "trait": "impatient",
+      "value": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Dropped clipboard and crawled",
+      "trait": "clumsy",
+      "value": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Administers shocks",
+      "inventive": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Creates time delay",
+      "scientific": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Ignores Claudio's suggestion",
+      "stubborn": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Discusses the importance of death in psychological growth",
+      "philosophical": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Plans to administer real electric shocks",
+      "unethical": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Explains experiment inspired by Milgram",
+      "knowledgeable": 1,
+      "manipulative": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Adds doctor title to name tag",
+      "pretentious": 1,
+      "seeks authority": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Explains experiment",
+      "authoritative": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Restricts communication",
+      "controlling": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Removes mouths",
+      "controlling": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Explains the challenge",
+      "authoritative": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Expresses frustration",
+      "frustrated": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Attempts to maintain control",
+      "determined": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Designs challenge to test emotional manipulation",
+      "trait": "manipulative",
+      "value": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Forgets part of the challenge",
+      "trait": "forgetful",
+      "value": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Helps Helena sit up",
+      "supportive": 1,
+      "Chunk": 67
+    },
+    {
+      "Action": "Analyzes the situation and explains it",
+      "analytical": 1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Attempts to clarify the situation",
+      "frustrated": 1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Yells during the chaos",
+      "panicked": 1,
+      "Chunk": 72
+    },
+    {
+      "Action": "Operates anti-religion coaster",
+      "scientific": 1,
+      "Chunk": 73
+    },
+    {
+      "Action": "Remains silent after being confronted",
+      "evasive": 1,
+      "Chunk": 73
+    },
+    {
+      "Action": "Helps an old lady",
+      "helpful": 1,
+      "attentive": 1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Organizes a scientific talent show",
+      "creative": 1,
+      "Chunk": 80
+    },
+    {
+      "Action": "Wears a lab coat with stars and a top hat",
+      "eccentric": 1,
+      "Chunk": 80
+    },
+    {
+      "Action": "Speaks with playfulness",
+      "charismatic": 1,
+      "Chunk": 80
+    },
+    {
+      "Action": "Comments on psychological consent",
+      "sarcastic": 1,
+      "Chunk": 80
+    },
+    {
+      "Action": "Forces a smile",
+      "insecure": 1,
+      "Chunk": 80
+    },
+    {
+      "Action": "Overshares private information",
+      "inappropriate": 1,
+      "Chunk": 82
+    },
+    {
+      "Action": "Reads academic papers",
+      "intellectual": 1,
+      "Chunk": 82
+    },
+    {
+      "Action": "Questions reliability of psychological literature",
+      "skeptical": 1,
+      "Chunk": 82
+    },
+    {
+      "Action": "Encourages audience to sing along",
+      "humorous": 1,
+      "misunderstanding": 1,
+      "Chunk": 83
+    },
+    {
+      "Action": "Encourages Riko",
+      "supportive": 1,
+      "hopeful": 1,
+      "Chunk": 84
+    },
+    {
+      "Action": "Transforms and attacks audience",
+      "trait": "violent",
+      "Chunk": 86
+    },
+    {
+      "Action": "Attacks resident and threatens Claudio and Maya",
+      "violent": 1,
+      "Chunk": 87
+    },
+    {
+      "Action": "Smashes the door open and crushes the table",
+      "aggressive": 1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Grabs Maya by the ankle and lifts her into the air",
+      "violent": 1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Grins menacingly",
+      "sadistic": 1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Laughs and pierces his finger through Koko's eye",
+      "cruel": 1,
+      "Chunk": 89
+    }
+  ],
+  "Helena": [
+    {
+      "Action": "Greets Claudio and Finn",
+      "friendly": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Comments on Claudio's appearance",
+      "observant": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Lays arm around Claudio's shoulder",
+      "friendly": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Laughs about Finn's comments",
+      "humorous": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Inquires about Claudio's death",
+      "nonchalant": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Laughs graciously",
+      "good-natured": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Prepares for dinner challenge",
+      "competitive": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Wears tracksuit",
+      "athletic": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Bakes for dish",
+      "culinary skilled": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Interacts with elderly woman",
+      "communicative": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Chuckles and lets Mel pass",
+      "easygoing": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Punches Mel in the shoulder",
+      "playful": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Agrees to be in-house medic",
+      "helpful": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Sprays disinfectant on Claudio's thumb",
+      "caring": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Makes a joke about being an ER surgeon",
+      "humorous": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Wraps a Band-Aid around Claudio’s thumb",
+      "helpful": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Jokes about first aid and Finn's skills",
+      "humorous": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Smiles and laughs",
+      "friendly": 1,
+      "deceptive": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Making a pie",
+      "sporty": 1,
+      "unexpected": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Caressed girl's hair",
+      "caring": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Jumps from her seat",
+      "excitable": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Uses questionable language",
+      "careless": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Interjects softly",
+      "diplomatic": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Exchanges bowls",
+      "sneaky": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Admits to messing up seasoning",
+      "humble": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Encourages Riko to try the soup",
+      "manipulative": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Responds casually to criticism",
+      "nonchalant": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Guides Riko from table to table",
+      "nurturing": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Rushes to help Mel",
+      "caring": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Announces Mel's death",
+      "trait": "pragmatic",
+      "Chunk": 37
+    },
+    {
+      "Action": "Intervenes between Maya and Finn",
+      "mediating": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Offers to take over the briefing",
+      "assertive": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Expresses concern about room assignments",
+      "trait": "protective",
+      "Chunk": 39
+    },
+    {
+      "Action": "Suggests a solution to calm the situation",
+      "trait": "diplomatic",
+      "Chunk": 39
+    },
+    {
+      "Action": "Conducts a background check on Claudio",
+      "cautious": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Cheerfully informs Claudio of the background check results",
+      "straightforward": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Dismisses Claudio's concern about Riko",
+      "dismissive": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Disappears into her room",
+      "mysterious": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Lifts weights",
+      "strong": 1,
+      "determined": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Glares at Finn and crosses arms",
+      "impatient": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Softens expression and reassures Finn",
+      "supportive": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Offers hand to Claudio",
+      "helpful": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Called Claudio 'vanilla'",
+      "blunt": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Looked at Finn with amusement",
+      "amused": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Smiled and put elbow on Claudio's shoulders",
+      "supportive": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Questions the challenge",
+      "cautious": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Tries to communicate despite being silenced",
+      "persistent": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Nodded but cheek muscles squeezed",
+      "trait": "frustrated",
+      "value": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Launched silent tirade",
+      "trait": "angry",
+      "value": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Gestured angrily",
+      "trait": "aggressive",
+      "value": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Shows fear",
+      "fearful": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Slams her fist onto the table in response to Finn's plan",
+      "disapproving": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Listens to Finn's explanation",
+      "attentive": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Squirmed and tried to speak",
+      "uncomfortable": 1,
+      "silenced": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Shows physical reaction to shock",
+      "vulnerable": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Attempts nonverbal communication",
+      "resourceful": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Mouths a word",
+      "communicative": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Communicates nonverbally with Claudio",
+      "trait": "intuitive",
+      "value": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Pushes button",
+      "trait": "pragmatic",
+      "value": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Gives unclear instructions",
+      "ambiguous": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Urges Claudio to act",
+      "desperate": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Panicked expression",
+      "fearful": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Messed up entry to help Riko",
+      "selfless": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Drops under the table",
+      "injured": 1,
+      "Chunk": 67
+    },
+    {
+      "Action": "Selects power level two",
+      "strategic": 1,
+      "Chunk": 67
+    },
+    {
+      "Action": "Avoids eye contact with Claudio",
+      "guilty": 1,
+      "Chunk": 67
+    },
+    {
+      "Action": "Forced to shock Claudio",
+      "reluctant": 1,
+      "Chunk": 68
+    },
+    {
+      "Action": "Bandaged Claudio’s legs",
+      "caring": 1,
+      "Chunk": 73
+    },
+    {
+      "Action": "Told Maya to watch over Claudio",
+      "responsible": 1,
+      "Chunk": 73
+    },
+    {
+      "Action": "Jogged down the corridor",
+      "determined": 1,
+      "Chunk": 73
+    },
+    {
+      "Action": "Restricts blood flow with cable",
+      "determined": 1,
+      "self-disciplined": 1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Encourages participation in talent show",
+      "supportive": 1,
+      "Chunk": 77
+    },
+    {
+      "Action": "Apologizes for causing pain",
+      "empathetic": 1,
+      "Chunk": 77
+    },
+    {
+      "Action": "Performs on stage in a bikini",
+      "confident": 1,
+      "Chunk": 81
+    },
+    {
+      "Action": "Flexes muscles and poses",
+      "sporty": 1,
+      "Chunk": 81
+    },
+    {
+      "Action": "Interacts with elderly woman",
+      "approachable": 1,
+      "Chunk": 81
+    },
+    {
+      "Action": "Cries joyfully after performance",
+      "emotional": 1,
+      "Chunk": 81
+    },
+    {
+      "Action": "Ignores papers on the wall",
+      "focused": 1,
+      "Chunk": 81
+    },
+    {
+      "Action": "Arranges dumbbells and plates",
+      "organized": 1,
+      "Chunk": 81
+    },
+    {
+      "Action": "Manages weightlifting equipment and exercises",
+      "sporty": 1,
+      "Chunk": 82
+    },
+    {
+      "Action": "Disappears after alarm rings",
+      "mysterious": 1,
+      "Chunk": 82
+    },
+    {
+      "Action": "Tries to identify a man",
+      "compliant": 1,
+      "Chunk": 85
+    },
+    {
+      "Action": "Struggles to speak",
+      "determined": 1,
+      "Chunk": 85
+    },
+    {
+      "Action": "Wished people would ask before touching her",
+      "trait": "desires autonomy",
+      "Chunk": 86
+    },
+    {
+      "Action": "Keeps her eyes on the other man, away from her own body",
+      "detached": 1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Mumbles, unable to shake the drowsiness",
+      "disoriented": 1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Refuses to give subject's name",
+      "evasive": 1,
+      "Chunk": 90
+    },
+    {
+      "Action": "Claims to have met subject on the island",
+      "mysterious": 1,
+      "Chunk": 90
+    },
+    {
+      "Action": "Sits up and savors feeling",
+      "reflective": 1,
+      "aware": 1,
+      "Chunk": 91
+    },
+    {
+      "Action": "Runs barefoot on the beach towards the fire",
+      "brave": 1,
+      "Chunk": 92
+    },
+    {
+      "Action": "Effortlessly outruns black smog",
+      "trait": "athletic",
+      "value": 1,
+      "Chunk": 93
+    },
+    {
+      "Action": "Witnesses glistening white lights",
+      "trait": "observant",
+      "value": 1,
+      "Chunk": 93
+    },
+    {
+      "Action": "Sits by Claudio's side",
+      "loyal": 1,
+      "Chunk": 94
+    },
+    {
+      "Action": "Reflects on Claudio's actions",
+      "thoughtful": 1,
+      "Chunk": 94
+    },
+    {
+      "Action": "Attempts to move Claudio",
+      "determined": 1,
+      "Chunk": 94
+    }
+  ],
+  "Boy in medical coat": [
+    {
+      "Action": "Apologizes for being late due to accompanying an important resident",
+      "responsible": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Mentions using human legs instead of magic",
+      "magical": 1,
+      "humble": 1,
+      "Chunk": 19
+    }
+  ],
+  "Boy": [
+    {
+      "Action": "Cries about aggression",
+      "perceptive": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Claims he can use magic",
+      "mysterious": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Tries to reason with Maya",
+      "persistent": 1,
+      "Chunk": 20
+    }
+  ],
+  "Mel": [
+    {
+      "Action": "Attempts lotus position",
+      "meditative": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Joins dinner competition",
+      "social": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Wears sports jersey",
+      "sporty": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Winks at Helena",
+      "flirtatious": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Inspects sweat stains on Claudio's pants",
+      "brazen": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Sneers at Claudio's reaction",
+      "mocking": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Scoffs at Claudio's comments",
+      "impatient": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Exposes truth about pie",
+      "skeptical": 1,
+      "blunt": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Drums cutlery impatiently",
+      "impatient": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Slaps Claudio's shoulder too hard",
+      "aggressive": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Apologizes for earlier behavior",
+      "contrite": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Laughed at Claudio's figure",
+      "insensitive": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Roared about his diet",
+      "boastful": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Expresses confidence in Simone",
+      "supportive": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Interrupts",
+      "impatient": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Complains about the soup",
+      "outspoken": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Complains about competition",
+      "frustrated": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Convulses",
+      "distressed": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Elapses",
+      "trait": "deceased",
+      "Chunk": 37
+    }
+  ],
+  "Koko": [
+    {
+      "Action": "Follows Maya and disapproves of her behavior",
+      "disapproving": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Anxiously ducks and peers around",
+      "anxious": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Shrieks and runs off the path",
+      "fearful": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Waves something shiny to get attention",
+      "attention-seeking": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Expects Maya to chase him",
+      "playful": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Screamed and waved a shiny object",
+      "trait": "energetic",
+      "value": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Tried to reinitiate the chase",
+      "trait": "playful",
+      "value": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Screams and springs into the air",
+      "easily startled": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Throws cherry blossoms at Finn",
+      "frustrated": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Throws an object into the water",
+      "playful": 1,
+      "mischievous": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Charges at Finn, striking his chest and face",
+      "protective": 1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Sinks his teeth into Finn’s arm",
+      "brave": 1,
+      "Chunk": 89
+    }
+  ],
+  "Chrissy": [
+    {
+      "Action": "Runs away",
+      "fearful": 1,
+      "Chunk": 29
+    }
+  ],
+  "Bruiser": [
+    {
+      "Action": "Chases Chrissy",
+      "predatory": 1,
+      "Chunk": 29
+    }
+  ],
+  "Little girl": [
+    {
+      "Action": "Ran with vigor",
+      "energetic": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Lay head in Helena's lap",
+      "trusting": 1,
+      "Chunk": 32
+    }
+  ],
+  "Riko": [
+    {
+      "Action": "Tries the soup and nods happily",
+      "trusting": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Serves stew",
+      "enthusiastic": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Focuses on receiving compliments",
+      "attention-seeking": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Sings a quiet note",
+      "introverted": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Participates in talent show",
+      "shy": 1,
+      "performance anxiety": 1,
+      "social anxiety": 1,
+      "lack of confidence": 1,
+      "Chunk": 83
+    },
+    {
+      "Action": "Sings with conviction",
+      "talented": 1,
+      "emotional": 1,
+      "Chunk": 84
+    }
+  ],
+  "Alamar": [
+    {
+      "Action": "Introduces himself calmly and explains his role",
+      "composed": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Observes Maya with friendly detachment",
+      "observant": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Responds politely to Maya's sass",
+      "polite": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Explains the purpose of the workshop",
+      "knowledgeable": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Laughs at Maya's joke",
+      "good-natured": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Expresses pain at the renaming of his workshop",
+      "sensitive": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Walks unnervingly slow",
+      "deliberate": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Proud of calligraphy section",
+      "proud": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Provides tools for residents",
+      "accommodating": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Takes blowtorch from Maya",
+      "cautious": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Smiles at Maya",
+      "confident": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Respects Maya's inclination towards oil painting",
+      "considerate": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Pre-assembles Maya's favorite colors",
+      "thoughtful": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Invites Maya to follow him with a smile",
+      "friendly": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Picks up a palette knife for Maya",
+      "helpful": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Offers assistance and shares experience",
+      "helpful": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Places bell for Maya to call him",
+      "considerate": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Retreats with a bow",
+      "respectful": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Pre-mixes colors",
+      "helpful": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Compliments Maya's artistry",
+      "encouraging": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Apologizes for mistakes",
+      "polite": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Offers support for artists",
+      "supportive": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Apologizes and flees",
+      "apologetic": 1,
+      "evasive": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Shows pity towards Maya's painting",
+      "empathetic": 1,
+      "condescending": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Critiques Maya's painting",
+      "critical": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Apologizes and compliments Maya's technique",
+      "contrite": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Pleads with Maya to reflect on her work",
+      "persistent": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Speaks with honesty and authenticity",
+      "honest": 1,
+      "authentic": 1,
+      "Chunk": 62
+    }
+  ],
+  "Elderly Woman": [
+    {
+      "Action": "Touches Helena's biceps",
+      "admiring": 1,
+      "Chunk": 81
+    },
+    {
+      "Action": "Supervises the handling of her cake",
+      "authoritative": 1,
+      "Chunk": 88
+    }
+  ],
+  "Elderly lady": [
+    {
+      "Action": "Encourages Riko to come forward",
+      "supportive": 1,
+      "encouraging": 1,
+      "Chunk": 83
+    }
+  ],
+  "Assistant": [
+    {
+      "Action": "Asks about Helena's response",
+      "curious": 1,
+      "Chunk": 85
+    }
+  ],
+  "Unidentified Man": [
+    {
+      "Action": "Wears a suit for procedure",
+      "meticulous": 1,
+      "Chunk": 85
+    }
+  ],
+  "Professor Kulling": [
+    {
+      "Action": "Instructs assistant to roll Helena",
+      "trait": "authoritative",
+      "Chunk": 86
+    }
+  ],
+  "Claudio's Mother": [
+    {
+      "Action": "Joins Claudio on the balcony and smokes",
+      "contemplative": 1,
+      "Chunk": 88
+    }
+  ],
+  "Baker's Son": [
+    {
+      "Action": "Carries cakes and interacts with the crowd",
+      "sociable": 1,
+      "Chunk": 88
+    }
+  ],
+  "Neighbor": [
+    {
+      "Action": "Applauds and cheers from the balcony",
+      "supportive": 1,
+      "Chunk": 88
+    }
+  ],
+  "Giant Boy": [
+    {
+      "Action": "Performs lobotomy on monkey",
+      "experimental": 1,
+      "Chunk": 90
+    },
+    {
+      "Action": "Questions reality of afterlife",
+      "skeptical": 1,
+      "Chunk": 90
+    },
+    {
+      "Action": "Sets doorframe on fire",
+      "destructive": 1,
+      "Chunk": 90
+    },
+    {
+      "Action": "Considers existence as a mental construct",
+      "philosophical": 1,
+      "Chunk": 90
+    }
+  ],
+  "Uma (the cat)": [
+    {
+      "Action": "Jumps onto Claudio's chest and meows",
+      "persistent": 1,
+      "Chunk": 92
+    }
+  ]
+}

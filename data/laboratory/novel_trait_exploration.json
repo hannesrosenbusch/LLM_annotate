@@ -1,0 +1,1498 @@
+{
+  "Prof Hartmann": [
+    {
+      "Action": "Ponders the behavior of a student in Mrs. Atkinson-Debrov’s office",
+      "Inferred traits": [
+        "thoughtful",
+        "observant"
+      ],
+      "Chunk": 7
+    },
+    {
+      "Action": "Reviews the curriculum of the parapsychology major",
+      "Inferred traits": [
+        "diligent",
+        "intellectually curious"
+      ],
+      "Chunk": 7
+    },
+    {
+      "Action": "Considers himself an expert on parapsychology",
+      "Inferred traits": [
+        "confident",
+        "knowledgeable"
+      ],
+      "Chunk": 7
+    },
+    {
+      "Action": "Critiques the behavior of students on campus",
+      "Inferred traits": [
+        "critical",
+        "discerning"
+      ],
+      "Chunk": 7
+    },
+    {
+      "Action": "Reflects on the need for revisions in the university's selection procedure",
+      "Inferred traits": [
+        "insightful",
+        "proactive"
+      ],
+      "Chunk": 7
+    },
+    {
+      "Action": "Regrets the rejection of a promising student",
+      "Inferred traits": [
+        "empathetic",
+        "reflective"
+      ],
+      "Chunk": 7
+    },
+    {
+      "Action": "Wallows in the realization of lost talent",
+      "Inferred traits": [
+        "melancholic",
+        "self-aware"
+      ],
+      "Chunk": 7
+    },
+    {
+      "Action": "Polishes the marble floors",
+      "Inferred traits": [
+        "meticulous",
+        "dedicated",
+        "prideful"
+      ],
+      "Chunk": 8
+    },
+    {
+      "Action": "Removes cheap-looking books from the library shelves",
+      "Inferred traits": [
+        "discerning",
+        "value-driven",
+        "aesthetic"
+      ],
+      "Chunk": 8
+    },
+    {
+      "Action": "Discourages loud sociability among students",
+      "Inferred traits": [
+        "authoritative",
+        "traditional",
+        "serious"
+      ],
+      "Chunk": 8
+    },
+    {
+      "Action": "Sets high expectations for academic excellence",
+      "Inferred traits": [
+        "ambitious",
+        "demanding",
+        "motivational"
+      ],
+      "Chunk": 8
+    },
+    {
+      "Action": "Provides preferential treatment to well-dressed, courteous students",
+      "Inferred traits": [
+        "biased",
+        "favoritism",
+        "supportive"
+      ],
+      "Chunk": 8
+    },
+    {
+      "Action": "Allows himself to linger when seeing a specific student",
+      "Inferred traits": [
+        "curious",
+        "reflective",
+        "appreciative"
+      ],
+      "Chunk": 8
+    },
+    {
+      "Action": "Wore jeans and a flannel shirt for her intellectual labor",
+      "Inferred traits": [
+        "casual",
+        "unconventional",
+        "nonconformist"
+      ],
+      "Chunk": 12
+    },
+    {
+      "Action": "Held oily work gloves in one hand",
+      "Inferred traits": [
+        "practical",
+        "hands-on",
+        "possibly unrefined"
+      ],
+      "Chunk": 12
+    },
+    {
+      "Action": "Shook your hand and pulled you into the room",
+      "Inferred traits": [
+        "friendly",
+        "assertive",
+        "welcoming"
+      ],
+      "Chunk": 12
+    },
+    {
+      "Action": "Offered coffee",
+      "Inferred traits": [
+        "hospitable",
+        "considerate",
+        "informal"
+      ],
+      "Chunk": 12
+    },
+    {
+      "Action": "Misremembered your name",
+      "Inferred traits": [
+        "absent-minded",
+        "disorganized",
+        "possibly overwhelmed"
+      ],
+      "Chunk": 12
+    },
+    {
+      "Action": "Displayed a rushed demeanor",
+      "Inferred traits": [
+        "impatient",
+        "busy",
+        "possibly stressed"
+      ],
+      "Chunk": 12
+    },
+    {
+      "Action": "Gave a dismissive wave regarding the books in the library",
+      "Inferred traits": [
+        "dismissive",
+        "unconcerned",
+        "pragmatic"
+      ],
+      "Chunk": 14
+    },
+    {
+      "Action": "Slapped the top of a computer to emphasize its importance",
+      "Inferred traits": [
+        "impatient",
+        "assertive",
+        "technologically inclined"
+      ],
+      "Chunk": 14
+    },
+    {
+      "Action": "Called her own textbook 'trash' and dismissed the field of parapsychology",
+      "Inferred traits": [
+        "cynical",
+        "critical",
+        "intellectually confident"
+      ],
+      "Chunk": 14
+    },
+    {
+      "Action": "Acknowledged the applicant's punctuality and preparation for the meeting",
+      "Inferred traits": [
+        "appreciative",
+        "observant",
+        "professional"
+      ],
+      "Chunk": 14
+    },
+    {
+      "Action": "Expressed interest in hiring the applicant based on their qualifications",
+      "Inferred traits": [
+        "decisive",
+        "supportive",
+        "mentor-like"
+      ],
+      "Chunk": 14
+    },
+    {
+      "Action": "Gives a task to find and fill out a contract form for research assistants",
+      "Inferred traits": [
+        "authoritative",
+        "organized",
+        "supportive"
+      ],
+      "Chunk": 15
+    },
+    {
+      "Action": "Responds with a brief smile after the student shows politeness",
+      "Inferred traits": [
+        "approachable",
+        "encouraging"
+      ],
+      "Chunk": 15
+    },
+    {
+      "Action": "Leans back in her chair and taps a pen on her armrest",
+      "Inferred traits": [
+        "thoughtful",
+        "contemplative"
+      ],
+      "Chunk": 15
+    },
+    {
+      "Action": "Turns attention to her computer screen after giving a task",
+      "Inferred traits": [
+        "focused",
+        "professional"
+      ],
+      "Chunk": 15
+    },
+    {
+      "Action": "Inquires about the student's course load and availability",
+      "Inferred traits": [
+        "considerate",
+        "pragmatic"
+      ],
+      "Chunk": 15
+    },
+    {
+      "Action": "Notices the student hostel and its impact on campus ambiance",
+      "Inferred traits": [
+        "observant",
+        "critical"
+      ],
+      "Chunk": 18
+    },
+    {
+      "Action": "Considers using his influence to decommission the hostel but decides against it",
+      "Inferred traits": [
+        "pragmatic",
+        "strategic"
+      ],
+      "Chunk": 18
+    },
+    {
+      "Action": "Compares the hostel to a sugar stick for distracting bothersome insects",
+      "Inferred traits": [
+        "metaphorical thinker",
+        "dismissive"
+      ],
+      "Chunk": 18
+    },
+    {
+      "Action": "Approaches Laura with a cheerful demeanor",
+      "Inferred traits": [
+        "friendly",
+        "approachable"
+      ],
+      "Chunk": 18
+    },
+    {
+      "Action": "Compliments Laura on her evening attire",
+      "Inferred traits": [
+        "polite",
+        "thoughtful"
+      ],
+      "Chunk": 18
+    },
+    {
+      "Action": "Expresses surprise and interest in Laura's dice rolls",
+      "Inferred traits": [
+        "curious",
+        "engaging"
+      ],
+      "Chunk": 18
+    },
+    {
+      "Action": "Maintains a cheerful attitude despite Laura's distraction",
+      "Inferred traits": [
+        "resilient",
+        "optimistic"
+      ],
+      "Chunk": 18
+    },
+    {
+      "Action": "Encourages Laura to accept her supervisor despite concerns",
+      "Inferred traits": [
+        "supportive",
+        "pragmatic",
+        "encouraging"
+      ],
+      "Chunk": 21
+    },
+    {
+      "Action": "Mentions the importance of adversarial collaboration in science",
+      "Inferred traits": [
+        "knowledgeable",
+        "insightful",
+        "scientifically minded"
+      ],
+      "Chunk": 21
+    },
+    {
+      "Action": "Expresses a desire for Laura to join the research team",
+      "Inferred traits": [
+        "inclusive",
+        "team-oriented",
+        "enthusiastic"
+      ],
+      "Chunk": 21
+    },
+    {
+      "Action": "Wipes the floor next to Laura and sits close to her",
+      "Inferred traits": [
+        "friendly",
+        "approachable",
+        "affectionate"
+      ],
+      "Chunk": 21
+    },
+    {
+      "Action": "Acknowledges Laura's observation about his attractiveness",
+      "Inferred traits": [
+        "self-aware",
+        "humorous",
+        "charming"
+      ],
+      "Chunk": 21
+    },
+    {
+      "Action": "Acknowledges the renovations and the spacesuit",
+      "Inferred traits": [
+        "knowledgeable",
+        "proud"
+      ],
+      "Chunk": 25
+    },
+    {
+      "Action": "Places cups of coffee in front of the students",
+      "Inferred traits": [
+        "thoughtful",
+        "considerate"
+      ],
+      "Chunk": 25
+    },
+    {
+      "Action": "Initiates the first team meeting",
+      "Inferred traits": [
+        "organized",
+        "leadership"
+      ],
+      "Chunk": 25
+    },
+    {
+      "Action": "Smiles awkwardly at the mention of the graduation ball",
+      "Inferred traits": [
+        "socially awkward",
+        "supportive"
+      ],
+      "Chunk": 25
+    },
+    {
+      "Action": "Switches on her computer and pulls up an agenda",
+      "Inferred traits": [
+        "professional",
+        "focused"
+      ],
+      "Chunk": 25
+    },
+    {
+      "Action": "Grabs the contract, signs it, and hands it back",
+      "Inferred traits": [
+        "efficient",
+        "decisive"
+      ],
+      "Chunk": 25
+    },
+    {
+      "Action": "Redirects the conversation back to Laura's PhD discussion",
+      "Inferred traits": [
+        "attentive",
+        "prioritizing"
+      ],
+      "Chunk": 25
+    },
+    {
+      "Action": "Nods slowly in response to Laura's proposal",
+      "Inferred traits": [
+        "open-minded",
+        "curious"
+      ],
+      "Chunk": 26
+    },
+    {
+      "Action": "Expresses interest in the topic of research methods in parapsychology",
+      "Inferred traits": [
+        "intellectually engaged",
+        "supportive"
+      ],
+      "Chunk": 26
+    },
+    {
+      "Action": "Reacts with disgust to the mention of psychokinesis",
+      "Inferred traits": [
+        "skeptical",
+        "critical"
+      ],
+      "Chunk": 26
+    },
+    {
+      "Action": "Frowns at Laura's extortion",
+      "Inferred traits": [
+        "disapproving",
+        "ethical"
+      ],
+      "Chunk": 26
+    },
+    {
+      "Action": "Maintains a stern expression when faced with vague arguments",
+      "Inferred traits": [
+        "serious",
+        "demanding clarity"
+      ],
+      "Chunk": 26
+    },
+    {
+      "Action": "Stared thoughtfully out of the window",
+      "Inferred traits": [
+        "reflective",
+        "contemplative"
+      ],
+      "Chunk": 27
+    },
+    {
+      "Action": "Cleared her throat and pointed her pen at Laura",
+      "Inferred traits": [
+        "authoritative",
+        "engaged"
+      ],
+      "Chunk": 27
+    },
+    {
+      "Action": "Sounded fairly impressed",
+      "Inferred traits": [
+        "supportive",
+        "encouraging"
+      ],
+      "Chunk": 27
+    },
+    {
+      "Action": "Checked the modern watch on her wrist",
+      "Inferred traits": [
+        "time-conscious",
+        "practical"
+      ],
+      "Chunk": 27
+    },
+    {
+      "Action": "Acknowledged Laura's proposal positively",
+      "Inferred traits": [
+        "open-minded",
+        "collaborative"
+      ],
+      "Chunk": 27
+    },
+    {
+      "Action": "Proposes to combine weekly meetings for more lab time",
+      "Inferred traits": [
+        "collaborative",
+        "practical"
+      ],
+      "Chunk": 28
+    },
+    {
+      "Action": "Nods and waves her hand dismissively when Laura expresses concern",
+      "Inferred traits": [
+        "confident",
+        "assertive"
+      ],
+      "Chunk": 28
+    },
+    {
+      "Action": "Merges calendar boxes and titles it 'Students'",
+      "Inferred traits": [
+        "organized",
+        "efficient"
+      ],
+      "Chunk": 28
+    },
+    {
+      "Action": "Requests signatures for a Non-Disclosure Agreement",
+      "Inferred traits": [
+        "secretive",
+        "cautious"
+      ],
+      "Chunk": 28
+    },
+    {
+      "Action": "Smiles while comparing herself to gargoyles",
+      "Inferred traits": [
+        "self-aware",
+        "humorous"
+      ],
+      "Chunk": 28
+    },
+    {
+      "Action": "Encourages curiosity by showing inventions after signing",
+      "Inferred traits": [
+        "enthusiastic",
+        "innovative"
+      ],
+      "Chunk": 28
+    },
+    {
+      "Action": "Ruffles his hair when emotional events occur",
+      "Inferred traits": [
+        "anxious",
+        "disorganized"
+      ],
+      "Chunk": 34
+    },
+    {
+      "Action": "Cock an eyebrow and sneer in response to sarcasm",
+      "Inferred traits": [
+        "sarcastic",
+        "playful"
+      ],
+      "Chunk": 34
+    },
+    {
+      "Action": "Studies instructions with an amused expression",
+      "Inferred traits": [
+        "thoughtful",
+        "humorous"
+      ],
+      "Chunk": 34
+    },
+    {
+      "Action": "Smiles and folds the paper carefully",
+      "Inferred traits": [
+        "considerate",
+        "affectionate"
+      ],
+      "Chunk": 34
+    },
+    {
+      "Action": "Asks about a single rose mischievously",
+      "Inferred traits": [
+        "flirtatious",
+        "lighthearted"
+      ],
+      "Chunk": 34
+    },
+    {
+      "Action": "Waits silently for a group to pass",
+      "Inferred traits": [
+        "patient",
+        "observant"
+      ],
+      "Chunk": 34
+    },
+    {
+      "Action": "Takes his hand off the bridge railing",
+      "Inferred traits": [
+        "thoughtful",
+        "reflective"
+      ],
+      "Chunk": 34
+    },
+    {
+      "Action": "Investigates the blocked basement window of the laboratory",
+      "Inferred traits": [
+        "curious",
+        "determined",
+        "resourceful"
+      ],
+      "Chunk": 35
+    },
+    {
+      "Action": "Considers increasing humidity to reveal the laboratory's secrets",
+      "Inferred traits": [
+        "innovative",
+        "strategic",
+        "persistent"
+      ],
+      "Chunk": 35
+    },
+    {
+      "Action": "Reflects on mixed emotions regarding the undergraduate ball",
+      "Inferred traits": [
+        "nostalgic",
+        "proud",
+        "cautious"
+      ],
+      "Chunk": 35
+    },
+    {
+      "Action": "Recalls past incidents of vandalism and misbehavior",
+      "Inferred traits": [
+        "observant",
+        "critical",
+        "experienced"
+      ],
+      "Chunk": 35
+    },
+    {
+      "Action": "Contemplates letting the bushes burn as a punishment",
+      "Inferred traits": [
+        "vindictive",
+        "pragmatic",
+        "impatient"
+      ],
+      "Chunk": 35
+    },
+    {
+      "Action": "Tolerates pre-drinking gatherings while secretly diminishing alcohol content",
+      "Inferred traits": [
+        "manipulative",
+        "protective",
+        "calculating"
+      ],
+      "Chunk": 35
+    },
+    {
+      "Action": "Removed the alcohol from the event planning.",
+      "Inferred traits": [
+        "responsible",
+        "thoughtful"
+      ],
+      "Chunk": 36
+    },
+    {
+      "Action": "Kept an eye out for the character crossing the East Bridge.",
+      "Inferred traits": [
+        "attentive",
+        "caring"
+      ],
+      "Chunk": 36
+    },
+    {
+      "Action": "Noticed the character's appearance and complimented their effort.",
+      "Inferred traits": [
+        "observant",
+        "supportive"
+      ],
+      "Chunk": 36
+    },
+    {
+      "Action": "Twiddled the hands of the character's watch to encourage them to hurry.",
+      "Inferred traits": [
+        "playful",
+        "encouraging"
+      ],
+      "Chunk": 36
+    },
+    {
+      "Action": "Placed a luxurious bouquet on the character's path.",
+      "Inferred traits": [
+        "generous",
+        "thoughtful"
+      ],
+      "Chunk": 36
+    },
+    {
+      "Action": "Expressed approval of students who take advantage of help.",
+      "Inferred traits": [
+        "pragmatic",
+        "mentor-like"
+      ],
+      "Chunk": 36
+    },
+    {
+      "Action": "Reflected positively on the character's success after the event.",
+      "Inferred traits": [
+        "optimistic",
+        "satisfied"
+      ],
+      "Chunk": 36
+    },
+    {
+      "Action": "Pulled out the chair for Laura",
+      "Inferred traits": [
+        "thoughtful",
+        "polite"
+      ],
+      "Chunk": 39
+    },
+    {
+      "Action": "Served water to Laura's parents",
+      "Inferred traits": [
+        "considerate",
+        "attentive"
+      ],
+      "Chunk": 39
+    },
+    {
+      "Action": "Took note of students' table manners",
+      "Inferred traits": [
+        "observant",
+        "detail-oriented"
+      ],
+      "Chunk": 39
+    },
+    {
+      "Action": "Responded with surprising readiness about the factory",
+      "Inferred traits": [
+        "knowledgeable",
+        "engaged"
+      ],
+      "Chunk": 39
+    }
+  ],
+  "Laura": [
+    {
+      "Action": "Arrives at campus with a heavy suitcase and excitement",
+      "Inferred traits": [
+        "enthusiastic",
+        "anticipatory",
+        "adventurous"
+      ],
+      "Chunk": 8
+    },
+    {
+      "Action": "Polishes the marble floors and removes cheap-looking books",
+      "Inferred traits": [
+        "meticulous",
+        "prideful",
+        "dedicated to excellence"
+      ],
+      "Chunk": 8
+    },
+    {
+      "Action": "Discourages loud sociability among students",
+      "Inferred traits": [
+        "authoritative",
+        "traditional",
+        "values decorum"
+      ],
+      "Chunk": 8
+    },
+    {
+      "Action": "Uses disciplinary measures against disruptive students",
+      "Inferred traits": [
+        "strict",
+        "uncompromising",
+        "protective of standards"
+      ],
+      "Chunk": 8
+    },
+    {
+      "Action": "Provides preferential treatment to well-behaved students",
+      "Inferred traits": [
+        "fair",
+        "observant",
+        "values merit"
+      ],
+      "Chunk": 8
+    },
+    {
+      "Action": "Lingers when seeing a particular student enter the lecture hall",
+      "Inferred traits": [
+        "curious",
+        "interested",
+        "reflective"
+      ],
+      "Chunk": 8
+    },
+    {
+      "Action": "Wedges herself next to other students to roll dice and take notes",
+      "Inferred traits": [
+        "socially awkward",
+        "determined",
+        "focused"
+      ],
+      "Chunk": 17
+    },
+    {
+      "Action": "Collects data for her undergraduate thesis",
+      "Inferred traits": [
+        "intelligent",
+        "dedicated",
+        "analytical"
+      ],
+      "Chunk": 17
+    },
+    {
+      "Action": "Maintains a high academic standing despite unconventional behavior",
+      "Inferred traits": [
+        "capable",
+        "resilient",
+        "resourceful"
+      ],
+      "Chunk": 17
+    },
+    {
+      "Action": "Observes her own reactions to rolling dice",
+      "Inferred traits": [
+        "self-aware",
+        "curious",
+        "methodical"
+      ],
+      "Chunk": 17
+    },
+    {
+      "Action": "Furrows her eyebrows and looks thoughtfully across the river",
+      "Inferred traits": [
+        "thoughtful",
+        "reflective",
+        "introspective"
+      ],
+      "Chunk": 17
+    },
+    {
+      "Action": "Absent-mindedly cradled the die and traced throws in her notebook",
+      "Inferred traits": [
+        "distracted",
+        "focused",
+        "analytical"
+      ],
+      "Chunk": 18
+    },
+    {
+      "Action": "Looked up blankly when addressed",
+      "Inferred traits": [
+        "disinterested",
+        "preoccupied",
+        "unengaged"
+      ],
+      "Chunk": 18
+    },
+    {
+      "Action": "Ignored a compliment about the evening",
+      "Inferred traits": [
+        "indifferent",
+        "self-absorbed",
+        "unaware of social cues"
+      ],
+      "Chunk": 18
+    },
+    {
+      "Action": "Stated she rolled twelve ones in a row",
+      "Inferred traits": [
+        "obsessive",
+        "detail-oriented",
+        "mathematically inclined"
+      ],
+      "Chunk": 18
+    },
+    {
+      "Action": "Focused on calculating odds",
+      "Inferred traits": [
+        "intellectual",
+        "methodical",
+        "determined"
+      ],
+      "Chunk": 18
+    },
+    {
+      "Action": "Looked into the other person's eyes for the first time",
+      "Inferred traits": [
+        "curious",
+        "engaging",
+        "momentarily attentive"
+      ],
+      "Chunk": 18
+    },
+    {
+      "Action": "Furrowed her eyebrows when asked to hand over the die",
+      "Inferred traits": [
+        "cautious",
+        "thoughtful"
+      ],
+      "Chunk": 19
+    },
+    {
+      "Action": "Clarified that the die might be a trick die",
+      "Inferred traits": [
+        "honest",
+        "analytical"
+      ],
+      "Chunk": 19
+    },
+    {
+      "Action": "Rolled the die herself after the other character",
+      "Inferred traits": [
+        "curious",
+        "engaged"
+      ],
+      "Chunk": 19
+    },
+    {
+      "Action": "Mentioned she read a specific paper on psychokinesis",
+      "Inferred traits": [
+        "knowledgeable",
+        "intellectual"
+      ],
+      "Chunk": 19
+    },
+    {
+      "Action": "Expressed skepticism about the study being convincing",
+      "Inferred traits": [
+        "critical thinker",
+        "skeptical"
+      ],
+      "Chunk": 19
+    },
+    {
+      "Action": "Scoffed at the idea of running away from scientific developments.",
+      "Inferred traits": [
+        "skeptical",
+        "confident"
+      ],
+      "Chunk": 20
+    },
+    {
+      "Action": "Expressed disdain for Professor Rhein and his impact on her PhD.",
+      "Inferred traits": [
+        "resentful",
+        "defensive"
+      ],
+      "Chunk": 20
+    },
+    {
+      "Action": "Gave a probing look to the other character.",
+      "Inferred traits": [
+        "curious",
+        "analytical"
+      ],
+      "Chunk": 20
+    },
+    {
+      "Action": "Provided information about obtaining forms online.",
+      "Inferred traits": [
+        "helpful",
+        "knowledgeable"
+      ],
+      "Chunk": 20
+    },
+    {
+      "Action": "Showed a hint of disgust at the university's modernization approach.",
+      "Inferred traits": [
+        "traditional",
+        "critical"
+      ],
+      "Chunk": 20
+    },
+    {
+      "Action": "Interrupted the other character to assert her knowledge about Professor Hartmann.",
+      "Inferred traits": [
+        "assertive",
+        "opinionated"
+      ],
+      "Chunk": 20
+    },
+    {
+      "Action": "Decided against accepting Professor Hartmann as her supervisor.",
+      "Inferred traits": [
+        "decisive",
+        "independent"
+      ],
+      "Chunk": 20
+    },
+    {
+      "Action": "Expresses concern about her supervisor's indoctrination",
+      "Inferred traits": [
+        "cautious",
+        "thoughtful"
+      ],
+      "Chunk": 21
+    },
+    {
+      "Action": "Acknowledges a fair point about adversarial collaboration",
+      "Inferred traits": [
+        "open-minded",
+        "intelligent"
+      ],
+      "Chunk": 21
+    },
+    {
+      "Action": "Laughs and smiles while engaging in conversation",
+      "Inferred traits": [
+        "friendly",
+        "approachable"
+      ],
+      "Chunk": 21
+    },
+    {
+      "Action": "Weighs the die in her hand",
+      "Inferred traits": [
+        "contemplative",
+        "focused"
+      ],
+      "Chunk": 21
+    },
+    {
+      "Action": "Makes a playful remark about the other person's attractiveness",
+      "Inferred traits": [
+        "witty",
+        "flirtatious"
+      ],
+      "Chunk": 21
+    },
+    {
+      "Action": "Observes the other person's reliance on their looks",
+      "Inferred traits": [
+        "perceptive",
+        "analytical"
+      ],
+      "Chunk": 21
+    },
+    {
+      "Action": "Proposes a deal for help in exchange for a date to her graduation ball",
+      "Inferred traits": [
+        "assertive",
+        "socially aware",
+        "strategic"
+      ],
+      "Chunk": 22
+    },
+    {
+      "Action": "Points towards the campus to indicate the location of the graduation ball",
+      "Inferred traits": [
+        "direct",
+        "clear communicator"
+      ],
+      "Chunk": 22
+    },
+    {
+      "Action": "Shakes hands to finalize the agreement",
+      "Inferred traits": [
+        "decisive",
+        "confident"
+      ],
+      "Chunk": 22
+    },
+    {
+      "Action": "Quickly picks up her die after the handshake",
+      "Inferred traits": [
+        "playful",
+        "focused"
+      ],
+      "Chunk": 22
+    },
+    {
+      "Action": "Engages in scientific discussions and arguments",
+      "Inferred traits": [
+        "intelligent",
+        "articulate",
+        "passionate about her field"
+      ],
+      "Chunk": 22
+    },
+    {
+      "Action": "Pushed her cup of coffee away",
+      "Inferred traits": [
+        "disinterested",
+        "assertive"
+      ],
+      "Chunk": 25
+    },
+    {
+      "Action": "Smirked when mentioned knowing Kasimir",
+      "Inferred traits": [
+        "playful",
+        "confident"
+      ],
+      "Chunk": 25
+    },
+    {
+      "Action": "Pressed her backpack to her stomach",
+      "Inferred traits": [
+        "nervous",
+        "protective"
+      ],
+      "Chunk": 25
+    },
+    {
+      "Action": "Cleared her throat to interject",
+      "Inferred traits": [
+        "determined",
+        "assertive"
+      ],
+      "Chunk": 25
+    },
+    {
+      "Action": "Opened the discussion about her PhD",
+      "Inferred traits": [
+        "ambitious",
+        "intellectual"
+      ],
+      "Chunk": 25
+    },
+    {
+      "Action": "Expresses disdain for parapsychology",
+      "Inferred traits": [
+        "audacious",
+        "prejudiced",
+        "confident"
+      ],
+      "Chunk": 26
+    },
+    {
+      "Action": "Interrupts Professor Hartmann",
+      "Inferred traits": [
+        "assertive",
+        "disrespectful",
+        "determined"
+      ],
+      "Chunk": 26
+    },
+    {
+      "Action": "States preference for quantitative work",
+      "Inferred traits": [
+        "analytical",
+        "focused",
+        "pragmatic"
+      ],
+      "Chunk": 26
+    },
+    {
+      "Action": "Proposes a specific study",
+      "Inferred traits": [
+        "goal-oriented",
+        "decisive",
+        "knowledgeable"
+      ],
+      "Chunk": 26
+    },
+    {
+      "Action": "Makes a veiled threat about switching supervisors",
+      "Inferred traits": [
+        "manipulative",
+        "strategic",
+        "bold"
+      ],
+      "Chunk": 26
+    },
+    {
+      "Action": "Dismisses the connection between psychokinesis and afterlife experiences",
+      "Inferred traits": [
+        "skeptical",
+        "dismissive",
+        "uncompromising"
+      ],
+      "Chunk": 26
+    },
+    {
+      "Action": "Angrily scribbled in her notebook",
+      "Inferred traits": [
+        "frustrated",
+        "passionate",
+        "assertive"
+      ],
+      "Chunk": 27
+    },
+    {
+      "Action": "Flipped a few pages back in her notes",
+      "Inferred traits": [
+        "organized",
+        "prepared",
+        "thoughtful"
+      ],
+      "Chunk": 27
+    },
+    {
+      "Action": "Proposed using coins instead of dice",
+      "Inferred traits": [
+        "innovative",
+        "analytical",
+        "confident"
+      ],
+      "Chunk": 27
+    },
+    {
+      "Action": "Outlined a detailed methodology for the experiment",
+      "Inferred traits": [
+        "methodical",
+        "intelligent",
+        "proactive"
+      ],
+      "Chunk": 27
+    },
+    {
+      "Action": "Sneered in response to a question",
+      "Inferred traits": [
+        "defensive",
+        "confrontational",
+        "self-assured"
+      ],
+      "Chunk": 27
+    },
+    {
+      "Action": "Made a note in her book",
+      "Inferred traits": [
+        "diligent",
+        "focused",
+        "responsible"
+      ],
+      "Chunk": 27
+    },
+    {
+      "Action": "Grimaced at the proposal to combine meetings",
+      "Inferred traits": [
+        "discontent",
+        "assertiveness"
+      ],
+      "Chunk": 28
+    },
+    {
+      "Action": "Asked for clarification about the Non-Disclosure Agreement",
+      "Inferred traits": [
+        "curiosity",
+        "caution"
+      ],
+      "Chunk": 28
+    },
+    {
+      "Action": "Took her time to read the document before signing",
+      "Inferred traits": [
+        "thoughtfulness",
+        "carefulness"
+      ],
+      "Chunk": 28
+    },
+    {
+      "Action": "Ultimately signed the Non-Disclosure Agreement",
+      "Inferred traits": [
+        "openness to new experiences",
+        "willingness to collaborate"
+      ],
+      "Chunk": 28
+    },
+    {
+      "Action": "Followed closely after the protagonist while walking down the path",
+      "Inferred traits": [
+        "determined",
+        "curious"
+      ],
+      "Chunk": 30
+    },
+    {
+      "Action": "Asked a question about the protagonist's thoughts",
+      "Inferred traits": [
+        "inquisitive",
+        "engaged"
+      ],
+      "Chunk": 30
+    },
+    {
+      "Action": "Walks with an intense gait, causing students to disperse.",
+      "Inferred traits": [
+        "determined",
+        "assertive"
+      ],
+      "Chunk": 31
+    },
+    {
+      "Action": "Expresses exasperation about the drawing and Professor Hartmann's teaching style.",
+      "Inferred traits": [
+        "frustrated",
+        "critical"
+      ],
+      "Chunk": 31
+    },
+    {
+      "Action": "Furrows her eyebrows in concern.",
+      "Inferred traits": [
+        "thoughtful",
+        "anxious"
+      ],
+      "Chunk": 31
+    },
+    {
+      "Action": "Questions the sanity of Professor Hartmann's ideas.",
+      "Inferred traits": [
+        "skeptical",
+        "cautious"
+      ],
+      "Chunk": 31
+    },
+    {
+      "Action": "Grabs Kasimir's arm to stop him.",
+      "Inferred traits": [
+        "impulsive",
+        "emotional"
+      ],
+      "Chunk": 31
+    },
+    {
+      "Action": "Inquires about Kasimir's relationship with Professor Hartmann.",
+      "Inferred traits": [
+        "curious",
+        "inquisitive"
+      ],
+      "Chunk": 31
+    },
+    {
+      "Action": "Expresses concern about her parents' opinions regarding Kasimir.",
+      "Inferred traits": [
+        "socially aware",
+        "family-oriented"
+      ],
+      "Chunk": 31
+    },
+    {
+      "Action": "Expressed interest in the attraction to Professor Hartmann",
+      "Inferred traits": [
+        "curious",
+        "socially aware"
+      ],
+      "Chunk": 32
+    },
+    {
+      "Action": "Requested to avoid certain topics during discussions",
+      "Inferred traits": [
+        "cautious",
+        "sensitive to others' opinions"
+      ],
+      "Chunk": 32
+    },
+    {
+      "Action": "Waited for further elaboration on a topic",
+      "Inferred traits": [
+        "patient",
+        "inquisitive"
+      ],
+      "Chunk": 32
+    },
+    {
+      "Action": "Hastily followed after someone who was walking away",
+      "Inferred traits": [
+        "eager",
+        "determined"
+      ],
+      "Chunk": 32
+    },
+    {
+      "Action": "Watched the movements of another character closely",
+      "Inferred traits": [
+        "observant",
+        "attentive"
+      ],
+      "Chunk": 32
+    },
+    {
+      "Action": "Tilted her head and paused for a moment after a comment was made about her eccentricity.",
+      "Inferred traits": [
+        "thoughtful",
+        "self-aware"
+      ],
+      "Chunk": 33
+    },
+    {
+      "Action": "Unshouldered her backpack and ripped a page from her notebook.",
+      "Inferred traits": [
+        "organized",
+        "prepared"
+      ],
+      "Chunk": 33
+    },
+    {
+      "Action": "Attempted to write but left empty depressions on the paper.",
+      "Inferred traits": [
+        "determined",
+        "persistent"
+      ],
+      "Chunk": 33
+    },
+    {
+      "Action": "Accepted a new pen and started scribbling.",
+      "Inferred traits": [
+        "adaptable",
+        "resourceful"
+      ],
+      "Chunk": 33
+    },
+    {
+      "Action": "Underlined the words about the dinner invitation on the paper.",
+      "Inferred traits": [
+        "detail-oriented",
+        "considerate"
+      ],
+      "Chunk": 33
+    },
+    {
+      "Action": "Ignored sarcasm and made a note on her paper",
+      "Inferred traits": [
+        "focused",
+        "determined"
+      ],
+      "Chunk": 34
+    },
+    {
+      "Action": "Provided her address and details about her parents",
+      "Inferred traits": [
+        "open",
+        "trusting"
+      ],
+      "Chunk": 34
+    },
+    {
+      "Action": "Clenched her jaw when unsure of the other person's interest",
+      "Inferred traits": [
+        "anxious",
+        "sensitive"
+      ],
+      "Chunk": 34
+    },
+    {
+      "Action": "Smiled when the other person expressed interest",
+      "Inferred traits": [
+        "happy",
+        "relieved"
+      ],
+      "Chunk": 34
+    },
+    {
+      "Action": "Thought about the type of flowers and blushed",
+      "Inferred traits": [
+        "thoughtful",
+        "bashful"
+      ],
+      "Chunk": 34
+    },
+    {
+      "Action": "Confirmed the meeting time",
+      "Inferred traits": [
+        "organized",
+        "assertive"
+      ],
+      "Chunk": 34
+    },
+    {
+      "Action": "Accepted the dorm spot",
+      "Inferred traits": [
+        "adaptable",
+        "open-minded"
+      ],
+      "Chunk": 39
+    },
+    {
+      "Action": "Expressed concern about her new supervisor",
+      "Inferred traits": [
+        "critical",
+        "anxious"
+      ],
+      "Chunk": 39
+    },
+    {
+      "Action": "Apologized for her comment about the department",
+      "Inferred traits": [
+        "self-aware",
+        "considerate"
+      ],
+      "Chunk": 39
+    },
+    {
+      "Action": "Hid her mouth and turned to the speaker",
+      "Inferred traits": [
+        "shy",
+        "thoughtful"
+      ],
+      "Chunk": 39
+    },
+    {
+      "Action": "Made a face when the speaker played with a spoon",
+      "Inferred traits": [
+        "expressive",
+        "sensitive"
+      ],
+      "Chunk": 39
+    }
+  ]
+}

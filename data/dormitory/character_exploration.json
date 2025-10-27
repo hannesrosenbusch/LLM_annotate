@@ -1,0 +1,801 @@
+{
+  "Finn": [
+    {
+      "Action": "Researched cannoli recipes in his own bed.",
+      "curious": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Researched cannoli recipes in his own bed.",
+      "creative": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Exclaimed gleefully about self-soothing behavior.",
+      "enthusiastic": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Exclaimed gleefully about self-soothing behavior.",
+      "observant": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Clapped and pointed at Claudio, identifying disorganized speech.",
+      "analytical": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Clapped and pointed at Claudio, identifying disorganized speech.",
+      "excitable": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Noticed Claudio's injury and excitedly linked it to agitation.",
+      "perceptive": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Noticed Claudio's injury and excitedly linked it to agitation.",
+      "impulsive": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Changed his appearance to mimic Claudio's features.",
+      "playful": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Changed his appearance to mimic Claudio's features.",
+      "mimetic": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Produced a clipboard and flipped through it.",
+      "organized": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Produced a clipboard and flipped through it.",
+      "methodical": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Corrects himself about the term used in the diagnosis",
+      "intelligent": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Corrects himself about the term used in the diagnosis",
+      "detail-oriented": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Presents the clipboard to Claudio as if in a court of law",
+      "confident": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Presents the clipboard to Claudio as if in a court of law",
+      "dramatic": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Explains the concept of dispositional nervousness",
+      "knowledgeable": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Explains the concept of dispositional nervousness",
+      "empathetic": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Walks back and forth while explaining",
+      "animated": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Walks back and forth while explaining",
+      "engaging": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Gives a probing look to check for understanding",
+      "observant": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Gives a probing look to check for understanding",
+      "caring": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Offers reassurance with a wave",
+      "supportive": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Offers reassurance with a wave",
+      "friendly": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Forgets to introduce himself and explains his appearance",
+      "absent-minded": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Forgets to introduce himself and explains his appearance",
+      "naive": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Informs Claudio that he is dead",
+      "blunt": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Informs Claudio that he is dead",
+      "unconventional": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Finn explains the concept of cardiac arrest to Claudio.",
+      "knowledgeable": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Finn explains the concept of cardiac arrest to Claudio.",
+      "calm": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Finn explains the concept of cardiac arrest to Claudio.",
+      "supportive": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Finn steps out of Claudio's way with a concerned look.",
+      "empathetic": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Finn steps out of Claudio's way with a concerned look.",
+      "considerate": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Finn comments on the soothing nature of the environment.",
+      "thoughtful": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Finn comments on the soothing nature of the environment.",
+      "insightful": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Finn comments on the soothing nature of the environment.",
+      "innovative": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Finn keeps his promise to only speak when asked.",
+      "respectful": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Finn keeps his promise to only speak when asked.",
+      "playful": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Finn keeps his promise to only speak when asked.",
+      "patient": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Nodded enthusiastically in response to Claudio's suggestion for a game.",
+      "enthusiastic": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Nodded enthusiastically in response to Claudio's suggestion for a game.",
+      "engaged": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Nodded when Claudio asked if the place was called Reanimation Island.",
+      "confirmative": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Nodded when Claudio asked if the place was called Reanimation Island.",
+      "cooperative": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Shook his head when Claudio asked if he was dead.",
+      "honest": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Shook his head when Claudio asked if he was dead.",
+      "supportive": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Scratched his neck and averted his eyes while explaining Claudio's situation.",
+      "nervous": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Scratched his neck and averted his eyes while explaining Claudio's situation.",
+      "thoughtful": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Stared at his feet and kicked up sand as they walked.",
+      "shy": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Stared at his feet and kicked up sand as they walked.",
+      "contemplative": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Pointed at his name tag to clarify his status as not yet a doctor.",
+      "humble": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Pointed at his name tag to clarify his status as not yet a doctor.",
+      "self-aware": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Pursed his lips and wiggled his head in response to being called an angel.",
+      "playful": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Pursed his lips and wiggled his head in response to being called an angel.",
+      "ambiguous": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Protests against being called magical",
+      "defensive": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Protests against being called magical",
+      "scientific-minded": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Protests against being called magical",
+      "proud": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Waves his clipboard in the air",
+      "animated": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Waves his clipboard in the air",
+      "expressive": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Waves his clipboard in the air",
+      "frustrated": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Sniffs when upset",
+      "sensitive": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Sniffs when upset",
+      "emotional": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Sniffs when upset",
+      "vulnerable": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Nods in response to Claudio's question",
+      "affirmative": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Nods in response to Claudio's question",
+      "engaged": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Nods in response to Claudio's question",
+      "communicative": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Kicks sand into the water",
+      "impatient": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Kicks sand into the water",
+      "restless": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Kicks sand into the water",
+      "disinterested": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Increases walking tempo",
+      "impatient": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Increases walking tempo",
+      "evasive": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Increases walking tempo",
+      "anxious": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Explains the concept of psychological development",
+      "insightful": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Explains the concept of psychological development",
+      "intelligent": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Explains the concept of psychological development",
+      "philosophical": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Spurred Claudio on to walk faster.",
+      "motivational": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Spurred Claudio on to walk faster.",
+      "encouraging": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Skipped ahead and plucked a shell from the sand.",
+      "playful": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Skipped ahead and plucked a shell from the sand.",
+      "carefree": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Explained the concept of 'elapsing' and 'awakening' to Claudio.",
+      "informative": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Explained the concept of 'elapsing' and 'awakening' to Claudio.",
+      "knowledgeable": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Mentioned Professor Hartmann but quickly dismissed the topic.",
+      "secretive": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Mentioned Professor Hartmann but quickly dismissed the topic.",
+      "cautious": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Studied Claudio's condition and expressed concern.",
+      "observant": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Studied Claudio's condition and expressed concern.",
+      "empathetic": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Told Claudio not to worry too much about dying.",
+      "reassuring": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Told Claudio not to worry too much about dying.",
+      "optimistic": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Commented on the low reanimation rate.",
+      "realistic": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Commented on the low reanimation rate.",
+      "pragmatic": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Throws a conspiratorial look at Claudio",
+      "playful": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Throws a conspiratorial look at Claudio",
+      "confident": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Twirls happily in his lab coat",
+      "joyful": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Twirls happily in his lab coat",
+      "enthusiastic": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Claims he could be a great psychologist",
+      "ambitious": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Claims he could be a great psychologist",
+      "self-assured": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Raises his eyebrows and scans Claudio's body",
+      "curious": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Raises his eyebrows and scans Claudio's body",
+      "observant": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Shouts in excitement about Claudio's exercise results",
+      "exuberant": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Shouts in excitement about Claudio's exercise results",
+      "encouraging": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Explains the psychological importance of feeling responsible for life changes",
+      "insightful": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Explains the psychological importance of feeling responsible for life changes",
+      "thoughtful": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Questions Claudio about his feelings after a trick meant to empower him",
+      "thoughtful": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Questions Claudio about his feelings after a trick meant to empower him",
+      "analytical": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Explains the concept of the Dormitory to Claudio",
+      "informative": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Explains the concept of the Dormitory to Claudio",
+      "knowledgeable": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Taps Claudio on the shoulder to get his attention",
+      "friendly": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Taps Claudio on the shoulder to get his attention",
+      "supportive": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Introduces Claudio to Helena, emphasizing her role in providing social validation",
+      "considerate": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Introduces Claudio to Helena, emphasizing her role in providing social validation",
+      "socially aware": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Lowers his voice to speak privately to Claudio",
+      "discreet": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Lowers his voice to speak privately to Claudio",
+      "caring": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Lifts his hand and looks back across the beach to acknowledge another resident's arrival.",
+      "observant": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Lifts his hand and looks back across the beach to acknowledge another resident's arrival.",
+      "considerate": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Offers to welcome the new resident while instructing others to get a Band-Aid.",
+      "helpful": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Offers to welcome the new resident while instructing others to get a Band-Aid.",
+      "responsible": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Mentions the importance of nursing situations for personal information exchange and romantic attraction.",
+      "knowledgeable": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Mentions the importance of nursing situations for personal information exchange and romantic attraction.",
+      "socially aware": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Runs towards Maya in a medical coat, indicating he is involved in a caring role.",
+      "empathetic": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Runs towards Maya in a medical coat, indicating he is involved in a caring role.",
+      "active": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Apologizes for being late and explains he was accompanying another resident on a fitness challenge.",
+      "dedicated": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Apologizes for being late and explains he was accompanying another resident on a fitness challenge.",
+      "communicative": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Mentions the effort of using human legs instead of magic to get places.",
+      "humorous": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Mentions the effort of using human legs instead of magic to get places.",
+      "self-aware": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Yells about aggression and his report",
+      "anxious": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Yells about aggression and his report",
+      "defensive": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Yells about aggression and his report",
+      "self-aware": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Claims he did not kidnap Maya",
+      "innocent": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Claims he did not kidnap Maya",
+      "misunderstood": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Claims he did not kidnap Maya",
+      "naive": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Rattles the door and pushes against it",
+      "persistent": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Rattles the door and pushes against it",
+      "frustrated": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Rattles the door and pushes against it",
+      "desperate": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Offers to use magic to escape",
+      "imaginative": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Offers to use magic to escape",
+      "playful": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Offers to use magic to escape",
+      "unrealistic": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Advises Maya to go to the left side of the beach",
+      "caring": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Advises Maya to go to the left side of the beach",
+      "concerned": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Advises Maya to go to the left side of the beach",
+      "directive": 1,
+      "Chunk": 20
+    }
+  ],
+  "Helena": [
+    {
+      "Action": "Nudged Claudio forward and urged him to move quickly.",
+      "urgent": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Nudged Claudio forward and urged him to move quickly.",
+      "directive": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Nudged Claudio forward and urged him to move quickly.",
+      "protective": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Pointed her camera in their direction and shouted anxiously.",
+      "anxious": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Pointed her camera in their direction and shouted anxiously.",
+      "assertive": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Pointed her camera in their direction and shouted anxiously.",
+      "focused": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Dodged back into the lab to avoid the line of fire.",
+      "cautious": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Dodged back into the lab to avoid the line of fire.",
+      "self-preserving": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Dodged back into the lab to avoid the line of fire.",
+      "quick-thinking": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Appears at the dormitory entrance and smiles at Claudio and Finn.",
+      "friendly": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Appears at the dormitory entrance and smiles at Claudio and Finn.",
+      "approachable": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Shakes Claudio's hand and pats Finn on the shoulder.",
+      "confident": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Shakes Claudio's hand and pats Finn on the shoulder.",
+      "socially adept": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Comments on Claudio's appearance in a light-hearted manner.",
+      "humorous": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Comments on Claudio's appearance in a light-hearted manner.",
+      "supportive": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Gestures at Claudio's injury and expresses concern.",
+      "caring": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Gestures at Claudio's injury and expresses concern.",
+      "empathetic": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Questions Finn's assessment of Claudio's needs.",
+      "observant": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Questions Finn's assessment of Claudio's needs.",
+      "critical thinker": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Providing a Band-Aid from her room.",
+      "caring": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Providing a Band-Aid from her room.",
+      "helpful": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Providing a Band-Aid from her room.",
+      "nurturing": 1,
+      "Chunk": 19
+    }
+  ]
+}

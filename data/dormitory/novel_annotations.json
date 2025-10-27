@@ -1,0 +1,1156 @@
+{
+  "Claudio": [
+    {
+      "Action": "Writes 'Happy Holidays' on the blackboard for the janitor.",
+      "Warmth": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Continually replaces the best cannoli for students.",
+      "Warmth": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Delivers cannoli to the gardener as requested.",
+      "Warmth": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Considers the gardener's enjoyment of his dessert.",
+      "Warmth": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Reflects positively on the gardener's compliment about his lemon cake.",
+      "Warmth": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Considers the possibility of sharing cannoli with the gardener.",
+      "Warmth": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Pushes open the door to the central yard, feeling pride in the campus.",
+      "Warmth": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Dismisses the thought of sharing cannoli, refocusing on his task.",
+      "Warmth": 0,
+      "Chunk": 1
+    },
+    {
+      "Action": "Writes 'Happy Holidays' on the blackboard",
+      "Competence": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Continuously replaces the best cannoli",
+      "Competence": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Delivers cannoli to the gardener",
+      "Competence": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Considers feedback from students",
+      "Competence": 0,
+      "Chunk": 1
+    },
+    {
+      "Action": "Replays the gardener's compliment in his head",
+      "Competence": 0,
+      "Chunk": 1
+    },
+    {
+      "Action": "Pushes open the door with his back",
+      "Competence": 0,
+      "Chunk": 1
+    },
+    {
+      "Action": "Considers closing his jacket button",
+      "Competence": 0,
+      "Chunk": 1
+    },
+    {
+      "Action": "Feels pride about the campus",
+      "Competence": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Offers free samples to struggling students.",
+      "Warmth": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Nods at the students with a tense smile.",
+      "Warmth": 0,
+      "Chunk": 2
+    },
+    {
+      "Action": "Compliments the girl's presence.",
+      "Warmth": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Gives a meaningful look to Thomas to fix his shirt.",
+      "Warmth": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Wipes a non-existent dust particle from the cart.",
+      "Warmth": 0,
+      "Chunk": 2
+    },
+    {
+      "Action": "Fails to assertively stop Thomas from taking the cannoli.",
+      "Warmth": -1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Offers free samples to struggling students",
+      "Competence": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Adjusts his sleeve nervously",
+      "Competence": 0,
+      "Chunk": 2
+    },
+    {
+      "Action": "Throws a meaningful look to fix Thomas's shirt",
+      "Competence": 0,
+      "Chunk": 2
+    },
+    {
+      "Action": "Wipes a non-existent dust particle from the cart",
+      "Competence": 0,
+      "Chunk": 2
+    },
+    {
+      "Action": "Fails to assertively stop Thomas from taking the cannoli",
+      "Competence": -1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Holds up his half-eaten bounty and expresses satisfaction.",
+      "Warmth": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Smiles at the girl, indicating he is pleased with her presence.",
+      "Warmth": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Encourages the girl to take a cannoli.",
+      "Warmth": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Offers lactose-free desserts to accommodate the girl's dietary needs.",
+      "Warmth": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Laughs with the students, creating a friendly atmosphere.",
+      "Warmth": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Insists on finding lactose-free snacks for the girl despite her protests.",
+      "Warmth": -1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Waves off the students' thanks, indicating he is overly eager to please.",
+      "Warmth": -1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Provides lactose-free dessert options",
+      "Competence": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Delivers cannoli despite special order",
+      "Competence": 0,
+      "Chunk": 3
+    },
+    {
+      "Action": "Insists on finding snacks for students",
+      "Competence": -1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Decides to help Professor Hartmann despite his confusion.",
+      "Warmth": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Hesitates about leaving the plate of cannoli behind.",
+      "Warmth": 0,
+      "Chunk": 4
+    },
+    {
+      "Action": "Stares at Professor Hartmann instead of immediately responding.",
+      "Warmth": -1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Decides against leaving the plate on the cart",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Stares at Professor Hartmann instead of responding immediately",
+      "Competence": -1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Observes the surroundings and reflects on the situation",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Hesitates before moving down the stairs",
+      "Competence": -1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Attempts to explain his lack of medical knowledge.",
+      "Warmth": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Expresses concern about the presence of a weapon on campus.",
+      "Warmth": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Feels foolish for carrying the cannoli.",
+      "Warmth": 0,
+      "Chunk": 5
+    },
+    {
+      "Action": "Attempts to jog while carrying cannoli",
+      "Competence": 0,
+      "Chunk": 5
+    },
+    {
+      "Action": "Expresses confusion about the situation",
+      "Competence": -1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Questions the professor about the gun",
+      "Competence": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Offers his wallet to the woman despite the threat.",
+      "Warmth": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Attempts to convince the woman not to rob him.",
+      "Warmth": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Remembers the gardener's smile when ordering the cannoli.",
+      "Warmth": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Attempts to negotiate with a robber",
+      "Competence": 0,
+      "Chunk": 6
+    },
+    {
+      "Action": "Drops wallet while trying to comply",
+      "Competence": -1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Stumbles towards the door, showing vulnerability.",
+      "Warmth": 0,
+      "Chunk": 13
+    },
+    {
+      "Action": "Resting his forehead against the railing, seeking comfort in the environment.",
+      "Warmth": 0,
+      "Chunk": 13
+    }
+  ],
+  "Thomas": [
+    {
+      "Action": "Encourages Claudio's efforts",
+      "Competence": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Laughs at Claudio's joke",
+      "Competence": 0,
+      "Chunk": 3
+    }
+  ],
+  "Girl": [
+    {
+      "Action": "Stops Claudio from going for snacks",
+      "Competence": 0,
+      "Chunk": 3
+    }
+  ],
+  "Professor Hartmann": [
+    {
+      "Action": "Calls for help urgently.",
+      "Warmth": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Disguises herself for a mission",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Calls for help in an emergency",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Fumbles for something in her back pocket.",
+      "Warmth": 0,
+      "Chunk": 5
+    },
+    {
+      "Action": "Groans while picking up the clunky object.",
+      "Warmth": 0,
+      "Chunk": 5
+    },
+    {
+      "Action": "Fumbles for something in her back pocket",
+      "Competence": -1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Drops a clunky object (gun)",
+      "Competence": -1,
+      "Chunk": 5
+    }
+  ],
+  "Gardener": [
+    {
+      "Action": "Shouts anxiously for Professor Hartmann to act.",
+      "Warmth": 0,
+      "Chunk": 5
+    },
+    {
+      "Action": "Dodges back into the lab, outside the line of fire.",
+      "Warmth": 0,
+      "Chunk": 5
+    },
+    {
+      "Action": "Holds a video recorder",
+      "Competence": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Dodges back into the lab",
+      "Competence": 1,
+      "Chunk": 5
+    }
+  ],
+  "Maya": [
+    {
+      "Action": "Throws jabs at the punching bag in frustration.",
+      "Warmth": 0,
+      "Chunk": 6
+    },
+    {
+      "Action": "Watches her parents leave without her.",
+      "Warmth": 0,
+      "Chunk": 6
+    },
+    {
+      "Action": "Considers her parents might be relieved to ground her.",
+      "Warmth": -1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Throws jabs at punching bag",
+      "Competence": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Ponders about being grounded",
+      "Competence": 0,
+      "Chunk": 6
+    },
+    {
+      "Action": "Plans to listen to music",
+      "Competence": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Swings fist at boxing gloves",
+      "Competence": -1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Knocks laptop off desk",
+      "Competence": -1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Ignores laptop damage",
+      "Competence": -1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Pours energy drinks into beer jug",
+      "Competence": -1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Plans to intensify drug effects",
+      "Competence": -1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Dismisses parental trust",
+      "Competence": -1,
+      "Chunk": 7
+    }
+  ],
+  "Maya Hartmann": [
+    {
+      "Action": "Yells 'Tyson' and swings her fist at the boxing gloves.",
+      "Warmth": -1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Does not care to inspect the damage to her laptop.",
+      "Warmth": -1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Keeps her eyes on the carpet, avoiding the happy pictures in the corridor.",
+      "Warmth": -1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Thinks negatively about her parents' actions regarding her ticket.",
+      "Warmth": -1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Opens the fridge door forcefully, smashing it into the wall.",
+      "Warmth": -1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Pours energy drinks into a beer jug, disregarding her mother's discomfort.",
+      "Warmth": -1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Considers her parents' trust speech as 'bullshit'.",
+      "Warmth": -1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Toasts her jug towards the cat, Uma.",
+      "Warmth": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Considers chasing Uma out of the studio but decides against it.",
+      "Warmth": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Remembers her mom’s painting workshop and reflects on the paintings.",
+      "Warmth": 0,
+      "Chunk": 8
+    },
+    {
+      "Action": "Mouths along with the music instead of engaging with her surroundings.",
+      "Warmth": -1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Calls Uma a jerk when she claws at her sleeve.",
+      "Warmth": -1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Pours alcohol into her jug",
+      "Competence": 0,
+      "Chunk": 8
+    },
+    {
+      "Action": "Rates the drink a solid five out of ten",
+      "Competence": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Disregards her mom's rule about the studio",
+      "Competence": -1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Considers chasing the cat out but decides against it",
+      "Competence": 0,
+      "Chunk": 8
+    },
+    {
+      "Action": "Remembers her mom's painting workshop",
+      "Competence": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Notices her mom's paintings under a tarp",
+      "Competence": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Stops painting altogether",
+      "Competence": -1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Changes the light to create a mood",
+      "Competence": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Mouths along with the music",
+      "Competence": 0,
+      "Chunk": 8
+    },
+    {
+      "Action": "Hesitates before using her mom's paint, recognizing it might be messed up.",
+      "Warmth": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Draws the roof window shut, possibly to prevent fumes from escaping.",
+      "Warmth": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Laughs through tears after a coughing fit, showing a sense of humor despite distress.",
+      "Warmth": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Curses herself for hesitating, indicating self-criticism rather than empathy towards others.",
+      "Warmth": -1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Shows disregard for safety by inhaling toxic fumes, indicating a lack of care for her well-being.",
+      "Warmth": -1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Checks pile of cans for ingredients",
+      "Competence": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Identifies toxic substances",
+      "Competence": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Closes roof window to contain vapors",
+      "Competence": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Mixes paint with paint remover",
+      "Competence": -1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Kicks over cans and creates a mess",
+      "Competence": -1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Inhales toxic air from trash bag",
+      "Competence": -1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Laughs through coughing fit",
+      "Competence": 0,
+      "Chunk": 9
+    },
+    {
+      "Action": "Smiles despite feeling unwell.",
+      "Warmth": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Experiences a moment of beauty in a difficult situation.",
+      "Warmth": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Experiences hallucinations and vomits",
+      "Competence": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Reacts with distress and confusion, showing vulnerability.",
+      "Warmth": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "Attempts to focus and regain composure after being sick.",
+      "Warmth": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "Struggles to regain composure after a night of drinking",
+      "Competence": -1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Attempts to assess her situation but is disoriented",
+      "Competence": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "Ignores the boy's pleas for communication.",
+      "Warmth": -1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Successfully defends herself and secures the door",
+      "Competence": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Decides to walk towards the right side of the beach despite warnings",
+      "Competence": -1,
+      "Chunk": 20
+    }
+  ],
+  "Claudio Hartmann": [
+    {
+      "Action": "Plans to host dinner events for guests.",
+      "Warmth": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Considers the discomfort of guests due to the AC issue.",
+      "Warmth": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Clasped his throat in confusion, indicating concern for his well-being.",
+      "Warmth": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Forgets the season and confuses his surroundings",
+      "Competence": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Stammers an apology.",
+      "Warmth": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Crawls back in fear.",
+      "Warmth": -1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Stammers and expresses confusion",
+      "Competence": -1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Crawls back in fear",
+      "Competence": -1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Whimpers and slides back, showing fear and confusion.",
+      "Warmth": -1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Averts his eyes and touches his mouth, tasting blood.",
+      "Warmth": -1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Whimpers and slides back",
+      "Competence": -1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Fails to respond to Finn's explanations",
+      "Competence": -1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Averts eyes and tastes blood from his thumb",
+      "Competence": -1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Struggles to stand and stumbles towards the door",
+      "Competence": -1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Controls his breathing and finds serenity",
+      "Competence": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Remembers making sushi",
+      "Competence": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Requests Finn to only speak when asked",
+      "Competence": 0,
+      "Chunk": 13
+    },
+    {
+      "Action": "Takes a few soothing breaths to calm himself.",
+      "Warmth": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Engages in a game with Finn to facilitate communication.",
+      "Warmth": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Attempts to understand his situation by asking questions.",
+      "Warmth": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Grimaces in response to Finn's question, indicating discomfort.",
+      "Warmth": -1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Takes off his suit jacket and flings it over his shoulder",
+      "Competence": 0,
+      "Chunk": 14
+    },
+    {
+      "Action": "Picks up algae to verify its authenticity",
+      "Competence": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Attempts to engage in a yes-or-no game with Finn",
+      "Competence": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Realizes he asked a non-yes-or-no question",
+      "Competence": -1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Acknowledges his need to improve diet and exercise",
+      "Competence": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Apologizes to Finn for misspeaking.",
+      "Warmth": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Expresses concern about Finn's feelings.",
+      "Warmth": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Seeks clarification from Finn about his situation.",
+      "Warmth": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Struggles to understand Finn's explanation",
+      "Competence": -1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Wills his lungs to support talking and walking",
+      "Competence": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Expresses nervousness about dying",
+      "Competence": 0,
+      "Chunk": 15
+    },
+    {
+      "Action": "Considers his love for his job despite its lack of prestige.",
+      "Warmth": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Averts his eyes and struggles to control his breathing.",
+      "Warmth": 0,
+      "Chunk": 16
+    },
+    {
+      "Action": "Considers his career satisfaction",
+      "Competence": 0,
+      "Chunk": 16
+    },
+    {
+      "Action": "Wipes sweat with a bloody pocket square",
+      "Competence": -1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Sighs with relief at the thought of reaching a building.",
+      "Warmth": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Gives up on wiping his face and lets sweat drop.",
+      "Warmth": -1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Stops to tighten his belt, feeling violated.",
+      "Warmth": -1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Inspects his body with a feeling of violation.",
+      "Warmth": -1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Gives up on wiping his face",
+      "Competence": -1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Stops to tighten his belt",
+      "Competence": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Inspects his body",
+      "Competence": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Feels violated by body modification",
+      "Competence": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Says he is fine despite having a splinter.",
+      "Warmth": 0,
+      "Chunk": 18
+    },
+    {
+      "Action": "Hesitates to offer his hand.",
+      "Warmth": -1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Walks into familiar building",
+      "Competence": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Deemphasizes pain to impress",
+      "Competence": -1,
+      "Chunk": 18
+    }
+  ],
+  "Finn": [
+    {
+      "Action": "Claps and points at Claudio, expressing excitement.",
+      "Warmth": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Laughs after transforming back to his youthful form.",
+      "Warmth": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Describes Claudio's agitation in a clinical manner.",
+      "Warmth": 0,
+      "Chunk": 11
+    },
+    {
+      "Action": "Identifies signs of agitation and self-inflicted injury",
+      "Competence": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Uses a clipboard to reference information",
+      "Competence": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Nods enthusiastically in response to Claudio's suggestion.",
+      "Warmth": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Averts his eyes and scratches his neck when discussing serious topics.",
+      "Warmth": 0,
+      "Chunk": 14
+    },
+    {
+      "Action": "Points out his lack of a doctor title, indicating humility.",
+      "Warmth": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Kicks up sand and stares at his feet, avoiding eye contact.",
+      "Warmth": 0,
+      "Chunk": 14
+    }
+  ],
+  "Finn Hartmann": [
+    {
+      "Action": "Explains complex concepts to Claudio in detail.",
+      "Warmth": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Gives Claudio a reassuring wave.",
+      "Warmth": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Explains dispositional nervousness and agitation",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Presents information as if in a court of law",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Attempts to clarify complex psychological concepts",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Acknowledges he is not a human psychologist",
+      "Competence": 0,
+      "Chunk": 12
+    },
+    {
+      "Action": "Steps out of Claudio's way with a concerned look.",
+      "Warmth": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Keeps his promise to only speak when asked, respecting Claudio's request.",
+      "Warmth": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Develops a new psychological theory",
+      "Competence": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Points out he is not a doctor yet",
+      "Competence": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Waves his clipboard in frustration.",
+      "Warmth": -1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Kicks sand into the water, showing impatience.",
+      "Warmth": -1,
+      "Chunk": 15
+    },
+    {
+      "Action": "States that relationships are key to development.",
+      "Warmth": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Explains the concept of psychological development",
+      "Competence": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Increases walking tempo to avoid conversation",
+      "Competence": -1,
+      "Chunk": 15
+    },
+    {
+      "Action": "States that most people do not change",
+      "Competence": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Encourages Claudio to walk faster to avoid elapsing.",
+      "Warmth": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Mentions the low reanimation rate without showing concern for Claudio's feelings.",
+      "Warmth": -1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Dismisses the importance of Claudio's worries about dying.",
+      "Warmth": -1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Explains elapsing and awakening",
+      "Competence": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Encourages Claudio to walk faster",
+      "Competence": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Mentions low reanimation rate",
+      "Competence": -1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Throws a conspiratorial look at Claudio.",
+      "Warmth": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Raises his eyebrows and scans Claudio's body curiously.",
+      "Warmth": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Shouts excitedly about Claudio's exercise results.",
+      "Warmth": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Explains the psychological importance of feeling proud.",
+      "Warmth": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Claims he could be a great psychologist",
+      "Competence": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Explains psychological transformation",
+      "Competence": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "States facts about exercise and body changes",
+      "Competence": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Introduces Claudio to Helena and describes her positively.",
+      "Warmth": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Provides social validation",
+      "Competence": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Welcomes another resident and encourages others to get help.",
+      "Warmth": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Welcomes new resident and provides guidance",
+      "Competence": 1,
+      "Chunk": 19
+    }
+  ],
+  "Helena": [
+    {
+      "Action": "Greets Claudio warmly and offers a friendly comment.",
+      "Warmth": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Points out Claudio's injury with concern.",
+      "Warmth": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Identifies Claudio's need for care",
+      "Competence": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Comments on Claudio's appearance",
+      "Competence": 1,
+      "Chunk": 18
+    }
+  ],
+  "Unnamed Boy": [
+    {
+      "Action": "Apologizes for being late and explains his situation enthusiastically.",
+      "Warmth": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Apologizes for being late and explains his delay",
+      "Competence": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "Mentions using magic for speed but chooses not to",
+      "Competence": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "Attempts to reason with Maya and express concern for her aggression.",
+      "Warmth": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Attempts to reason with Maya and explain his situation",
+      "Competence": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "Claims he can escape using magic",
+      "Competence": -1,
+      "Chunk": 20
+    }
+  ]
+}

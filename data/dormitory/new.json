@@ -1,0 +1,251 @@
+{
+  "Claudio": [
+    {
+      "Action": "Wipes menu and writes 'Happy Holidays'",
+      "thoughtful": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Prepares cannoli and seeks feedback",
+      "dedicated": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Delivers cannoli to gardener",
+      "considerate": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Considers eating cannoli with gardener",
+      "hopeful": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Reflects on comments about his cake",
+      "self-aware": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Considers his weight and tailor",
+      "self-conscious": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Considers draping pocket square over cannoli",
+      "cautious": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Nods at students with a tense smile",
+      "anxious": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Offers free samples to struggling students",
+      "generous": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Adjusts sleeve nervously",
+      "self-conscious": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Throws meaningful look to fix Thomas's shirt",
+      "observant": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Wipes a non-existent dust particle from the cart",
+      "nervous": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Offers desserts to students",
+      "people-pleaser": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Decides against leaving the plate on the cart",
+      "considerate": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Stares at Professor Hartmann",
+      "confused": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Carries cannoli while running",
+      "clumsy": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Asks about emergency",
+      "curious": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Expresses concern about weapon",
+      "protective": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Feels foolish for carrying cannoli",
+      "self-conscious": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Attempts to appease a robber",
+      "submissive": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Drops wallet",
+      "clumsy": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Avoids confrontation",
+      "fearful": 1,
+      "Chunk": 6
+    }
+  ],
+  "Thomas": [
+    {
+      "Action": "Snatches a cannoli from the plate",
+      "impulsive": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Dangles cannoli above his mouth",
+      "carefree": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Encourages Claudio to take a break",
+      "supportive": 1,
+      "Chunk": 3
+    }
+  ],
+  "Girl": [
+    {
+      "Action": "Stops Claudio from delivering more desserts",
+      "assertive": 1,
+      "Chunk": 3
+    }
+  ],
+  "Professor Hartmann": [
+    {
+      "Action": "Calls for help",
+      "urgent": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Wears a surgical mask",
+      "cautious": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Fumbles for gun",
+      "nervous": 1,
+      "Chunk": 5
+    }
+  ],
+  "Masked Woman": [
+    {
+      "Action": "Pushes Claudio forward",
+      "urgent": 1,
+      "Chunk": 5
+    }
+  ],
+  "Gardener": [
+    {
+      "Action": "Records with camera",
+      "observant": 1,
+      "Chunk": 5
+    }
+  ],
+  "Maya": [
+    {
+      "Action": "Throws jabs at punching bag",
+      "rebellious": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Watches parents leave",
+      "resentful": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Scratches dried blood off hoodie",
+      "defiant": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Plans to listen to music",
+      "escapist": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Swings fist at boxing gloves",
+      "impulsive": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Ignores damage to laptop",
+      "careless": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Turns up music volume",
+      "rebellious": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Knocks fist into handrail",
+      "frustrated": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Pours energy drinks into beer jug",
+      "reckless": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Considers drug effects with energy drinks",
+      "experimentative": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Dismisses parents' trust speech",
+      "cynical": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Drinks alcohol",
+      "rebellious": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Disregards mother's rule",
+      "defiant": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Remembers mother's paintings",
+      "nostalgic": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Hides her own paintings",
+      "self-critical": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Interacts with cat",
+      "affectionate": 1,
+      "Chunk": 8
+    }
+  ]
+}

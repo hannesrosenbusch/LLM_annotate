@@ -1,0 +1,3853 @@
+{
+  "Mrs. Bennet": [
+    {
+      "Action": "Encourages Mr. Bennet to visit Mr. Bingley for the sake of their daughters' prospects.",
+      "Agreeableness": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Disagrees with Mr. Bennet’s preference for Lizzy over their other daughters.",
+      "Agreeableness": -1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Views a wealthy single man as a potential husband for her daughters solely based on his fortune.",
+      "Social dominance orientation": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Resentfully speaks about Mrs. Long being selfish.",
+      "Agreeableness": -1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Scolds her daughter Kitty for coughing.",
+      "Agreeableness": -1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Expresses bitterness and exaggeration regarding Mr. Darcy's perceived rudeness.",
+      "Agreeableness": 0,
+      "Chunk": 3
+    },
+    {
+      "Action": "Expresses distress over Mr. Bingley's lack of interest in settling down at Netherfield.",
+      "Social dominance orientation": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Speaks negatively of Miss Lucas's attractiveness compared to her daughter Jane.",
+      "Social dominance orientation": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Speaks civilly to Miss Lucas despite her strong opinions.",
+      "Agreeableness": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Declares she would take away a bottle of wine from a young Lucas for drinking too much.",
+      "Agreeableness": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Shows eagerness for Mr. Bingley’s affections despite Jane's discomfort",
+      "Agreeableness": 0,
+      "Chunk": 7
+    },
+    {
+      "Action": "Expresses a desire for her daughters to marry rich men with high social status.",
+      "Social dominance orientation": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Had no wish of Jane recovering immediately as her restoration to health would probably remove her from Netherfield.",
+      "Agreeableness": -1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Repeated her thanks to Mr. Bingley for his kindness to Jane.",
+      "Agreeableness": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Expresses satisfaction that Jane will stay at Netherfield longer.",
+      "Social dominance orientation": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Claims Sir William is the epitome of good breeding.",
+      "Social dominance orientation": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Insists her daughters are brought up differently, implying superiority.",
+      "Social dominance orientation": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Refused to send the carriage early.",
+      "Agreeableness": -1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Welcomed them home uncordially and wondered at their coming.",
+      "Agreeableness": -1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Refuses to send carriage earlier than planned and hopes Mr. Bingley and his sister will pressure her daughters to stay longer.",
+      "Social dominance orientation": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Expresses readiness to receive Mr. Collins with composure despite initial ill-will.",
+      "Agreeableness": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Responds readily to Mr. Collins' compliments and wishes her daughters well in marriage.",
+      "Agreeableness": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Accepts Mr. Collins' apology and declares herself not offended.",
+      "Agreeableness": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Complains about the entail favouring Mr. Collins over her daughters.",
+      "Social dominance orientation": -1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Speaks politely about Lady Catherine and shows interest in her family.",
+      "Agreeableness": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Notes Miss de Bourgh's fortunate situation.",
+      "Social dominance orientation": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Persuades Mr. Collins to consider marrying Elizabeth instead of Jane.",
+      "Agreeableness": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Finds Mr. Collins and a potential marriage to her daughters acceptable when previously indifferent",
+      "Social dominance orientation": 0,
+      "Chunk": 15
+    },
+    {
+      "Action": "Feels flattered by receiving the ball invitation personally from Mr. Bingley.",
+      "Social dominance orientation": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Enumerates the advantages of Jane's potential marriage to Bingley, emphasizing wealth and proximity.",
+      "Social dominance orientation": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Insists Elizabeth stay to hear Mr. Collins' proposal despite her discomfort.",
+      "Agreeableness": -1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Encourages Elizabeth to accept Mr. Collins' proposal based on social advancement.",
+      "Social dominance orientation": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Insists that Elizabeth marry Mr. Collins despite her refusal.",
+      "Agreeableness": -1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Insists on Elizabeth marrying Mr. Collins despite her refusal.",
+      "Social dominance orientation": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Laments the departure of the Netherfield family and feels concerned about the intimacy they had developed.",
+      "Agreeableness": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Persistently tries to push Elizabeth into accepting Mr. Collins's proposal for the sake of social advancement.",
+      "Social dominance orientation": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Expressed happiness and politeness in inviting Mr. Collins back to Longbourn.",
+      "Agreeableness": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Protests with perseverance and rudeness against Sir William's announcement.",
+      "Agreeableness": -1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Persists in disbelieving the engagement and expresses rude comments about the match.",
+      "Agreeableness": -1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Repeatedly expresses her impatience for Mr. Bingley's arrival and implies Jane would feel ill-used if he doesn't return.",
+      "Agreeableness": -1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Complains bitterly and expresses her jealousy and abhorrence towards Charlotte Lucas.",
+      "Agreeableness": -1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Expresses resentment about the entailment of the estate away from her daughters",
+      "Social dominance orientation": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Complains about her daughters' failed engagements and accuses neighbors of acting selfishly.",
+      "Agreeableness": -1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Expresses disappointment that her daughter Jane did not marry Mr. Bingley due to perceived social superior interventions.",
+      "Social dominance orientation": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Complains that Elizabeth refused Mr. Collins, causing another family to marry before hers.",
+      "Social dominance orientation": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Expresses ill-natured wishes for the happiness of Mr. Collins and Miss Lucas.",
+      "Agreeableness": -1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Expresses resigned approval of Mr. Collins' marriage in an ill-natured tone.",
+      "Social dominance orientation": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Engages fully in both listening to Jane's account of current fashions and relaying this info.",
+      "Agreeableness": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Expresses determination never to speak of Jane's heartbreak again.",
+      "Agreeableness": 0,
+      "Chunk": 40
+    },
+    {
+      "Action": "Displays disdain for Mr. Bingley and hopes he will regret his actions.",
+      "Social dominance orientation": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Reproaches her elder daughters for their insensibility amidst Kitty and Lydia's misery.",
+      "Agreeableness": -1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Expresses happiness about Lydia's trip to Brighton and encourages her to enjoy herself",
+      "Social dominance orientation": 0,
+      "Chunk": 41
+    },
+    {
+      "Action": "Remains ill and does not exert herself despite the family crisis.",
+      "Agreeableness": -1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Blames others and laments her own sufferings without taking responsibility.",
+      "Agreeableness": -1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Complains about her husband returning without their daughter and questions who will make Wickham marry her.",
+      "Agreeableness": -1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Expresses disappointment that Mr. Bennet did not force Wickham to marry Lydia.",
+      "Social dominance orientation": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Expresses boundless joy at Lydia’s impending marriage despite her prior misconduct.",
+      "Agreeableness": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Offers generous congratulations to everyone regarding Lydia’s marriage.",
+      "Agreeableness": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Expresses exuberant joy at Lydia's impending marriage, disregarding Lydia's past misconduct.",
+      "Social dominance orientation": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Is more concerned about her daughter's clothes than the shame of her eloping.",
+      "Agreeableness": 0,
+      "Chunk": 50
+    },
+    {
+      "Action": "Shows no sentiment of shame and focuses on status symbols for her daughter's marriage",
+      "Social dominance orientation": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Welcomes Lydia and Wickham with rapture and wishes them happiness despite the circumstances.",
+      "Agreeableness": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Seeks maximum social visitation for Lydia despite the family's discomfort.",
+      "Agreeableness": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Welcomes Lydia and Wickham with rapture and shows no doubt of their happiness despite their elopement.",
+      "Social dominance orientation": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Welcomes Mr. Darcy politely for Mr. Bingley's sake despite her personal dislike.",
+      "Agreeableness": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Forcefully advocates social etiquette and early invitations to assert her family's position.",
+      "Social dominance orientation": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Occupied with happy schemes due to Bingley's politeness and hopes for Jane's marriage.",
+      "Agreeableness": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Forbore to invite Bingley to sit by her to allow Jane to interact with him.",
+      "Agreeableness": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Expresses great spirits and expectations after observing Bingley's behavior towards Jane.",
+      "Agreeableness": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Schemes for advantageous marriage of daughters.",
+      "Social dominance orientation": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Attempts to orchestrate social interactions to ensure advantageous marriage for her daughter.",
+      "Social dominance orientation": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Received Lady Catherine with utmost politeness despite the latter's rudeness.",
+      "Agreeableness": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Shows deference and politeness to Lady Catherine because of her higher social standing.",
+      "Social dominance orientation": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Criticizes Mr. Darcy as disagreeable and tiresome, showing initial reluctance and negativity towards him.",
+      "Agreeableness": -1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Changes opinion of Mr. Darcy after learning about his wealth.",
+      "Social dominance orientation": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Delighted at the marriage of her daughters to men of higher status.",
+      "Social dominance orientation": 1,
+      "Chunk": 61
+    }
+  ],
+  "Mr. Bennet": [
+    {
+      "Action": "Refuses to visit Mr. Bingley despite his wife's insistence and the potential benefit for their daughters.",
+      "Agreeableness": -1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Mocks his wife about her nerves and her insistence on visiting Mr. Bingley.",
+      "Agreeableness": -1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Suggests Mrs. Bennet and the girls visit Mr. Bingley instead, considering potential favorable attention toward his wife.",
+      "Agreeableness": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Suggests he has no particular plan to visit Mr. Bingley, despite societal expectations.",
+      "Social dominance orientation": 0,
+      "Chunk": 1
+    },
+    {
+      "Action": "Visits Mr. Bingley despite claiming he would not.",
+      "Agreeableness": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Suggests Mrs. Bennet introduce Mr. Bingley to Mrs. Long.",
+      "Agreeableness": 0,
+      "Chunk": 2
+    },
+    {
+      "Action": "Offers to take on the responsibility of introducing Mr. Bingley himself.",
+      "Agreeableness": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Protests against the description of Mr. Bingley's partners and wishes Mr. Bingley had sprained his ankle.",
+      "Agreeableness": -1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Calls his daughters 'uncommonly foolish'",
+      "Agreeableness": -1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Comments negatively about his daughters' interests and behavior.",
+      "Social dominance orientation": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Expressed real pleasure at their return though laconic.",
+      "Agreeableness": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Glad to see his daughters return but expresses it laconically, showing a lack of hierarchical concerns.",
+      "Social dominance orientation": 0,
+      "Chunk": 12
+    },
+    {
+      "Action": "Expresses eagerness to meet Mr. Collins despite his pompous letter.",
+      "Agreeableness": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Acknowledges the hierarchical nature of the entail.",
+      "Social dominance orientation": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Chooses a subject for conversation which makes his guest, Mr. Collins, shine.",
+      "Agreeableness": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Remarks on Mr. Collins' flattery toward Lady Catherine.",
+      "Social dominance orientation": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Accepts Mr. Collins' request to play backgammon and calls the girls' interests trifling.",
+      "Social dominance orientation": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Instigates Mr. Collins to join daughters for walk to maintain personal tranquility",
+      "Social dominance orientation": 0,
+      "Chunk": 15
+    },
+    {
+      "Action": "Stops Mary from singing again to let other young ladies exhibit.",
+      "Agreeableness": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Refuses to force Elizabeth into marriage, respecting her decision.",
+      "Agreeableness": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Refuses to insist that Elizabeth marry Mr. Collins and jokes that she must choose between her parents.",
+      "Social dominance orientation": -1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Expresses emotions of a most agreeable sort and makes light-hearted remarks about Charlotte and his wife.",
+      "Agreeableness": 0,
+      "Chunk": 23
+    },
+    {
+      "Action": "Attempts to console Mrs. Bennet and encourages her to hope for better things.",
+      "Agreeableness": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Makes light of Jane's disappointment in love.",
+      "Agreeableness": 0,
+      "Chunk": 24
+    },
+    {
+      "Action": "Jokes about romantic disappointments giving a sort of distinction.",
+      "Social dominance orientation": 0,
+      "Chunk": 24
+    },
+    {
+      "Action": "Exclaims his gladness upon Elizabeth’s return voluntarily and repeatedly.",
+      "Agreeableness": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Gives vague and equivocal answers to his wife's discussion about going to Brighton.",
+      "Social dominance orientation": 0,
+      "Chunk": 39
+    },
+    {
+      "Action": "Listens attentively to Elizabeth's concerns about Lydia.",
+      "Agreeableness": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Allows Lydia to go to Brighton despite Elizabeth's plea, aiming to keep domestic peace.",
+      "Agreeableness": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Allows Lydia to go to Brighton despite acknowledging her foolishness",
+      "Social dominance orientation": -1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Finds amusement in his wife's ignorance and folly instead of seeking pleasures that often console the unfortunate.",
+      "Agreeableness": 0,
+      "Chunk": 42
+    },
+    {
+      "Action": "Shows philosophical composure and takes responsibility for the consequences of his own actions.",
+      "Agreeableness": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Intent on controlling the behavior of his children through strict measures.",
+      "Social dominance orientation": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Dislikes writing the letter himself but agrees to do it.",
+      "Agreeableness": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Coolly replies 'Just as you please' when asked if the girls should inform their mother of the news.",
+      "Agreeableness": 0,
+      "Chunk": 49
+    },
+    {
+      "Action": "Feels ashamed that Wickham asked for so little money, indicating his belief in higher societal expectations.",
+      "Social dominance orientation": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Expresses gratitude to his brother-in-law and agrees to fulfill engagements made for him.",
+      "Agreeableness": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Refuses to buy clothes for his daughter Lydia for her marriage.",
+      "Agreeableness": -1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Expresses concern about social obligations and the economic provision for his family",
+      "Social dominance orientation": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Refuses to visit Mr. Bingley despite his wife's urging.",
+      "Agreeableness": -1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Resists social interaction etiquette, refusing to seek Mr. Bingley's society.",
+      "Social dominance orientation": -1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Congratulates Jane on her happiness and expresses pleasure for her future.",
+      "Agreeableness": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Shows general contentment with Bingley, acknowledging his daughter's happy relationship without any hierarchical consideration.",
+      "Social dominance orientation": 0,
+      "Chunk": 55
+    },
+    {
+      "Action": "Shares Mr. Collins' concerns for the family in a teasing manner.",
+      "Agreeableness": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Treats Mr. Collins' letter and warnings lightly, dismissing the idea of social hierarchy.",
+      "Social dominance orientation": -1,
+      "Chunk": 57
+    },
+    {
+      "Action": "After initial disbelief, he takes the time to get acquainted and grows to appreciate Mr. Darcy.",
+      "Agreeableness": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Expresses skepticism but ultimately respects Elizabeth's choice.",
+      "Social dominance orientation": 0,
+      "Chunk": 59
+    },
+    {
+      "Action": "Mr. Bennet refused to let Kitty visit Lydia due to Lydia's poor influence.",
+      "Agreeableness": -1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Refused to let Kitty spend time with Lydia.",
+      "Social dominance orientation": 1,
+      "Chunk": 61
+    }
+  ],
+  "Elizabeth Bennet": [
+    {
+      "Action": "Reminds her mother that they will meet Mr. Bingley at assemblies.",
+      "Agreeableness": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Overhears Mr. Darcy's negative comments but tells the story with great spirit among her friends.",
+      "Agreeableness": 0,
+      "Chunk": 3
+    },
+    {
+      "Action": "Allows Jane to like Mr. Bingley despite her reservations.",
+      "Agreeableness": 0,
+      "Chunk": 4
+    },
+    {
+      "Action": "Comments on Jane's tendency to like people in general and not see faults in others.",
+      "Agreeableness": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Remains silent and unconvinced about Mr. Bingley's sisters' charm.",
+      "Agreeableness": 0,
+      "Chunk": 4
+    },
+    {
+      "Action": "Promises her mother that she will never dance with Mr. Darcy.",
+      "Agreeableness": -1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Cannot like the kindness shown to Jane due to overall treatment of everyone.",
+      "Agreeableness": -1,
+      "Chunk": 6
+    },
+    {
+      "Action": "States Jane's feelings cannot be hurried for the purpose of securing a marriage.",
+      "Agreeableness": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Mentions Mr. Darcy's behavior critically to Charlotte.",
+      "Agreeableness": -1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Resists playing music initially but agrees due to Miss Lucas's insistence.",
+      "Agreeableness": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Refuses to dance with Mr. Darcy despite Sir William Lucas's persuasion.",
+      "Agreeableness": -1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Disapproves of the superficial kindness from higher social classes.",
+      "Social dominance orientation": -1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Determines to visit her sick sister Jane despite adverse conditions",
+      "Agreeableness": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Chooses to walk through dirty weather to care for her sister, disregarding societal expectations.",
+      "Social dominance orientation": -1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Dedicates herself to nursing her sick sister Jane, refusing to leave her side until she is asleep.",
+      "Agreeableness": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Defends her own preference for reading and expresses opinions counter to social norms regarding female accomplishments.",
+      "Social dominance orientation": -1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Passed the chief of the night in her sister’s room.",
+      "Agreeableness": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Requested to have a note sent to Longbourn, desiring her mother to visit Jane.",
+      "Agreeableness": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Tried to steer the conversation to prevent her mother's embarrassment.",
+      "Agreeableness": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Defends Mr. Darcy's opinion about local society.",
+      "Social dominance orientation": -1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Attempts to engage with Mr. Darcy's questioning despite her reluctance.",
+      "Agreeableness": 0,
+      "Chunk": 10
+    },
+    {
+      "Action": "Refuses to dance a reel with Mr. Darcy, aiming to subvert his expectation of contempt.",
+      "Social dominance orientation": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Observes Mr. Darcy's interest in her without feeling any inclination towards social approval.",
+      "Social dominance orientation": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Runs off from the walk, choosing independence over fitting into the group.",
+      "Social dominance orientation": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Agrees to walk around the room with Miss Bingley despite being surprised by the suggestion.",
+      "Agreeableness": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Expresses enjoyment at watching Mr. Bingley’s attentiveness to her sister Jane.",
+      "Agreeableness": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Refrains from ridiculing Mr. Darcy when he speaks about serious subjects.",
+      "Agreeableness": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Laughs at follies and nonsense, indicating a lack of concern for hierarchy.",
+      "Social dominance orientation": -1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Wrote to her mother requesting the carriage.",
+      "Agreeableness": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Urged Jane to borrow Mr. Bingley's carriage to leave sooner.",
+      "Agreeableness": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Positively resolved against staying longer at Netherfield despite pressures.",
+      "Social dominance orientation": -1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Finds interest in Mr. Collins' letter but sees his deference for Lady Catherine as extraordinary.",
+      "Agreeableness": 0,
+      "Chunk": 13
+    },
+    {
+      "Action": "Questions Mr. Collins’ servility and self-importance.",
+      "Social dominance orientation": -1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Engaging in conversation and socializing with Mr. Wickham.",
+      "Social dominance orientation": 0,
+      "Chunk": 16
+    },
+    {
+      "Action": "Responding sympathetically to Mr. Wickham's grievances against Mr. Darcy.",
+      "Social dominance orientation": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Criticizing Mr. Darcy's pride openly.",
+      "Social dominance orientation": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Expresses skepticism and does not laugh Jane out of her opinion.",
+      "Agreeableness": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Feels delighted at the prospect of dancing with Mr. Wickham and anticipates a pleasant confirmation of Mr. Darcy's behavior.",
+      "Agreeableness": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Accepts Mr. Collins' proposal to dance with as good a grace as she could, despite her own preferences.",
+      "Agreeableness": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Chooses not to quarrel about Mr. Collins and dismisses the hint about marriage, avoiding a serious dispute.",
+      "Agreeableness": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Accepts Mr. Collins' proposal to dance despite preferring Mr. Wickham.",
+      "Social dominance orientation": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Hardly reply with tolerable civility to Darcy's polite inquiries.",
+      "Agreeableness": -1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Tells her griefs to Charlotte Lucas.",
+      "Agreeableness": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Changes the discourse to one more gratifying to Jane.",
+      "Agreeableness": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Endeavours to prevent Mary from singing all night.",
+      "Agreeableness": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Expresses happiness about being able to dance opposite to Mr. Darcy due to his social standing.",
+      "Social dominance orientation": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Treats Mr. Darcy with contempt after perceiving his treatment of Wickham.",
+      "Social dominance orientation": -1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Feels capable of liking Bingley’s two sisters due to Jane’s potential marriage despite recognizing their contempt for her family.",
+      "Social dominance orientation": -1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Shows concern for Jane’s happiness over social considerations.",
+      "Social dominance orientation": -1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Attempts to communicate her refusal sincerely and rationally.",
+      "Agreeableness": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Refuses Mr. Collins' marriage proposal despite social expectations.",
+      "Social dominance orientation": -1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Expresses the importance of her personal happiness over social expectations.",
+      "Social dominance orientation": -1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Refuses Mr. Collins' proposal.",
+      "Social dominance orientation": -1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Feels anxiety about Jane's distress and follows her upstairs to discuss the letter.",
+      "Agreeableness": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Comforts Jane and advises her to consider her feelings over the opinions of Bingley's sisters.",
+      "Agreeableness": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Supports Jane and suggests Miss Bingley is deceiving herself to keep her brother away for social reasons.",
+      "Social dominance orientation": -1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Thanks Charlotte for her kindness.",
+      "Agreeableness": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Exprssed astonishment on Charlotte's engagement and wished her imaginable happiness.",
+      "Agreeableness": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Quietly answers Charlotte's statement and returns to the family.",
+      "Agreeableness": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Attempts to reconcile with Charlotte's decision for marriage to Mr. Collins.",
+      "Social dominance orientation": 0,
+      "Chunk": 22
+    },
+    {
+      "Action": "Endeavours to put a stop to the exclamations of her mother and sisters by congratulating Sir William.",
+      "Agreeableness": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Promotes the happiness of others and does not focus on hierarchical status",
+      "Social dominance orientation": -1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Expresses silent indignation regarding Caroline and her brother.",
+      "Agreeableness": -1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Speaks critically of Mr. Collins's character and Charlotte's marriage.",
+      "Agreeableness": -1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Speaks harshly about Mr. Bingley's sisters and their intentions.",
+      "Agreeableness": -1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Speaks negatively about Mr. Darcy.",
+      "Agreeableness": -1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Dismisses Caroline's assertion that her brother is partial to Miss Darcy and criticizes his lack of resolution influenced by his friends.",
+      "Social dominance orientation": -1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Consoles her aunt and engages in a reasoned conversation about Jane's failed romance.",
+      "Agreeableness": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Expresses solicitude over Jane's situation, reflecting genuine concern.",
+      "Agreeableness": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Cynically remarks that general incivility is the essence of love.",
+      "Agreeableness": -1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Mocks Mr. Darcy's disdain for socially inferior places.",
+      "Social dominance orientation": -1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Believes Mr. Bingley could rekindle his affection for Jane despite his friend's higher social influence.",
+      "Social dominance orientation": -1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Thanks her aunt for her advice.",
+      "Agreeableness": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Promises her aunt to refrain from encouraging Mr. Wickham's visit frequently.",
+      "Agreeableness": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Expresses regret for her mother's ungracious wishes and sincerely accompanies Miss Lucas out of the room.",
+      "Agreeableness": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Agrees to visit Charlotte despite foreseeing little pleasure in the visit.",
+      "Agreeableness": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Acknowledges societal expectations but questions her ability to resist the same behaviors seen in others.",
+      "Social dominance orientation": 0,
+      "Chunk": 26
+    },
+    {
+      "Action": "Feels discomfort at Charlotte's choice but resolves to maintain correspondence and visit.",
+      "Social dominance orientation": -1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Expresses neutral feelings towards Miss King and acceptance of realistic social outcomes.",
+      "Social dominance orientation": 0,
+      "Chunk": 26
+    },
+    {
+      "Action": "Accepts an invitation from her uncle and aunt for a tour of pleasure and expresses disdain for men with neither manners nor sense, showing openness to experiences beyond hierarchical dominance.",
+      "Social dominance orientation": -1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Rejects Mr. Collins’ attempts to impress her with his social standing.",
+      "Social dominance orientation": -1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Answers Lady Catherine's impertinent questions composedly.",
+      "Agreeableness": 0,
+      "Chunk": 29
+    },
+    {
+      "Action": "Answers Lady Catherine's questions composedly and refuses to provide a direct answer about her age, challenging Lady Catherine's authority.",
+      "Social dominance orientation": -1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Questions Mr. Darcy about her sister without fear of social reproach.",
+      "Social dominance orientation": -1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Laughing heartily and engaging in playful conversation.",
+      "Agreeableness": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Receiving Lady Catherine's criticisms with civil forbearance.",
+      "Agreeableness": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Playing at the request of the gentlemen until Lady Catherine's carriage was ready.",
+      "Agreeableness": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Dismisses the intimidation attempt by Mr. Darcy.",
+      "Social dominance orientation": -1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Mocks Darcy for not seeking introductions at a ball.",
+      "Social dominance orientation": 0,
+      "Chunk": 31
+    },
+    {
+      "Action": "Engaged in conversation to avoid total silence.",
+      "Agreeableness": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Decided to leave Mr. Darcy to find a subject when conversation faltered.",
+      "Agreeableness": 0,
+      "Chunk": 32
+    },
+    {
+      "Action": "Critiqued Mr. Collins' choice of wife.",
+      "Agreeableness": -1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Upon seeing Colonel Fitzwilliam approaching, she puts away Jane’s letter and forces a smile to greet him.",
+      "Agreeableness": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Expresses her thoughts frankly about Mr. Darcy’s interference in his friend's romantic inclinations rather than blindly condemning him.",
+      "Agreeableness": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Questions Mr. Darcy's right to interfere in Mr. Bingley's romantic life based on his own judgment.",
+      "Social dominance orientation": -1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Intended to exasperate herself by examining Jane's letters.",
+      "Agreeableness": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Resolving to console Jane and help her recover her spirits.",
+      "Agreeableness": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Responding to Mr. Darcy with cold civility.",
+      "Agreeableness": 0,
+      "Chunk": 34
+    },
+    {
+      "Action": "Trying to compose herself to answer Mr. Darcy with patience.",
+      "Agreeableness": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Rejecting Mr. Darcy's proposal and expressing her resentment.",
+      "Agreeableness": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Accusing Mr. Darcy of ruining her sister's happiness.",
+      "Agreeableness": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Defending Mr. Wickham against Mr. Darcy.",
+      "Agreeableness": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Speaking with composure despite growing anger.",
+      "Agreeableness": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Expressing her strong dislike for Mr. Darcy.",
+      "Agreeableness": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Decides to continue walking despite her reluctance to encounter Mr. Darcy.",
+      "Agreeableness": 0,
+      "Chunk": 35
+    },
+    {
+      "Action": "Chooses to read Mr. Darcy’s letter despite initial disgust and shock, showing openness and critical engagement with hierarchical assertions.",
+      "Social dominance orientation": 0,
+      "Chunk": 35
+    },
+    {
+      "Action": "Chooses to reconsider Mr. Darcy’s letter and weighs the evidence impartially, despite her previous prejudices.",
+      "Agreeableness": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Takes the initiative to appear cheerful and repress negative reflections upon returning home.",
+      "Agreeableness": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Expresses regret and shame upon realizing her blind prejudice and the harm it has caused.",
+      "Agreeableness": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Refuses to open and consider Mr. Darcy’s letter again after first reading it.",
+      "Agreeableness": 0,
+      "Chunk": 36
+    },
+    {
+      "Action": "Feels satisfaction in missing Colonel Fitzwilliam.",
+      "Agreeableness": -1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Critically evaluates Darcy's objections and Wickham's claims, indicating her struggle with hierarchical views.",
+      "Social dominance orientation": 0,
+      "Chunk": 36
+    },
+    {
+      "Action": "Refused Lady Catherine's invitation to stay longer.",
+      "Agreeableness": 0,
+      "Chunk": 37
+    },
+    {
+      "Action": "Attempted to restrain the imprudence of her younger sisters.",
+      "Agreeableness": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Expresses thanks and assurances of happiness for the hospitality received.",
+      "Agreeableness": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Adds her respects and grateful thanks to the ladies of Rosings upon Mr. Collins's reminder.",
+      "Agreeableness": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Privately decides to conceal certain details from Maria.",
+      "Agreeableness": 0,
+      "Chunk": 38
+    },
+    {
+      "Action": "Refrains from discussing Mr. Darcy's proposals and Mr. Bingley to avoid further upsetting Jane.",
+      "Agreeableness": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Does not express objection when reminded to leave respects for the ladies of Rosings.",
+      "Social dominance orientation": 0,
+      "Chunk": 38
+    },
+    {
+      "Action": "Opposes Lydia's scheme to walk to Meryton and see the officers, prioritizing social propriety.",
+      "Agreeableness": -1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Opposes Lydia's proposal to walk to Meryton to see the officers.",
+      "Social dominance orientation": -1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Feels great satisfaction at the regiment's departure.",
+      "Social dominance orientation": -1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Decides to suppress details to protect her sister's feelings.",
+      "Agreeableness": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Expresses regret and compassion for Mr. Darcy.",
+      "Agreeableness": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Decides not to expose Wickham's character to protect his reputation.",
+      "Agreeableness": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Decides not to publicly reveal Wickham's true character.",
+      "Social dominance orientation": 0,
+      "Chunk": 40
+    },
+    {
+      "Action": "Attempts to make Kitty reasonable about her situation.",
+      "Agreeableness": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Attempts to persuade her father not to let Lydia go to Brighton by representing the improprieties of Lydia’s behavior.",
+      "Agreeableness": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Represses Mr. Wickham's frivolous gallantry towards her and is indifferent about it.",
+      "Agreeableness": 0,
+      "Chunk": 41
+    },
+    {
+      "Action": "Disapproves of Lydia's trip to Brighton and advises her father against it",
+      "Social dominance orientation": 0,
+      "Chunk": 41
+    },
+    {
+      "Action": "Endeavours to forget her father's impropriety and strives to banish the thoughts of his continual breach of conjugal obligation.",
+      "Agreeableness": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Tries to console herself for present disappointment by looking forward to a tour to the Lakes.",
+      "Agreeableness": 0,
+      "Chunk": 42
+    },
+    {
+      "Action": "Feels it is her business to be satisfied and soon finds herself happy with a more contracted tour when the original plan is delayed.",
+      "Agreeableness": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Feels gratitude and admiration for Mr. Darcy due to his positive characteristics as a brother, landlord, and master.",
+      "Agreeableness": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Expresses astonishment and embarrassment at Mr. Darcy's civility and contrasting manner.",
+      "Social dominance orientation": 0,
+      "Chunk": 43
+    },
+    {
+      "Action": "Confirms Mr. Darcy's good character and refutes Wickham's claims.",
+      "Social dominance orientation": -1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Talking amiably with Darcy who she previously had disliked and misunderstood.",
+      "Agreeableness": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Respecting and esteeming Mr. Darcy despite previously rejecting him.",
+      "Agreeableness": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Feels gratitude and respect for Mr. Darcy despite his previous social intimidations.",
+      "Social dominance orientation": -1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Engages in conversation despite being closely watched by Miss Bingley.",
+      "Agreeableness": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Engages in conversation despite being closely watched, responds calmly to Miss Bingley's ill-natured comment.",
+      "Social dominance orientation": 0,
+      "Chunk": 45
+    },
+    {
+      "Action": "Experiences distress and immediately seeks help from her uncle to address her sister's predicament.",
+      "Agreeableness": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Feels regret for not having shared information that could have prevented her sister's elopement.",
+      "Agreeableness": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Expresses regret and self-reproach for not warning others about Wickham.",
+      "Agreeableness": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Expresses sorrow for what her father must have endured and cautions him against being too severe on himself.",
+      "Agreeableness": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Critically assesses the deference given to her by Mr. Gardiner.",
+      "Social dominance orientation": -1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Encourages her father to answer the letter immediately, emphasizing the importance of each moment.",
+      "Agreeableness": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Takes her father's letter to read to her mother.",
+      "Agreeableness": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Reflects on the sacrifice and kindness of her uncle and aunt and acknowledges their actions.",
+      "Agreeableness": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Voices regret that Wickham and Lydia must marry despite their poor prospects for happiness.",
+      "Social dominance orientation": 0,
+      "Chunk": 49
+    },
+    {
+      "Action": "Regrets confiding in Mr. Darcy about her sister Lydia's situation.",
+      "Agreeableness": 0,
+      "Chunk": 50
+    },
+    {
+      "Action": "Urges Mr. Bennet to receive Lydia and her husband at Longbourn for the sake of Lydia's feelings.",
+      "Agreeableness": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Regrets informing Mr. Darcy about her sister’s elopement, fearing it reflects poorly on her family",
+      "Social dominance orientation": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Feels disgusted and shocked by Lydia and Wickham but avoids conflict by staying silent.",
+      "Agreeableness": 0,
+      "Chunk": 51
+    },
+    {
+      "Action": "Runs out of the room because she cannot bear Lydia's behavior.",
+      "Agreeableness": 0,
+      "Chunk": 51
+    },
+    {
+      "Action": "Gratefully declines Lydia’s offer to find husbands for her sisters.",
+      "Agreeableness": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Writes to her aunt to inquire about Mr. Darcy’s presence at Lydia’s wedding.",
+      "Agreeableness": 0,
+      "Chunk": 51
+    },
+    {
+      "Action": "Expresses disdain for Lydia's way of getting husbands.",
+      "Social dominance orientation": -1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Decided to engage civilly with Wickham despite knowing his faults.",
+      "Agreeableness": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Offered her hand to Wickham and expressed hopes for future harmony.",
+      "Agreeableness": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Attempts to comfort her sister Jane and shorten her discomfort.",
+      "Agreeableness": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Experiences discomfort and avoids conversation due to the shame induced by her mother's social maneuvering.",
+      "Social dominance orientation": -1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Feels that Mr. Darcy's kindness is neither unknown nor unfelt despite her mother's ungraciousness.",
+      "Agreeableness": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Follows Mr. Darcy with her eyes, envying others whom he speaks to despite her anger with herself.",
+      "Agreeableness": -1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Desires to converse with Mr. Darcy despite social discomfort.",
+      "Social dominance orientation": 0,
+      "Chunk": 54
+    },
+    {
+      "Action": "Congratulates Jane with sincerity, warmth, and delight, which Jane finds immensely pleasing.",
+      "Agreeableness": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Minimizes her reaction to her mother's machinations and shows no interest in separating herself from family or social hierarchy.",
+      "Social dominance orientation": 0,
+      "Chunk": 55
+    },
+    {
+      "Action": "Refused to promise Lady Catherine that she would never enter into an engagement with Mr. Darcy.",
+      "Agreeableness": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Told Lady Catherine firmly that her arguments and interference were frivolous and ill-judged.",
+      "Agreeableness": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Displayed courtesy by attending Lady Catherine despite her rude behavior.",
+      "Agreeableness": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Refused to be intimidated by Lady Catherine's demands and stood her ground regarding her relationship with Mr. Darcy.",
+      "Agreeableness": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Refuses to bow to Lady Catherine's demands and supports the right for personal choice in marriage regardless of social class.",
+      "Social dominance orientation": -1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Feels unease reflecting on Lady Catherine's interference and possible consequences.",
+      "Agreeableness": 0,
+      "Chunk": 57
+    },
+    {
+      "Action": "Accepts her family's teasing quietly despite feeling mortified.",
+      "Agreeableness": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Laughs at her father's question about Lady Catherine without revealing distress.",
+      "Agreeableness": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Expresses distaste for Lady Catherine's interference and Mr. Collins' warnings.",
+      "Social dominance orientation": -1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Thanks Mr. Darcy for his kindness towards her sister.",
+      "Agreeableness": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Admits to having long been ashamed of her past harsh words to Mr. Darcy.",
+      "Agreeableness": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Expresses gratitude towards Mr. Darcy for his efforts and compassion for her family.",
+      "Agreeableness": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Expresses gratitude and admiration for Darcy's unexampled kindness towards her sister despite class differences.",
+      "Social dominance orientation": -1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Boldly walks alone with Darcy to speak her mind and resolve misunderstandings.",
+      "Social dominance orientation": 0,
+      "Chunk": 58
+    },
+    {
+      "Action": "Ensures the application for her mother's consent is handled carefully and avoids any inconvenience for Mr. Darcy.",
+      "Agreeableness": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Speaks positively of Darcy despite family disapproval.",
+      "Social dominance orientation": -1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Wanted Mr. Darcy to account for his feelings.",
+      "Agreeableness": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Acknowledged her past behavior and teasing towards Mr. Darcy.",
+      "Agreeableness": 0,
+      "Chunk": 60
+    },
+    {
+      "Action": "Wrote to her aunt Mrs. Gardiner with joyful news to share happiness.",
+      "Agreeableness": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Protected Mr. Darcy from uncomfortable interactions with her relatives.",
+      "Agreeableness": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Elizabeth persuaded Darcy to seek a reconciliation with Lady Catherine.",
+      "Agreeableness": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Elizabeth frequently sent relief to Wickham and Lydia despite their extravagance.",
+      "Agreeableness": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Refused to ask Mr. Darcy for financial help for Lydia and Wickham.",
+      "Social dominance orientation": 1,
+      "Chunk": 61
+    }
+  ],
+  "Kitty Bennet": [
+    {
+      "Action": "Responds fretfully when her coughing is criticized.",
+      "Agreeableness": -1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Reproaches her elder sisters for their insensibility amidst her own extreme misery.",
+      "Agreeableness": -1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Complains about not receiving an invitation to Brighton despite not being Mrs. Forster's friend",
+      "Social dominance orientation": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Cries seriously after her father prohibits her from social activities due to her sister's misconduct.",
+      "Agreeableness": 0,
+      "Chunk": 48
+    },
+    {
+      "Action": "Expresses her hope to follow her sister's socially advantageous path.",
+      "Social dominance orientation": 0,
+      "Chunk": 55
+    }
+  ],
+  "Lydia Bennet": [
+    {
+      "Action": "Confidently mentions that Mr. Bingley will dance with her despite being the youngest.",
+      "Agreeableness": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Offers to accompany Elizabeth part of the way on her walk",
+      "Agreeableness": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Shows open admiration for officers based on their status.",
+      "Social dominance orientation": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Demanded Mr. Bingley keep his promise to give a ball at Netherfield.",
+      "Agreeableness": -1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Shows no interest in Mr. Collins because he didn't come in a scarlet coat.",
+      "Agreeableness": -1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Shows disinterest in Mr. Collins due to his lack of social appeal.",
+      "Social dominance orientation": 0,
+      "Chunk": 13
+    },
+    {
+      "Action": "Expresses disinterest in 'Fordyce's Sermons' and discusses other trivial matters.",
+      "Social dominance orientation": -1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Determined to find out who the stranger was",
+      "Social dominance orientation": 0,
+      "Chunk": 15
+    },
+    {
+      "Action": "Stays to eavesdrop on the conversation despite others leaving.",
+      "Agreeableness": -1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Stays to hear Mrs. Bennet's conversation with Mr. Collins despite being told to hold her tongue.",
+      "Social dominance orientation": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "Boisterously exclaims in an uncivil manner that Mr. Collins wants to marry her sister Elizabeth.",
+      "Agreeableness": -1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Triumphantly welcomes her sisters and offers them lunch at the inn.",
+      "Agreeableness": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Ignores Mary's reply during conversation.",
+      "Agreeableness": -1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Expresses a desire for her father to take them to Brighton to be near the soldiers.",
+      "Social dominance orientation": 0,
+      "Chunk": 39
+    },
+    {
+      "Action": "Proclaims that she would be ashamed of not being married before twenty-three.",
+      "Social dominance orientation": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Insists she should chaperon her sisters to balls once married.",
+      "Social dominance orientation": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Calls her father 'disagreeable' for not allowing a trip to Brighton.",
+      "Agreeableness": -1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Is wholly inattentive to her sister's feelings while celebrating her invitation to Brighton.",
+      "Agreeableness": -1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Celebrates her invitation to Brighton and flaunts it in front of her sister",
+      "Social dominance orientation": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Promises to write very often to her mother and Kitty but sends short letters instead.",
+      "Agreeableness": -1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Insensitively demands congratulations and boasts about her marriage.",
+      "Agreeableness": -1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Demands congratulations from her sisters and boasts about being married.",
+      "Social dominance orientation": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Takes Jane's place at the mother's right hand because she is a married woman.",
+      "Social dominance orientation": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Longs to see neighbors and hear herself called 'Mrs. Wickham'.",
+      "Social dominance orientation": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Shows off her ring and marriage to the housemaids.",
+      "Social dominance orientation": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Expresses envy if her sisters don't have her 'good luck' and plans to secure husbands for them as well.",
+      "Social dominance orientation": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Ignored advice and assistance offered by Mr. Darcy.",
+      "Agreeableness": -1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Lydia and Wickham frequently overstayed their welcome, prompting even Bingley to talk about giving them a hint to leave.",
+      "Agreeableness": -1,
+      "Chunk": 61
+    }
+  ],
+  "Mr. Bingley": [
+    {
+      "Action": "Makes himself acquainted with all the principal people in the room and plans to give a ball himself.",
+      "Agreeableness": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Encourages Mr. Darcy to dance and engage with the people at the assembly.",
+      "Agreeableness": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Advocates for dancing with all the ladies at the assembly regardless of their social standing and appearance.",
+      "Social dominance orientation": -1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Feels acquainted with everyone at the Meryton assembly and finds them pleasant and attentive.",
+      "Agreeableness": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Shows good-humour and kindness towards Elizabeth",
+      "Agreeableness": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Expresses evident anxiety for Jane's well-being and offers to fetch books for Elizabeth.",
+      "Agreeableness": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Recommends sending for Mr. Jones and ensuring Jane receives every possible attention.",
+      "Agreeableness": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Expresses genuine care and solicitude for Jane Bennet's health, regardless of her lower social connections.",
+      "Social dominance orientation": -1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Welcomed and offered to host Jane at Netherfield.",
+      "Agreeableness": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Assured Lydia of a ball at Netherfield when Jane was recovered.",
+      "Agreeableness": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Critiques his own writing style, showing humility and openness to self-reflection.",
+      "Social dominance orientation": 0,
+      "Chunk": 10
+    },
+    {
+      "Action": "Shows concern for Jane Bennet's comfort by piling up the fire and suggesting she move to another side of the fireplace.",
+      "Agreeableness": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Shows diffused warmth and joy in his interaction with Jane Bennet and talks scarcely to anyone else.",
+      "Social dominance orientation": -1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Expressed real sorrow and tried to persuade Jane to stay longer for her health.",
+      "Agreeableness": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Expressing unaffected cordiality and friendliness towards Elizabeth and her family.",
+      "Agreeableness": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Shows admiration for Jane Bennet in a guarded manner.",
+      "Agreeableness": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Bores with the ill-judged officiousness of Mrs. Bennet and listens to her silly remarks with forbearance.",
+      "Agreeableness": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Proposes a group walk to be alone with Jane.",
+      "Agreeableness": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Forgives Mr. Darcy for hiding Jane's presence in town.",
+      "Agreeableness": 1,
+      "Chunk": 58
+    }
+  ],
+  "Mr. Darcy": [
+    {
+      "Action": "Refuses to dance and dismisses the women at the assembly as not worth his time.",
+      "Agreeableness": -1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Refuses to dance with ladies he is not acquainted with, claiming it would be insupportable.",
+      "Social dominance orientation": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Comments that Elizabeth Bennet is 'tolerable, but not handsome enough' to tempt him.",
+      "Social dominance orientation": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Expresses a critical view of the people at the Meryton assembly.",
+      "Agreeableness": -1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Sits close to Mrs. Long for half an hour without speaking to her.",
+      "Agreeableness": -1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Requests to be allowed the honor of Elizabeth's hand in dance after being prompted by Sir William Lucas.",
+      "Agreeableness": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Criticizes the lower social circles and expresses disdain for them.",
+      "Social dominance orientation": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Expresses doubt about Elizabeth walking so far alone, reflecting societal norms.",
+      "Social dominance orientation": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Agrees that Miss Elizabeth Bennet should not have walked alone through the mud, indicating a lack of understanding of her motivations.",
+      "Agreeableness": 0,
+      "Chunk": 8
+    },
+    {
+      "Action": "Critiques the arts women employ for captivation, calling them despicable.",
+      "Agreeableness": 0,
+      "Chunk": 8
+    },
+    {
+      "Action": "Believes marrying a person with lower social connections materially lessens one's chance of marrying men of consideration.",
+      "Social dominance orientation": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Writes a letter despite interruptions from Miss Bingley.",
+      "Agreeableness": 0,
+      "Chunk": 10
+    },
+    {
+      "Action": "Requests music and interacts politely with Elizabeth and Miss Bingley.",
+      "Agreeableness": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Suggests moving to a wider path to avoid leaving Elizabeth alone.",
+      "Agreeableness": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Refuses Miss Bingley's offer to mend his pen, indicating his self-sufficiency.",
+      "Social dominance orientation": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Writes a detailed letter to his sister, demonstrating a sense of duty and control.",
+      "Social dominance orientation": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Declines to join Elizabeth and Miss Bingley walking around the room, implying he would be interfering with their motives.",
+      "Agreeableness": -1,
+      "Chunk": 11
+    },
+    {
+      "Action": "States that his good opinion, once lost, is lost forever and admits to a resentful temper.",
+      "Social dominance orientation": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Chose to avoid Elizabeth and barely spoke to her.",
+      "Agreeableness": -1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Resolved to be careful that no sign of admiration for Elizabeth should escape him to avoid influencing his felicity.",
+      "Social dominance orientation": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Barely acknowledges Mr. Wickham with a slight return of his salutation.",
+      "Agreeableness": 0,
+      "Chunk": 15
+    },
+    {
+      "Action": "Unstated but implied treatment of Mr. Wickham and distancing from lower-class interactions.",
+      "Social dominance orientation": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Responds to Mr. Collins with distant civility.",
+      "Agreeableness": 0,
+      "Chunk": 18
+    },
+    {
+      "Action": "Displays hauteur and a deeper shade of superiority upon hearing about Elizabeth's new acquaintance with Mr. Wickham.",
+      "Social dominance orientation": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Pays reserved compliments to Mrs. Collins but engages minimally.",
+      "Social dominance orientation": 0,
+      "Chunk": 30
+    },
+    {
+      "Action": "Expressing affectionate praise of his sister’s proficiency in music.",
+      "Agreeableness": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Smiling while mentioning weaknesses in his own social skills.",
+      "Agreeableness": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Moving towards the piano to command a full view of Elizabeth's performance.",
+      "Agreeableness": 0,
+      "Chunk": 31
+    },
+    {
+      "Action": "Expressing his difficulty in conversing easily with strangers.",
+      "Agreeableness": 0,
+      "Chunk": 31
+    },
+    {
+      "Action": "Speaks with affectionate praise of his sister's proficiency.",
+      "Social dominance orientation": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Feels ashamed of Lady Catherine's ill-breeding and makes no answer.",
+      "Social dominance orientation": 0,
+      "Chunk": 31
+    },
+    {
+      "Action": "Apologized for his intrusion.",
+      "Agreeableness": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Attempted to initiate conversation about the comfort of the house.",
+      "Agreeableness": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Suggested that distance to family is manageable.",
+      "Agreeableness": 0,
+      "Chunk": 32
+    },
+    {
+      "Action": "Experienced a change of feeling and drew back his chair.",
+      "Agreeableness": 0,
+      "Chunk": 32
+    },
+    {
+      "Action": "Engaged in a short dialogue about Kent in a calm and concise manner.",
+      "Agreeableness": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Taken measures to separate Mr. Bingley and Jane due to perceived strong objections against Jane.",
+      "Agreeableness": -1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Interferes to prevent an imprudent marriage between Mr. Bingley and Jane.",
+      "Social dominance orientation": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Boasting about the misery he inflicted on others.",
+      "Agreeableness": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Inquiring after Elizabeth's health in a hurried manner.",
+      "Agreeableness": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Expressing his feelings for Elizabeth ardently and without regard for her feelings.",
+      "Agreeableness": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Expressing real security about his proposal despite Elizabeth's visible astonishment.",
+      "Agreeableness": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Responding to Elizabeth with forced calmness and resentment.",
+      "Agreeableness": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Rejoicing in his success in separating his friend from Elizabeth's sister.",
+      "Agreeableness": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Expressing contempt for Mr. Wickham's misfortunes.",
+      "Agreeableness": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Acknowledging his actions against Mr. Wickham and showing no remorse.",
+      "Agreeableness": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Expressing his opinion that Elizabeth's pride was hurt by his honest confession.",
+      "Agreeableness": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Leaving the room hastily and expressing shame for his feelings.",
+      "Agreeableness": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Admits to adopting measures of concealment to protect his friend from an unhappy marriage.",
+      "Agreeableness": -1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Writes a detailed explanatory letter to Elizabeth to clarify his actions and motives.",
+      "Agreeableness": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Expresses regret for paining Elizabeth but proceeds with explaining his actions.",
+      "Agreeableness": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Attempts to prevent Mr. Bingley from marrying Elizabeth's sister due to social class concerns.",
+      "Social dominance orientation": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Describes objections to a match based on social status and family connections.",
+      "Social dominance orientation": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Disappointed by Elizabeth's refusal and the belief that he would succeed in his proposal.",
+      "Social dominance orientation": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Shows civility and attentiveness to Mr. Gardiner, invites him to fish and offers to provide tackle.",
+      "Agreeableness": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Shows unassuming politeness to Elizabeth's relatives and offers fishing tackle and permission to fish on his grounds to Mr. Gardiner.",
+      "Social dominance orientation": -1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Courting the good opinion of people with whom any intercourse a few months ago would have been a disgrace.",
+      "Agreeableness": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Calling on his sister to join him in expressing their wish to see Mr. and Mrs. Gardiner, and Miss Bennet to dinner at Pemberley.",
+      "Agreeableness": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Polite and seeking the good opinion of people he previously disdained.",
+      "Social dominance orientation": -1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Expresses admiration for Elizabeth despite Miss Bingley's criticism.",
+      "Agreeableness": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Defends Elizabeth against Miss Bingley's criticisms.",
+      "Social dominance orientation": -1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Shows concern for Elizabeth's distress and offers assistance.",
+      "Agreeableness": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Respects Elizabeth’s need for privacy and promptly leaves the room.",
+      "Agreeableness": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Shrinks from the idea of familial alliance with Wickham due to his social standing",
+      "Social dominance orientation": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Went to great lengths to assist in resolving Lydia's situation, taking on the trouble and mortification of dealing with Wickham.",
+      "Agreeableness": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Paid off Wickham's debts and ensured a marriage between Lydia and Wickham.",
+      "Agreeableness": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Did not seek acknowledgment or gratitude for his actions.",
+      "Agreeableness": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Attends the visit at the Bennet household, likely out of consideration for Bingley and Elizabeth.",
+      "Agreeableness": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Silent, grave, and indifferent behavior around Elizabeth.",
+      "Agreeableness": -1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Expresses regret and acknowledges the justice of Elizabeth's past reproofs.",
+      "Agreeableness": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Shares his personal growth and thanks Elizabeth for teaching him a valuable lesson.",
+      "Agreeableness": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Acknowledges his past wrong actions and shows willingness to improve relationships.",
+      "Agreeableness": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Confesses to Mr. Bingley about his previous wrongdoings and seeks to rectify the situation.",
+      "Agreeableness": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Confesses past behavior influenced by pride and conceit due to his upbringing, but acknowledges improving due to Elizabeth's influence.",
+      "Social dominance orientation": -1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Interferes in Bingley and Jane's relationship initially based on social prejudices but later rectifies his action by supporting their engagement.",
+      "Social dominance orientation": -1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Acknowledges his mistaken interference and respects Elizabeth's family despite initial prejudices.",
+      "Social dominance orientation": -1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Voluntarily helped Lydia by making up the match, giving money, paying debts, and securing a commission for Wickham.",
+      "Agreeableness": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Listened to Elizabeth and responded sincerely about his feelings.",
+      "Agreeableness": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Praised Elizabeth for her lively mind rather than her impertinence.",
+      "Agreeableness": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Bore the obsequious civility of Mr. Collins calmly.",
+      "Agreeableness": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Reconciled with Lady Catherine due to familial ties.",
+      "Social dominance orientation": 1,
+      "Chunk": 61
+    }
+  ],
+  "Jane Bennet": [
+    {
+      "Action": "Expresses admiration for Mr. Bingley and his agreeable manners.",
+      "Agreeableness": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Speaks positively about Mr. Bingley's sisters despite their behavior.",
+      "Agreeableness": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Defends Mr. Darcy's behavior to Mrs. Bennet.",
+      "Agreeableness": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Receives attention with great pleasure.",
+      "Agreeableness": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Firm in her decision to leave Netherfield where she felt herself to be right.",
+      "Social dominance orientation": -1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Acknowledges Mr. Collins' intention to make amends as a creditable wish.",
+      "Agreeableness": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Thought well of both Mr. Darcy and Mr. Wickham, defending their conduct and attributing misunderstandings to accidents or mistakes.",
+      "Agreeableness": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Acknowledges Mr. Darcy's potential unkindness but defends the conduct of both Darcy and Wickham.",
+      "Social dominance orientation": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Defends both Mr. Darcy and Mr. Wickham, rationalizing the conflict without blaming either party.",
+      "Social dominance orientation": -1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Declines to interfere with Elizabeth’s decision but does so mildly.",
+      "Agreeableness": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Refuses to interfere in Elizabeth's decision.",
+      "Social dominance orientation": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "Tries to join general conversation despite feeling upset.",
+      "Agreeableness": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Believes Caroline Bingley is incapable of wilfully deceiving anyone.",
+      "Agreeableness": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Still hopes for Mr. Bingley’s return despite his sister's interference.",
+      "Social dominance orientation": 0,
+      "Chunk": 21
+    },
+    {
+      "Action": "Readily joins Elizabeth in congratulating Sir William and makes remarks on the happiness of the match.",
+      "Agreeableness": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Expresses earnest desire for Charlotte and Mr. Collins's happiness despite her astonishment.",
+      "Agreeableness": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Steadily maintains mildness in response to her mother's attacks.",
+      "Agreeableness": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Expresses earnest desire for Charlotte Lucas and Mr. Collins' happiness without considering their social status",
+      "Social dominance orientation": -1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Expresses that she will not repine despite her mother's pain-inducing remarks.",
+      "Agreeableness": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Speaks optimistically about Mr. Bingley despite her disappointment.",
+      "Agreeableness": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Defends Charlotte's character and expresses hope for her happiness with Mr. Collins.",
+      "Agreeableness": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Urges Elizabeth to take Mr. Bingley's actions in the best light.",
+      "Agreeableness": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Pleads for allowances and urged the possibility of mistakes regarding Mr. Darcy.",
+      "Agreeableness": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Suggests making allowances for differences of situation and temper.",
+      "Social dominance orientation": 0,
+      "Chunk": 24
+    },
+    {
+      "Action": "Mild and steady candour pleads for allowances and the possibility of mistakes regarding Mr. Darcy.",
+      "Social dominance orientation": -1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Pities Caroline for her behavior despite feeling wronged by her actions.",
+      "Agreeableness": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Shows concern about maintaining social connections despite Caroline Bingley's apparent lack of regard.",
+      "Social dominance orientation": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Displays complacency in her air and manner despite fervent feelings, suggesting lack of struggle with social hierarchy.",
+      "Social dominance orientation": -1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Expresses sorrow for Mr. Darcy's disappointment despite his flaws.",
+      "Agreeableness": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Expresses shock and sympathy for Mr. Darcy.",
+      "Agreeableness": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Expresses sorrow for Mr. Darcy's disappointment and unhappiness.",
+      "Social dominance orientation": -1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Agrees to take care of her cousins with affection and intelligence.",
+      "Agreeableness": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Expresses hope and requests immediate assistance despite distressing news.",
+      "Agreeableness": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Welcomes her uncle and aunt with alternate smiles and tears, remains hopeful.",
+      "Agreeableness": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Offers to write the letter for Mr. Bennet to save him the trouble.",
+      "Agreeableness": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Hopes for Lydia and Wickham's happiness despite their imprudent behavior.",
+      "Social dominance orientation": 0,
+      "Chunk": 49
+    },
+    {
+      "Action": "Urges Mr. Bennet to receive Lydia and her husband at Longbourn for the sake of Lydia's feelings.",
+      "Agreeableness": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Persuades her father to receive Lydia and her husband despite the disgrace",
+      "Social dominance orientation": -1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Feels distressed and sympathetic for Lydia’s situation.",
+      "Agreeableness": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Stops Lydia from revealing more secrets.",
+      "Agreeableness": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Maintains propriety and avoids unnecessary complaisance in her interaction with Mr. Bingley.",
+      "Social dominance orientation": 0,
+      "Chunk": 53
+    },
+    {
+      "Action": "Satisfied with non-romantic interaction with Mr. Bingley.",
+      "Social dominance orientation": -1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Acknowledges her happiness with liveliness and wishes everyone could be as happy.",
+      "Agreeableness": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Hurries to inform her mother of her happiness to personally share the good news.",
+      "Agreeableness": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Shows distress at her mother's premeditated schemes and values equal happiness for everyone.",
+      "Social dominance orientation": -1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Congratulates Elizabeth and expresses happiness for her sister's engagement despite initial disbelief.",
+      "Agreeableness": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Shows acceptance of Elizabeth's marriage to Darcy despite initial disbelief.",
+      "Social dominance orientation": -1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Responded kindly to Miss Bingley's insincere congratulations.",
+      "Agreeableness": 1,
+      "Chunk": 60
+    }
+  ],
+  "Sir William Lucas": [
+    {
+      "Action": "Occupying himself solely in being civil to all the world despite being elated by his rank.",
+      "Agreeableness": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Attempts to socialize with Mr. Darcy and talks about superior society.",
+      "Social dominance orientation": 0,
+      "Chunk": 6
+    },
+    {
+      "Action": "Gives consent for Charlotte and Mr. Collins's marriage.",
+      "Agreeableness": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Believes it would be expedient for Mr. Collins and his wife to make their appearance at St. James’s when in possession of the Longbourn estate.",
+      "Social dominance orientation": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "He unfolds the matter of his daughter's engagement with compliments and self-gratulation.",
+      "Agreeableness": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Listens to all their impertinence with the most forbearing courtesy.",
+      "Agreeableness": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Sir William's civilities are described as worn out, indicating that his social dominance and hierarchical views are well-known and tiresome.",
+      "Social dominance orientation": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Constantly bows in earnest contemplation of Miss De Bourgh’s greatness.",
+      "Social dominance orientation": 1,
+      "Chunk": 28
+    }
+  ],
+  "Mary Bennet": [
+    {
+      "Action": "Reflects on pride and vanity as common failings in human nature.",
+      "Agreeableness": 0,
+      "Chunk": 5
+    },
+    {
+      "Action": "Critiques the composition of Mr. Collins' letter.",
+      "Agreeableness": 0,
+      "Chunk": 13
+    },
+    {
+      "Action": "Attempts to find merit in Mr. Collins’ formal letter.",
+      "Social dominance orientation": 0,
+      "Chunk": 13
+    },
+    {
+      "Action": "Has no disinclination for the ball and believes in society's claims on everyone, considering recreation and amusement desirable for everybody.",
+      "Agreeableness": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Expresses willingness to join evening engagements for social obligations.",
+      "Social dominance orientation": -1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Prefers reading a book over engaging in social activities.",
+      "Social dominance orientation": -1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Delivers moralistic speeches that do not directly address immediate concerns.",
+      "Agreeableness": 0,
+      "Chunk": 47
+    }
+  ],
+  "Charlotte Lucas": [
+    {
+      "Action": "Discusses strategies for securing a marriage that differ from Jane's spontaneous feelings.",
+      "Agreeableness": 0,
+      "Chunk": 6
+    },
+    {
+      "Action": "Did not actively support Mrs. Bennet in urging Elizabeth to marry Mr. Collins.",
+      "Social dominance orientation": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "Listens to Mr. Collins to keep him in good humor and prevent him from returning his addresses to Elizabeth.",
+      "Agreeableness": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Assured Elizabeth she was satisfied in being useful and that it repaid her for the little sacrifice of her time.",
+      "Agreeableness": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Expresses hope that Elizabeth will be satisfied with her actions after thinking it over.",
+      "Agreeableness": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Engages Mr. Collins to secure herself from return of his addresses towards Elizabeth.",
+      "Social dominance orientation": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Accepts Mr. Collins solely for the desire of an establishment despite his lack of amiable qualities.",
+      "Social dominance orientation": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Submits to Elizabeth her non-romantic, pragmatic view on marriage.",
+      "Social dominance orientation": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Accepts her new social position and associated comforts and expresses cheerfulness about it.",
+      "Social dominance orientation": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Encourages Mr. Collins to work in the garden to maintain peace and comfort in the house.",
+      "Social dominance orientation": 0,
+      "Chunk": 28
+    },
+    {
+      "Action": "Organizes the household to avoid Mr. Collins' dominance yet complies with social expectations.",
+      "Social dominance orientation": 0,
+      "Chunk": 30
+    },
+    {
+      "Action": "Chooses marriage to Mr. Collins with her eyes open, despite his social aspirations.",
+      "Social dominance orientation": 0,
+      "Chunk": 38
+    }
+  ],
+  "Mrs. Hurst and Miss Bingley": [
+    {
+      "Action": "Express superciliousness towards those of lower social standing.",
+      "Social dominance orientation": 1,
+      "Chunk": 6
+    }
+  ],
+  "Miss Bingley": [
+    {
+      "Action": "Mocks the lower social circles and criticizes their insipidity.",
+      "Social dominance orientation": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Offers Elizabeth the carriage and invites her to stay",
+      "Agreeableness": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Shows politeness and offers Elizabeth the carriage to help her.",
+      "Social dominance orientation": 0,
+      "Chunk": 7
+    },
+    {
+      "Action": "Abuses Elizabeth once she leaves the room and criticizes her harshly.",
+      "Agreeableness": -1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Concurs with Darcy's high standards for accomplished women and criticizes Elizabeth for undervaluing other women.",
+      "Agreeableness": -1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Recommends an express to town for a physician but offers little practical help.",
+      "Agreeableness": 0,
+      "Chunk": 8
+    },
+    {
+      "Action": "Mocks Elizabeth Bennet's appearance and independence while emphasizing her attention to social decorum.",
+      "Social dominance orientation": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Assured that Jane would receive every possible attention while she remains at Netherfield, albeit with cold civility.",
+      "Agreeableness": 0,
+      "Chunk": 9
+    },
+    {
+      "Action": "Performed her part without much graciousness.",
+      "Agreeableness": -1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Attempts to provoke Darcy against Elizabeth Bennet.",
+      "Agreeableness": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Observes Mr. Darcy while he writes and repeatedly interrupts him.",
+      "Agreeableness": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Compliments Mr. Darcy excessively to gain his favor.",
+      "Social dominance orientation": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Attempts to provoke Darcy into disliking Elizabeth by talking about their supposed marriage and her family's social status.",
+      "Social dominance orientation": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Makes continuous attempts to engage Mr. Darcy in conversation despite his lack of interest.",
+      "Agreeableness": -1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Suggests waking Mr. Hurst to play music.",
+      "Agreeableness": 0,
+      "Chunk": 11
+    },
+    {
+      "Action": "Suggests consulting the wishes of the party about holding a ball to accommodate Mr. Darcy's preferences.",
+      "Social dominance orientation": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Increased civility to Elizabeth and affection for Jane.",
+      "Agreeableness": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Shows jealousy and dislike of Elizabeth, while being more affectionate towards Jane.",
+      "Social dominance orientation": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Speaks to Elizabeth with expression of civil disdain.",
+      "Agreeableness": -1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Says that Wickham's guilt and descent are the same and expresses disdain against Wickham due to his lower social standing.",
+      "Social dominance orientation": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Boasts of increasing intimacy with Miss Darcy and predicts the accomplishment of class-based wishes.",
+      "Social dominance orientation": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Watch Elizabeth closely out of jealousy and makes a sneering remark to discompose her.",
+      "Agreeableness": -1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Criticizes Elizabeth's appearance to Darcy.",
+      "Agreeableness": -1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Expresses jealousy and criticizes Elizabeth's appearance and character.",
+      "Social dominance orientation": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Miss Bingley paid off every arrear of civility to Elizabeth after Darcy's marriage.",
+      "Agreeableness": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Dropped resentment to retain the right to visit Pemberley.",
+      "Social dominance orientation": 1,
+      "Chunk": 61
+    }
+  ],
+  "Catherine Bennet": [
+    {
+      "Action": "Offers to accompany Elizabeth part of the way on her walk",
+      "Agreeableness": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Shows no interest in Mr. Collins because he didn't come in a scarlet coat.",
+      "Agreeableness": -1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Shows disinterest in Mr. Collins due to his lack of social appeal.",
+      "Social dominance orientation": 0,
+      "Chunk": 13
+    }
+  ],
+  "Mr. Hurst": [
+    {
+      "Action": "Shows indifference towards Elizabeth and prefers to focus on eating, drinking, and playing cards.",
+      "Agreeableness": -1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Shows disinterest in Elizabeth's preference for reading over playing cards, expressing astonishment.",
+      "Social dominance orientation": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Falls asleep on the sofa instead of engaging with the group or playing cards.",
+      "Agreeableness": -1,
+      "Chunk": 11
+    }
+  ],
+  "Mrs. Hurst": [
+    {
+      "Action": "Echoes Miss Bingley's negative comments about Elizabeth.",
+      "Agreeableness": -1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Agrees with Miss Bingley's mockery of Elizabeth Bennet and expresses disdain for her family's lower social connections.",
+      "Social dominance orientation": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Shows indifference to Elizabeth and Mrs. Gardiner.",
+      "Social dominance orientation": 1,
+      "Chunk": 45
+    }
+  ],
+  "Darcy": [
+    {
+      "Action": "Criticizes the variety of people in the country.",
+      "Social dominance orientation": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Displays cold salutation towards Mr. Wickham",
+      "Social dominance orientation": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Darcy assisted Wickham further in his profession despite never receiving him at Pemberley.",
+      "Agreeableness": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Refused to receive Wickham at Pemberley.",
+      "Social dominance orientation": 1,
+      "Chunk": 61
+    }
+  ],
+  "Mr. Collins": [
+    {
+      "Action": "Writes a letter seeking to heal the breach between families and expresses readiness to make amends to Mr. Bennet's daughters.",
+      "Agreeableness": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Compliments Mrs. Bennet on her fine family of daughters and expresses intent to admire them.",
+      "Agreeableness": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Apologizes repeatedly for displeasing Mrs. Bennet.",
+      "Agreeableness": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Expresses deference to Lady Catherine de Bourgh and accepts the hierarchical structure of inheritance.",
+      "Social dominance orientation": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Offers flattering compliments to Lady Catherine, although they are somewhat insincere.",
+      "Agreeableness": 0,
+      "Chunk": 14
+    },
+    {
+      "Action": "Expresses frustration at Lydia's interruption but does not bear ill-will towards her.",
+      "Agreeableness": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Stops reading and offers to play a game with Mr. Bennet.",
+      "Agreeableness": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Praises Lady Catherine's affability and rank.",
+      "Social dominance orientation": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Remarks on Miss de Bourgh's distinguished birth.",
+      "Social dominance orientation": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Expresses pleasure in offering compliments to Lady Catherine.",
+      "Social dominance orientation": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Refuses to read novels from a circulating library.",
+      "Social dominance orientation": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Accepts Mr. Bennet's invitation to join his daughters on their walk.",
+      "Agreeableness": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Apologizes for intruding on Mrs. Philips and shows gratitude for her politeness.",
+      "Agreeableness": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Veneration for Lady Catherine de Bourgh’s high rank",
+      "Social dominance orientation": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Self-importance as a clergyman",
+      "Social dominance orientation": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Chooses Elizabeth as potential wife after being cautioned against Jane",
+      "Social dominance orientation": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Resists scruples about leaving Mr. and Mrs. Bennet for an evening to join the engagement.",
+      "Agreeableness": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Compliments Mrs. Philips’s house by comparing it to Lady Catherine's mansion.",
+      "Agreeableness": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Sits down to play whist, obliging Mrs. Philips.",
+      "Agreeableness": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Assures Mrs. Philips not to worry about his money loss in the game.",
+      "Agreeableness": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Admiring the furniture of the drawing-room and comparing it to Lady Catherine's mansion.",
+      "Social dominance orientation": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Describing the grandeur of Lady Catherine and her mansion.",
+      "Social dominance orientation": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Acknowledging his thanks to Lady Catherine de Bourgh for removing him beyond regarding little matters.",
+      "Social dominance orientation": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Expressing gratitude towards Mr. and Mrs. Philips.",
+      "Social dominance orientation": 0,
+      "Chunk": 16
+    },
+    {
+      "Action": "Solicits Elizabeth for the first two dances at the ball.",
+      "Social dominance orientation": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Enthusiastically approaches Mr. Darcy to pay respects due to Lady Catherine.",
+      "Agreeableness": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Remains close to Elizabeth the whole evening despite her wishes.",
+      "Agreeableness": -1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Expresses excitement about introducing himself to Mr. Darcy because of his connection to Lady Catherine de Bourgh.",
+      "Social dominance orientation": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Ignores Elizabeth's repeated and clear refusals.",
+      "Agreeableness": -1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Seeks approval from Lady Catherine de Bourgh for marriage decisions.",
+      "Social dominance orientation": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Proposes marriage to Elizabeth Bennet with the rationale of his social and familial position.",
+      "Social dominance orientation": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Speaks highly of Lady Catherine de Bourgh’s manners and rank as an advantage in his power to offer.",
+      "Social dominance orientation": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Believes Elizabeth's refusals are customary and expects her eventual acceptance due to social hierarchy.",
+      "Social dominance orientation": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Considers Elizabeth's refusal might be due to genuine character delicacy.",
+      "Agreeableness": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "Expresses resignation and apologizes for any offense caused.",
+      "Agreeableness": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Suggested that Elizabeth might not be a desirable wife if she is headstrong and foolish.",
+      "Social dominance orientation": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Expresses feelings through stiffness of manner and resentful silence after rejection.",
+      "Agreeableness": -1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Displays stiffness of manner and resentful silence after Elizabeth rejects his marriage proposal.",
+      "Social dominance orientation": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Earnestly entreats Charlotte to name the day that would make him the happiest of men.",
+      "Agreeableness": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Thanks Mrs. Bennet for her invitation and promises to return as soon as possible.",
+      "Agreeableness": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Avoids notice by his cousins to keep his intentions secret until success.",
+      "Social dominance orientation": 0,
+      "Chunk": 22
+    },
+    {
+      "Action": "Displays gratitude and duty by keeping Mr. Bennet’s caution about Lady Catherine’s disapproval.",
+      "Social dominance orientation": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Wishes his fair cousins health and happiness again and promises their father another letter of thanks.",
+      "Agreeableness": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Elizabeth's disgust towards Mr. Collins, despite absence weakening it, indicates that Mr. Collins exhibits behavior and attitudes that support hierarchical social structures.",
+      "Social dominance orientation": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Punctually repeated all his wife’s offers of refreshment.",
+      "Agreeableness": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Invited them to admire his garden and house, showcasing his hospitality.",
+      "Agreeableness": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Expressed high regard for Lady Catherine de Bourgh.",
+      "Agreeableness": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Welcomes guests with ostentatious formality and emphasizes his connections to higher social status individuals.",
+      "Social dominance orientation": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Instructs Elizabeth not to be uneasy about her apparel.",
+      "Agreeableness": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Recommends being quick as Lady Catherine objects to being kept waiting.",
+      "Agreeableness": 0,
+      "Chunk": 29
+    },
+    {
+      "Action": "Commends and praises every dish at dinner.",
+      "Agreeableness": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Delights in displaying Lady Catherine's grandeur and is awed by her civility towards him.",
+      "Social dominance orientation": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Devotedly reports to Lady Catherine and shares information on local activities.",
+      "Social dominance orientation": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Despite Elizabeth's genuine illness, he reveals apprehension about Lady Catherine’s displeasure rather than concern for Elizabeth’s well-being.",
+      "Agreeableness": -1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Hastened to console Lady Catherine and her daughter after a melancholic scene.",
+      "Agreeableness": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Pays parting civilities and expresses gratitude for Elizabeth's company.",
+      "Agreeableness": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Expresses gratitude for condescension and connection with superior society at Rosings.",
+      "Social dominance orientation": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Condoles with Mr. Bennet and offers arguments to alleviate his misfortune.",
+      "Agreeableness": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Encourages Mr. Bennet to disown Lydia to protect the family's reputation.",
+      "Social dominance orientation": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Warns Elizabeth about possible evils of marrying Darcy due to family objections from Lady Catherine.",
+      "Social dominance orientation": 1,
+      "Chunk": 57
+    }
+  ],
+  "Lydia": [
+    {
+      "Action": "Interrupts Mr. Collins while he is reading.",
+      "Agreeableness": -1,
+      "Chunk": 14
+    }
+  ],
+  "Mrs. Bennet and Daughters": [
+    {
+      "Action": "Apologize for Lydia's interruption.",
+      "Agreeableness": 1,
+      "Chunk": 14
+    }
+  ],
+  "Elizabeth": [
+    {
+      "Action": "Walks with her sisters including Mr. Collins as instructed by her father.",
+      "Agreeableness": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Listens with all her heart to Mr. Wickham's stories.",
+      "Agreeableness": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Converses with Mr. Wickham and agrees with his rational accounts.",
+      "Agreeableness": 1,
+      "Chunk": 16
+    }
+  ],
+  "Mr. Wickham": [
+    {
+      "Action": "Engages in polite and readiness of conversation with the ladies.",
+      "Agreeableness": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Joins regiment and engages in agreeable conversation",
+      "Social dominance orientation": 0,
+      "Chunk": 15
+    },
+    {
+      "Action": "Engages Elizabeth in conversation and answers her questions.",
+      "Agreeableness": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Observes Mr. Collins and engages in conversation about his connections.",
+      "Agreeableness": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Receiving delight and attention between Elizabeth and Lydia and engaging in the conversation.",
+      "Social dominance orientation": 0,
+      "Chunk": 16
+    },
+    {
+      "Action": "Criticizing Mr. Darcy for giving the living to another man.",
+      "Social dominance orientation": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Grateful towards Elizabeth's sympathy regarding his situation.",
+      "Social dominance orientation": 0,
+      "Chunk": 16
+    },
+    {
+      "Action": "Discussing general topics such as Meryton, neighborhood, and society with Elizabeth Bennet.",
+      "Social dominance orientation": 0,
+      "Chunk": 16
+    },
+    {
+      "Action": "Speaking ill of Miss Darcy.",
+      "Social dominance orientation": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Acknowledging Lady Catherine de Bourgh's reputation.",
+      "Social dominance orientation": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Avoids Mr. Darcy at the Netherfield ball, imposing his absence self-willingly.",
+      "Social dominance orientation": 0,
+      "Chunk": 21
+    },
+    {
+      "Action": "Openly acknowledges his claims on Mr. Darcy, contributing to Darcy's condemnation by society.",
+      "Social dominance orientation": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Mr. Wickham's friendly farewell and solicitude show that he considers Elizabeth’s opinions of social hierarchy, such as that of Lady Catherine de Bourgh, important.",
+      "Social dominance orientation": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Pursues Georgiana Darcy for financial gain, highlighting opportunistic behavior rather than adherence to social hierarchy.",
+      "Social dominance orientation": -1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Engages with militia and attempts to advance his status through mercenary motives.",
+      "Social dominance orientation": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Expresses disdain for Mr. Darcy and implies he behaves due to fear of his aunt",
+      "Social dominance orientation": 1,
+      "Chunk": 41
+    }
+  ],
+  "Mr. Denny": [
+    {
+      "Action": "Pleasantly introduces Mr. Wickham to the ladies.",
+      "Agreeableness": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Introduces Mr. Wickham to the group",
+      "Social dominance orientation": 0,
+      "Chunk": 15
+    }
+  ],
+  "Mrs. Philips": [
+    {
+      "Action": "Politely receives Mr. Collins despite their lack of previous acquaintance.",
+      "Agreeableness": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Listens attentively to Mr. Collins’s descriptions of Lady Catherine's grandeur.",
+      "Agreeableness": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Provides Mr. Collins with coffee and muffins.",
+      "Agreeableness": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Spreads news of the upcoming advantageous marriage, reinforcing the family's heightened social status.",
+      "Social dominance orientation": 1,
+      "Chunk": 55
+    }
+  ],
+  "Kitty and Lydia": [
+    {
+      "Action": "Leads the way to find out about the stranger.",
+      "Agreeableness": 0,
+      "Chunk": 15
+    }
+  ],
+  "Mr. Bingley's sisters": [
+    {
+      "Action": "Paid little attention to the rest of the family and avoided Mrs. Bennet as much as possible.",
+      "Agreeableness": -1,
+      "Chunk": 17
+    }
+  ],
+  "Mr. Bingley and his sisters": [
+    {
+      "Action": "Avoid Mrs. Bennet and pay little attention to Elizabeth and other Bennet sisters.",
+      "Social dominance orientation": 1,
+      "Chunk": 17
+    }
+  ],
+  "Miss Lucas": [
+    {
+      "Action": "Displays civility in listening to Mr. Collins, providing relief to everyone.",
+      "Agreeableness": 1,
+      "Chunk": 21
+    }
+  ],
+  "Caroline Bingley": [
+    {
+      "Action": "Attempts to manipulate Jane Bennet's feelings by suggesting her brother Charles is interested in Miss Darcy.",
+      "Social dominance orientation": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Shows inattention towards Jane by not seeing or hearing from her for a week.",
+      "Agreeableness": -1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Makes a slight and formal apology for not calling on Jane sooner.",
+      "Agreeableness": -1,
+      "Chunk": 26
+    }
+  ],
+  "Lady Lucas": [
+    {
+      "Action": "Joyfully bestows consent for Charlotte's marriage.",
+      "Agreeableness": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Calculates Mr. Bennet's expected lifespan to gauge Mr. Collins's future wealth.",
+      "Social dominance orientation": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Expresses triumph over having a daughter well married",
+      "Social dominance orientation": 1,
+      "Chunk": 23
+    }
+  ],
+  "Kitty Bennet and Lydia Bennet": [
+    {
+      "Action": "Far from envying Miss Lucas, unaffected by the news other than as gossip.",
+      "Agreeableness": 0,
+      "Chunk": 23
+    }
+  ],
+  "Kitty and Lydia Bennet": [
+    {
+      "Action": "Dismiss Mr. Collins because he is only a clergyman",
+      "Social dominance orientation": 1,
+      "Chunk": 23
+    }
+  ],
+  "Mr. Gardiner": [
+    {
+      "Action": "Listens to Mrs. Bennet's grievances with patience, implicitly showing sympathy.",
+      "Agreeableness": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Encourages Mrs. Reynolds' communicativeness and praises Mr. Darcy.",
+      "Agreeableness": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Expresses skepticism about Mr. Darcy's character, but acknowledges his politeness and unassuming behavior.",
+      "Social dominance orientation": -1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Expressing perfect willingness to accept Miss Darcy's invitation to dinner.",
+      "Agreeableness": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Shows willingness to socialize across varied groups.",
+      "Social dominance orientation": -1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Promises assistance in locating Lydia despite the shock of the situation.",
+      "Agreeableness": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Offers to help recover Lydia after her elopement.",
+      "Agreeableness": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Actively assists his brother-in-law in pursuing inquiries to resolve the distressing situation.",
+      "Agreeableness": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Takes charge of the search for Lydia and Wickham.",
+      "Social dominance orientation": 0,
+      "Chunk": 48
+    },
+    {
+      "Action": "Generously offers financial assistance and personal protection to Lydia despite her elopement and social disgrace.",
+      "Social dominance orientation": -1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Expresses eagerness to promote the welfare of Mr. Bennet's family.",
+      "Agreeableness": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Assists with paying off Wickham's debts and securing his future military position.",
+      "Agreeableness": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Supports his niece by helping with debts and seeking a better social position through the army",
+      "Social dominance orientation": 1,
+      "Chunk": 50
+    }
+  ],
+  "Mrs. Gardiner": [
+    {
+      "Action": "Listens to Mrs. Bennet's grievances and tries to shift the conversation to alleviate discomfort.",
+      "Agreeableness": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Eagerly engages Elizabeth in conversation to offer consolation and advice following Jane's disappointment.",
+      "Agreeableness": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Suspiciously observes Elizabeth and Mr. Wickham, indicating distrust.",
+      "Agreeableness": -1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Resolves to speak to Elizabeth about the imprudence of encouraging an attachment with Wickham.",
+      "Agreeableness": 0,
+      "Chunk": 25
+    },
+    {
+      "Action": "Attempts to divert conversation for the comfort of her nieces.",
+      "Social dominance orientation": 0,
+      "Chunk": 25
+    },
+    {
+      "Action": "Cautions Elizabeth against an imprudent affection due to the lack of fortune.",
+      "Agreeableness": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Cautions Elizabeth against involving herself with someone of inadequate fortune.",
+      "Social dominance orientation": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Expresses a desire to revisit a place of former residence.",
+      "Agreeableness": 0,
+      "Chunk": 42
+    },
+    {
+      "Action": "Expresses wonder and pleasure at Mr. Darcy's civility which far exceeded expectations.",
+      "Agreeableness": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Acknowledges Mr. Darcy's pleasant demeanor despite his supposed pride.",
+      "Social dominance orientation": 0,
+      "Chunk": 43
+    },
+    {
+      "Action": "Engages in social activities and accepts invitations from different social circles.",
+      "Social dominance orientation": -1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Carries on conversation to alleviate awkwardness.",
+      "Agreeableness": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Condemns Wickham's actions but remains hopeful and supports her niece.",
+      "Agreeableness": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Remains in Hertfordshire to support her nieces and provide comfort to them.",
+      "Agreeableness": 1,
+      "Chunk": 48
+    }
+  ],
+  "Miss Bennet": [
+    {
+      "Action": "Accepts her aunt's invitation with pleasure, indicating openness to change and support.",
+      "Agreeableness": 1,
+      "Chunk": 25
+    }
+  ],
+  "Mrs. Collins (Charlotte)": [
+    {
+      "Action": "Affectionately received Elizabeth.",
+      "Agreeableness": 1,
+      "Chunk": 28
+    }
+  ],
+  "Charlotte": [
+    {
+      "Action": "Encourages her husband’s pleasure in gardening, showing support.",
+      "Agreeableness": 1,
+      "Chunk": 28
+    }
+  ],
+  "Lady Catherine de Bourgh": [
+    {
+      "Action": "Ensures her guests are transported home by her carriage.",
+      "Agreeableness": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Frequently invites Mr. Collins and his guests to dine at her estate and ensures their transportation.",
+      "Social dominance orientation": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Entered the room with an ungracious air and made no reply to Elizabeth's salutation except a slight inclination of the head.",
+      "Agreeableness": -1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Presented herself with the determined resolution to carry her purpose, disregarding Elizabeth's feelings and opinions.",
+      "Agreeableness": -1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Insisted on knowing Elizabeth's private affairs and tried to dictate her actions.",
+      "Agreeableness": -1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Asserts the superiority of her family lineage and insists on maintaining class distinctions by preventing a marriage.",
+      "Social dominance orientation": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Attempted to convince Elizabeth to refuse Darcy's proposal to uphold social hierarchy and family expectations.",
+      "Social dominance orientation": 1,
+      "Chunk": 58
+    }
+  ],
+  "Miss De Bourgh": [
+    {
+      "Action": "Kept Charlotte waiting outside in the wind.",
+      "Agreeableness": -1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Rarely comes into the house.",
+      "Agreeableness": -1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Rarely comes inside when visiting and is seen as doing a great favor when she does.",
+      "Social dominance orientation": 1,
+      "Chunk": 28
+    }
+  ],
+  "Maria Lucas": [
+    {
+      "Action": "Is apprehensive and frightened at the introduction to Lady Catherine.",
+      "Agreeableness": 0,
+      "Chunk": 29
+    }
+  ],
+  "Lady Catherine": [
+    {
+      "Action": "Asks numerous personal questions of Elizabeth in an impertinent manner.",
+      "Agreeableness": -1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Maintains a strict sense of rank and displays authoritative behavior, making her visitors aware of their inferior position.",
+      "Social dominance orientation": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Actively oversees and intervenes in the minutest concerns of the parish.",
+      "Social dominance orientation": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Civilly receiving the visitors but focusing more on her nephews.",
+      "Agreeableness": 0,
+      "Chunk": 31
+    },
+    {
+      "Action": "Calling out instructions and criticisms regarding Elizabeth's music.",
+      "Agreeableness": -1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Giving instructions and criticisms about Elizabeth's music.",
+      "Agreeableness": -1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Speaks about superior music taste and proficiency without having learned.",
+      "Social dominance orientation": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Remarks about Elizabeth needing more practice and the advantage of a London master.",
+      "Social dominance orientation": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Mentions Anne would have been a delightful performer if her health allowed her.",
+      "Social dominance orientation": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Invited Elizabeth to stay longer and offered assistance for her journey.",
+      "Agreeableness": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Ensured young women travelled properly guarded.",
+      "Agreeableness": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Gave meticulous directions for packing and wished a good journey.",
+      "Agreeableness": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Takes trouble to break off Elizabeth's supposed engagement with Darcy.",
+      "Social dominance orientation": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Displayed indignation at Elizabeth's marriage to Darcy.",
+      "Social dominance orientation": 1,
+      "Chunk": 61
+    }
+  ],
+  "Mrs. Jenkinson": [
+    {
+      "Action": "Attends carefully to Miss de Bourgh's needs during dinner.",
+      "Agreeableness": 1,
+      "Chunk": 29
+    }
+  ],
+  "Sir William": [
+    {
+      "Action": "Feels awe due to the grandeur surrounding him and feels compelled to a very low bow.",
+      "Social dominance orientation": 0,
+      "Chunk": 29
+    }
+  ],
+  "Colonel Fitzwilliam": [
+    {
+      "Action": "Engages in conversation with readiness and ease without asserting social hierarchy.",
+      "Social dominance orientation": -1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Seating himself by Elizabeth and talking agreeably.",
+      "Agreeableness": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Drawing a chair near Elizabeth to listen to her playing.",
+      "Agreeableness": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Talks agreeably with Elizabeth and seats himself by her.",
+      "Social dominance orientation": 0,
+      "Chunk": 31
+    },
+    {
+      "Action": "Frequently visited the Parsonage for the pleasure of their company.",
+      "Agreeableness": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Engaged in a friendly conversation with Elizabeth and shared details about Mr. Darcy’s interference in a friend's imprudent marriage.",
+      "Agreeableness": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Admits dependence on wealth for marital choices.",
+      "Social dominance orientation": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Being agreeable and not causing Elizabeth unhappiness.",
+      "Agreeableness": 1,
+      "Chunk": 34
+    }
+  ],
+  "Mrs. Collins": [
+    {
+      "Action": "Watched Mr. Darcy to find out if he was in love with Elizabeth.",
+      "Agreeableness": 0,
+      "Chunk": 32
+    },
+    {
+      "Action": "Does not press Elizabeth to go to Rosings when she sees she is really unwell and tries to prevent her husband from pressing her.",
+      "Agreeableness": 1,
+      "Chunk": 33
+    }
+  ],
+  "Miss de Bourgh": [
+    {
+      "Action": "Courtesied and held out her hand to both Elizabeth and Maria.",
+      "Agreeableness": 1,
+      "Chunk": 37
+    }
+  ],
+  "Mrs. Reynolds": [
+    {
+      "Action": "Speaks highly of Mr. Darcy, emphasizing his good nature and generosity.",
+      "Agreeableness": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Describes Mr. Darcy as affable to the poor and highly praises his character.",
+      "Social dominance orientation": -1,
+      "Chunk": 43
+    }
+  ],
+  "Miss Darcy": [
+    {
+      "Action": "Expressing wish to see Mr. and Mrs. Gardiner, and Miss Bennet to dinner at Pemberley.",
+      "Agreeableness": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Displays diffidence, marking little habit of giving invitations.",
+      "Social dominance orientation": 0,
+      "Chunk": 44
+    },
+    {
+      "Action": "Shows embarrassment and shyness, indicative of fear of doing wrong.",
+      "Agreeableness": 0,
+      "Chunk": 45
+    },
+    {
+      "Action": "Shows embarrassment and avoids conversation due to shyness.",
+      "Social dominance orientation": 0,
+      "Chunk": 45
+    }
+  ],
+  "Georgiana Darcy": [
+    {
+      "Action": "Is unable to speak due to confusion but tries to join conversation.",
+      "Agreeableness": 0,
+      "Chunk": 45
+    }
+  ],
+  "Mrs. Annesley": [
+    {
+      "Action": "Initiates conversation and interaction amongst the group in a civil manner.",
+      "Social dominance orientation": -1,
+      "Chunk": 45
+    }
+  ],
+  "Wickham": [
+    {
+      "Action": "Refused initial reasonable terms of help and demanded more than he could get.",
+      "Agreeableness": -1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Continuously tried to manipulate and misrepresent past events concerning himself and Mr. Darcy.",
+      "Agreeableness": -1,
+      "Chunk": 52
+    }
+  ],
+  "A Young Lady": [
+    {
+      "Action": "Whispers to Elizabeth that they don't need the men to join them.",
+      "Agreeableness": -1,
+      "Chunk": 54
+    }
+  ],
+  "Mrs. Long": [
+    {
+      "Action": "Compliments Jane Bennet's beauty and suggests a positive future.",
+      "Agreeableness": 1,
+      "Chunk": 54
+    }
+  ],
+  "Miss Bennet (Jane)": [
+    {
+      "Action": "Expresses satisfaction with the day and Bingley's behavior.",
+      "Agreeableness": 1,
+      "Chunk": 54
+    }
+  ],
+  "Unspecified Lady": [
+    {
+      "Action": "Declares determination to avoid interaction with men at the party.",
+      "Social dominance orientation": 0,
+      "Chunk": 54
+    }
+  ],
+  "Mr. Bingley and Jane": [
+    {
+      "Action": "Moved away from their lower-status relatives.",
+      "Social dominance orientation": 1,
+      "Chunk": 61
+    }
+  ],
+  "Kitty": [
+    {
+      "Action": "Improved herself by spending time with her higher-status sisters.",
+      "Social dominance orientation": 1,
+      "Chunk": 61
+    }
+  ],
+  "Elizabeth Bennet and Mr. Darcy": [
+    {
+      "Action": "Maintained intimate and grateful terms with the Gardiners, who were of lower social status.",
+      "Social dominance orientation": 0,
+      "Chunk": 61
+    }
+  ]
+}

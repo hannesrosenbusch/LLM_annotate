@@ -1,0 +1,2355 @@
+{
+  "Jo": [
+    {
+      "Action": "Grumbles about Christmas without presents",
+      "trait": "discontented",
+      "value": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Mentions father being away",
+      "trait": "worried",
+      "value": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Wants to buy a book",
+      "trait": "bookworm",
+      "value": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Suggests buying what they want",
+      "trait": "pragmatic",
+      "value": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Uses slang words and whistles",
+      "rebellious": 1,
+      "unconventional": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Held slippers nearer to the blaze",
+      "caring": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Declared herself the man of the family",
+      "assertive": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Agrees with Beth's suggestion and plans the surprise",
+      "supportive": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Plans to buy army shoes",
+      "practical": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Remembers past birthday traditions",
+      "nostalgic": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Plans shopping and play rehearsal",
+      "organized": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Encourages Meg to continue acting",
+      "encouraging": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Critiques Amy's acting",
+      "critical": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Demonstrates dramatic scene",
+      "dramatic": 1,
+      "creative": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Writes and acts plays",
+      "creative": 1,
+      "ambitious": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Brings wood and sets chairs",
+      "clumsy": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Expresses excitement for father's letter",
+      "enthusiastic": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Wishes to help in the war",
+      "caring": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Cries while reading letter",
+      "emotional": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Tries to be what father loves to call her, 'a little woman'",
+      "determined": 1,
+      "self-reflective": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Remembers playing Pilgrim's Progress",
+      "adventurous": 1,
+      "nostalgic": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Proposes a plan",
+      "creative": 1,
+      "imaginative": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Sings off-key",
+      "carefree": 1,
+      "unconventional": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Wakes up first on Christmas morning",
+      "eager": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Feels disappointed initially",
+      "emotional": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Remembers her mother's promise",
+      "thoughtful": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Wakes Meg with a 'Merry Christmas'",
+      "cheerful": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Reads with Meg",
+      "affectionate": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Dances around the room",
+      "playful": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Calls Amy 'a trump'",
+      "supportive": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Eagerly agrees to give breakfast to the poor",
+      "compassionate": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Made others laugh",
+      "humorous": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Pranced about",
+      "energetic": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Plays male parts",
+      "creative": 1,
+      "resourceful": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Takes satisfaction in wearing boots",
+      "expressive": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Learns multiple parts",
+      "hardworking": 1,
+      "dedicated": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Guesses Aunt March sent the supper",
+      "imaginative": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Wants to speak to the boy next door",
+      "sociable": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Decides to know the boy next door",
+      "determined": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Laughs about not inviting the boy in",
+      "humorous": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Offers to go without gloves",
+      "selfless": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Reads a book",
+      "bookish": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Promises to behave",
+      "considerate": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Burns Meg's hair",
+      "careless": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Made a mess with the tongs",
+      "clumsy": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Endured discomfort from hair-pins",
+      "stoic": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Joked about Marmee's concern for handkerchiefs",
+      "humorous": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Asks for a reminder if doing anything wrong",
+      "self-aware": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Feels out of place at the party",
+      "introverted": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Longs to join boys talking about skates",
+      "sporty": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Avoids dancing with a red-headed youth",
+      "shy": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Engages in conversation with Laurie",
+      "sociable": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Describes Laurie to herself",
+      "observant": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Checks herself from asking Laurie's age directly",
+      "tactful": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Blushes at her own informal language",
+      "self-conscious": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Changes subject to avoid confrontation",
+      "diplomatic": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Admits to burning frocks",
+      "honest": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Dances with Laurie",
+      "adventurous": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Rubs Meg's ankle",
+      "caring": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Offers to stay with Meg",
+      "caring": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Blunders and spills coffee",
+      "clumsy": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Seeks help from Laurie",
+      "resourceful": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Takes charge of situation",
+      "decisive": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Accepts Laurie's offer",
+      "practical": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Saved bonbons for the little girls",
+      "generous": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Bound up Meg's foot and brushed her hair",
+      "caring": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Expressed contentment with simple pleasures",
+      "pragmatic": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Encouraged not to grumble and to be cheerful",
+      "optimistic": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Whistles and makes a racket",
+      "carefree": 1,
+      "boisterous": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Tramps away",
+      "independent": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Uses strong words",
+      "expressive": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Encourages Meg",
+      "supportive": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Finds something funny",
+      "optimistic": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Builds railroads and bridges with dictionaries",
+      "creative": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Devours poetry, romance, history, travels, and pictures",
+      "bookish": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Has ambition to do something splendid",
+      "ambitious": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Has quick temper and sharp tongue",
+      "temperamental": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Supports herself",
+      "independent": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Tells stories and reads secretly",
+      "rebellious": 1,
+      "imaginative": 1,
+      "humorous": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Read to Aunt",
+      "good-natured": 1,
+      "mischievous": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Relishes the scrape",
+      "mischievous": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Requests a story with a moral",
+      "thoughtful": 1,
+      "curious": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Looked up quickly, as if about to speak, but changed her mind",
+      "thoughtful": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Added a humorous comment about the sermon",
+      "humorous": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Considers visiting Laurie",
+      "daring": 1,
+      "compassionate": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Throws snowball to get Laurie's attention",
+      "playful": 1,
+      "resourceful": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Brings blanc-mange and kittens",
+      "thoughtful": 1,
+      "kind": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Tidies up Laurie's room",
+      "helpful": 1,
+      "efficient": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Invites Laurie to visit",
+      "kind": 1,
+      "compassionate": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Encourages Laurie to visit and make friends",
+      "friendly": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Gives a lively description of Aunt March",
+      "humorous": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Doesn't mind having a laugh at Aunt March",
+      "good-natured": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Tells about plays and plans",
+      "expressive": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Talks about books",
+      "bookish": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Not afraid of anything",
+      "brave": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Claps hands and prances in library",
+      "enthusiastic": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Expresses admiration for Laurie's home",
+      "appreciative": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Admits slight fear of Laurie's grandpa",
+      "honest": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Stays despite embarrassment",
+      "brave": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Speaks candidly about Mr. Laurence",
+      "honest": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Tries to be neighborly to Laurie",
+      "kind": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Offers to help",
+      "helpful": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Talks eagerly",
+      "enthusiastic": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Imagines telling story",
+      "imaginative": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Laughs at Laurie's antics",
+      "humorous": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Enjoys conservatory",
+      "appreciative": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Listens to music",
+      "music lover": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Praises Laurie",
+      "encouraging": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Welcomes Laurie",
+      "welcoming": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Browses the library and critiques books",
+      "intellectual": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Convulses the old gentleman with her criticisms",
+      "humorous": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Tries to soothe Beth",
+      "supportive": 1,
+      "humorous": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Dances a jig",
+      "expressive": 1,
+      "joyful": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Laughs at Amy's mistake",
+      "playful": 1,
+      "teasing": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Dies in agonies of remorse",
+      "remorseful": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Sings of hatred and love",
+      "dramatic": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Plans to kill Roderigo and win Zara",
+      "villainous": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Commands Hagar",
+      "authoritative": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Receives potions and departs",
+      "resourceful": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Drinks the poison and dies",
+      "unaware": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Chants incantation",
+      "theatrical": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Promises potions",
+      "mysterious": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Calls up a spirit",
+      "magical": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Curses Hugo and intends to thwart his plans",
+      "vengeful": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Frees the lovers and finishes Hugo",
+      "cunning": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Changes the cups to save the captives",
+      "resourceful": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Sings a powerful song",
+      "talented": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Bequeaths wealth to the young pair",
+      "generous": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Expresses dislike for growing up and traditional female roles",
+      "rebellious": 1,
+      "tomboyish": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Eating apples and crying over a book",
+      "emotional": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Retires with a book and pet rat",
+      "introverted": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Doesn't care much about dress",
+      "practical": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Prefers flying about and cutting capers to company dancing",
+      "free-spirited": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Tries to be polite and easy",
+      "polite": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Laughs heartily",
+      "good-natured": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Expresses dislike for her name",
+      "self-aware": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Resigns herself to being called Josephine",
+      "resigned": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Expresses enthusiasm for travel stories",
+      "curious": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Works for Aunt March",
+      "pragmatic": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Gets on well with irascible Aunt March",
+      "adaptable": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Marches home after a disagreement",
+      "assertive": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Returns to Aunt March after being sent for",
+      "forgiving": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Attracted to Aunt March's library",
+      "intellectual": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Goes out for exercise in the snow",
+      "adventurous": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Plans to make friends with the Laurence boy",
+      "sociable": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Inquires about Mr. Laurence's dislike for music",
+      "inquisitive": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Dismisses sentimentality",
+      "practical": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Expresses liking for Laurie",
+      "friendly": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Helps Beth with the note",
+      "supportive": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Quenches Amy's excitement",
+      "protective": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Reads the letter for Beth",
+      "caring": 1,
+      "Chunk": 56
+    }
+  ],
+  "Meg": [
+    {
+      "Action": "Sighs about being poor",
+      "trait": "materialistic",
+      "value": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Explains mother's reasoning for no presents",
+      "trait": "understanding",
+      "value": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Complains about teaching children",
+      "trait": "complaining",
+      "value": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Remembers better times and lectures sisters",
+      "nostalgic": 1,
+      "responsible": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Decides to give gloves as a gift",
+      "thoughtful": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Expresses reluctance to act",
+      "mature": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Laughs at Amy's performance",
+      "amused": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Arranges the tea-table",
+      "helpful": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Praises father for being a chaplain",
+      "admiring": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Acknowledges vanity and dislike for work",
+      "self-aware": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Remembers bundles falling off",
+      "practical": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Suggests doing good",
+      "thoughtful": 1,
+      "moral": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Leads singing",
+      "musical": 1,
+      "leader": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Wakes up and finds a book",
+      "grateful": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Influences her sisters with her nature",
+      "influential": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Decides to read every morning",
+      "disciplined": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Organizes gifts and reassures Beth",
+      "responsible": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Hugs Amy",
+      "affectionate": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Prepares food to give away",
+      "caring": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Expressed satisfaction in helping others",
+      "altruistic": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Escorted mother with dignity",
+      "respectful": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Plays the role of Hagar",
+      "theatrical": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Smiles sweetly",
+      "grateful": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Is prim and doesn't let Jo speak to the boy",
+      "reserved": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Worried about gloves",
+      "anxious": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Wails about her hair",
+      "vain": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Complained about her hair",
+      "vain": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Wore tight slippers without complaining",
+      "stoic": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Discussed aristocratic tastes",
+      "refined": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Gives advice on proper behavior",
+      "proper": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Dances despite pain from tight slippers",
+      "resilient": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Sprains ankle",
+      "careless": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Reclines and waits for Hannah",
+      "patient": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Hides rubbers",
+      "discreet": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Rises quickly despite pain",
+      "determined": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Cries after hurting herself",
+      "sensitive": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Cheering up at the thought of visiting Annie Moffat",
+      "optimistic": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Expressed desire for luxury and fine things",
+      "materialistic": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Sighed about returning to work after holidays",
+      "reluctant": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Did not brighten at Jo's encouragement",
+      "pessimistic": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Doesn't dress up",
+      "self-conscious": 1,
+      "pessimistic": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Shrouds herself like a nun",
+      "reserved": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Laughs at Jo's nonsense",
+      "humorous": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Tries to be cheerful",
+      "resilient": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Acts as Amy's confidant and monitor",
+      "responsible": 1,
+      "caring": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Observed the Kings' family situation",
+      "empathetic": 1,
+      "observant": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Cried out about Marmee's story",
+      "perceptive": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Sends blanc-mange for Laurie",
+      "considerate": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Walks in the conservatory and revels in bouquets",
+      "appreciative of nature": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Displays piano's features",
+      "appreciative": 1,
+      "observant": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Works as nursery governess",
+      "industrious": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Feels rich with small salary",
+      "content": 0.5,
+      "Chunk": 33
+    },
+    {
+      "Action": "Longs for luxury and pretty things",
+      "materialistic": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Seldom complains despite feeling injustice",
+      "resilient": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Critiques Amy's manners",
+      "observant": 1,
+      "caring": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Reads invitation with delight",
+      "excitable": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Wants to wear silk",
+      "aspirational": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Insists on having gloves for the dance",
+      "conventional": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Advises Jo to stay warm and dry by the fire",
+      "cautious": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Toasts her feet and reads 'Ivanhoe'",
+      "comfort-seeking": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Finds the story romantic",
+      "sentimental": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Comments on Laurie's manners",
+      "observant": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Offers money to Amy",
+      "generous": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Listens to Amy's troubles",
+      "empathetic": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Stopped lecturing and lighted the lamp",
+      "responsible": 1,
+      "Chunk": 4
+    }
+  ],
+  "Amy": [
+    {
+      "Action": "Complains about fairness",
+      "trait": "envious",
+      "value": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Decides to buy drawing-pencils",
+      "trait": "artistic",
+      "value": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Complains about school and being insulted",
+      "sensitive": 1,
+      "prideful": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Got out of the easy-chair without being asked",
+      "considerate": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Insisted on buying slippers",
+      "determined": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Plans to buy cologne and pencils",
+      "frugal": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Struggles with acting",
+      "inexperienced": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Attempts dramatic scene",
+      "dramatic": 0,
+      "awkward": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Gives directions while sitting",
+      "bossy": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Sighs about discomforts of war",
+      "sensitive": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Admits to being selfish",
+      "self-aware": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Talks about renouncing childish things",
+      "mature": 1,
+      "literal": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Sings",
+      "musical": 1,
+      "cheerful": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Expresses happiness about the color of her book",
+      "aesthetic": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Buys a larger bottle of cologne with all her money",
+      "selfless": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Replaces cheap flask with handsome one",
+      "generous": 1,
+      "thoughtful": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Gives up cream and muffins",
+      "selfless": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Threw open the door",
+      "enthusiastic": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Gets hysterical during excitement",
+      "emotional": 1,
+      "sensitive": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Asks if fairies made the supper",
+      "imaginative": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Smooths her curls with a superior air",
+      "proud": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Consoled Jo",
+      "supportive": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Fretting over lessons",
+      "anxious": 1,
+      "forgetful": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Worries about her nose",
+      "vain": 1,
+      "self-conscious": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Draws and illustrates",
+      "artistic": 1,
+      "talented": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Covers slate with animals instead of doing sums",
+      "distracted": 1,
+      "creative": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Escapes reprimands by being a model of deportment",
+      "charming": 1,
+      "manipulative": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Is a favorite with her mates",
+      "good-tempered": 1,
+      "popular": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Feels afflicted by wearing cousin's clothes",
+      "artistic": 1,
+      "sensitive": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Expresses comfort about not having her dresses altered as punishment",
+      "self-conscious": 1,
+      "empathetic": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Envied Susie Perkins' ring",
+      "envious": 1,
+      "materialistic": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Feels proud of not being in Susie's place",
+      "proud": 1,
+      "empathetic": 0,
+      "Chunk": 39
+    },
+    {
+      "Action": "Declared she would be more careful",
+      "moral": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Claims not to be a child",
+      "mature": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Copies pictures and enjoys beauty",
+      "artistic": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Impressed by the note",
+      "impressionable": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Calls Laurie a Cyclops",
+      "ignorant": 1,
+      "humorous": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Wishes for Laurie's money",
+      "envious": 1,
+      "materialistic": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Exhibits particular and prim behavior",
+      "particular": 1,
+      "prim": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Gesticulates with energy",
+      "enthusiastic": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Finds the old-fashioned address elegant",
+      "romantic": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Goes into debt over limes",
+      "impressionable": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Feels pressured to conform",
+      "conformist": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Displays limes with pride",
+      "attention-seeking": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Refuses Jenny Snow's offer",
+      "forgiving": 0,
+      "Chunk": 60
+    },
+    {
+      "Action": "Receives praise for maps",
+      "studious": 1,
+      "Chunk": 60
+    }
+  ],
+  "Beth": [
+    {
+      "Action": "Speaks contentedly about family",
+      "trait": "content",
+      "value": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Plans to buy new music",
+      "trait": "musical",
+      "value": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Looks at her rough hands with a sigh",
+      "hardworking": 1,
+      "sensitive": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Sings to make peace",
+      "peaceful": 1,
+      "humorous": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Put a pair of slippers down to warm",
+      "thoughtful": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Offered to buy slippers with her dollar",
+      "generous": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Suggests getting gifts for Marmee",
+      "selfless": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Plans to give handkerchiefs",
+      "considerate": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Recalls being frightened during birthday traditions",
+      "shy": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Watches rehearsal with interest",
+      "supportive": 1,
+      "distracted": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Praises Jo's work",
+      "supportive": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Trots between parlor and kitchen",
+      "diligent": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Sits in corner to anticipate treat",
+      "patient": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Asks when father will return",
+      "concerned": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Wipes away tears and begins to knit",
+      "diligent": 1,
+      "resilient": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Remembers standing and singing for joy",
+      "optimistic": 1,
+      "joyful": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Admits her burdens",
+      "humble": 1,
+      "self-aware": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Plays piano",
+      "musical": 1,
+      "talented": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Impressed by her sisters' example",
+      "impressionable": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Offers to help Amy with hard words",
+      "helpful": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Marks handkerchiefs with 'Mother'",
+      "thoughtful": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Picks finest rose for Amy",
+      "appreciative": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Eagerly offers to help carry things to the poor",
+      "helpful": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Played a gay march",
+      "musical": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Suggests Santa Claus made the supper",
+      "imaginative": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Wishes to send flowers to her father",
+      "thoughtful": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Questions smoking hair",
+      "observant": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Comforted Meg",
+      "compassionate": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Lies on the sofa with a headache",
+      "sensitive": 1,
+      "comfort-seeking": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Too bashful to go to school",
+      "shy": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Does lessons at home",
+      "diligent": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Helps keep home neat and comfortable",
+      "domestic": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Spends days with imaginary friends",
+      "imaginative": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Lives for others cheerfully",
+      "selfless": 1,
+      "shy": 1,
+      "quiet": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Influences Jo unconsciously",
+      "influential": 1,
+      "gentle": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Observes Mr. Laurence's kindness",
+      "observant": 1,
+      "appreciative": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Put the needles straight on Jo's cushion",
+      "tidy": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Sends kittens to comfort Laurie",
+      "caring": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Thinks about 'Pilgrim's Progress'",
+      "thoughtful": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Finds it hard to pass the lions",
+      "timid": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Yearns for the grand piano but is too frightened to visit",
+      "timid": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Expresses gratitude and excitement about playing the piano",
+      "musical": 1,
+      "grateful": 1,
+      "timid": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Squeezes Mr. Laurence's hand in gratitude",
+      "appreciative": 1,
+      "affectionate": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Sings blithely and plays piano in her sleep",
+      "joyful": 1,
+      "passionate": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Plays piano",
+      "musical": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Sneaks into drawing-room",
+      "sneaky": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Feels delight from music",
+      "appreciative": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Makes slippers for Mr. Laurence",
+      "grateful": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Works diligently on slippers",
+      "diligent": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Receives piano",
+      "grateful": 1,
+      "musical": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Decides to thank Mr. Laurence",
+      "brave": 1,
+      "determined": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Kisses Mr. Laurence",
+      "compassionate": 1,
+      "affectionate": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Strokes Jo's head gently",
+      "gentle": 1,
+      "caring": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Writes a note and waits for a response",
+      "patient": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Feels overwhelmed by receiving a piano",
+      "grateful": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Delivers a magic spell",
+      "ethereal": 1,
+      "Chunk": 16
+    }
+  ],
+  "Don Pedro": [
+    {
+      "Action": "Defies the world in a speech",
+      "confident": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Rushes in and drags out his daughter",
+      "protective": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Refuses Roderigo's request for Zara's hand",
+      "obstinate": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Blesses the lovers",
+      "romantic": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Rescues audience",
+      "helpful": 1,
+      "Chunk": 19
+    }
+  ],
+  "Roderigo": [
+    {
+      "Action": "Rents chains asunder",
+      "strong": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Sings a serenade and invites Zara to descend",
+      "romantic": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Defies Don Pedro and refuses to stir",
+      "defiant": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Attempts to stab himself",
+      "despairing": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Rushes to rescue Zara",
+      "heroic": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Rescues audience",
+      "helpful": 1,
+      "Chunk": 19
+    }
+  ],
+  "Mrs. March": [
+    {
+      "Action": "Enters room and inquires about daughters' day",
+      "caring": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Prepares to enjoy time with daughters",
+      "family-oriented": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Announces a treat after supper",
+      "thoughtful": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Encourages daughters with a metaphor about life",
+      "supportive": 1,
+      "wise": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Provides guidance",
+      "supportive": 1,
+      "nurturing": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Sings around the house",
+      "cheerful": 1,
+      "musical": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Goes to help a beggar",
+      "generous": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Proposes giving breakfast to the poor",
+      "altruistic": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Gave tea and gruel, comforted the mother",
+      "nurturing": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Dressed the baby tenderly",
+      "caring": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Organizes a surprise supper",
+      "thoughtful": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Explains Mr. Laurence sent the supper",
+      "informative": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Approves of Jo knowing the boy if opportunity arises",
+      "open-minded": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Appreciates Beth's roses",
+      "sentimental": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Advised daughters on supper and curfew",
+      "caring": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Tries to finish a letter",
+      "distracted": 1,
+      "busy": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Worries about father",
+      "anxious": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Feels ashamed and grateful",
+      "reflective": 1,
+      "grateful": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Explains Mr. Laurence's behavior",
+      "insightful": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Provides young society and amusement for Laurie",
+      "nurturing": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Grants Beth's request",
+      "supportive": 1,
+      "Chunk": 55
+    }
+  ],
+  "Marmee": [
+    {
+      "Action": "Reads father's letter",
+      "supportive": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Nods and smiles at daughters",
+      "supportive": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Waves hand to daughters",
+      "affectionate": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Allows Laurie to visit",
+      "hospitable": 1,
+      "Chunk": 52
+    }
+  ],
+  "Father": [
+    {
+      "Action": "Writes a hopeful letter",
+      "optimistic": 1,
+      "Chunk": 8
+    }
+  ],
+  "Hannah": [
+    {
+      "Action": "Describes Mrs. March's generosity",
+      "loyal": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Carried wood and made a fire",
+      "resourceful": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Delivers Mrs. March's message",
+      "dutiful": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Hates rain",
+      "particular": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Makes hot turn-overs",
+      "dutiful": 1,
+      "caring": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Encourages Beth to try the piano",
+      "encouraging": 1,
+      "participative": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Amazed by Beth's actions",
+      "surprised": 1,
+      "Chunk": 57
+    }
+  ],
+  "Zara": [
+    {
+      "Action": "Consents to fly with Roderigo",
+      "romantic": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Forgets her train and causes the tower to fall",
+      "careless": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Defies her sire",
+      "defiant": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Refuses to go into a convent",
+      "determined": 1,
+      "Chunk": 18
+    }
+  ],
+  "Timid Servant": [
+    {
+      "Action": "Delivers a letter and a bag from Hagar",
+      "obedient": 1,
+      "Chunk": 18
+    }
+  ],
+  "Mr. Laurence": [
+    {
+      "Action": "Sends a surprise supper",
+      "generous": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Gives a fish to a poor woman",
+      "generous": 1,
+      "kind": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Engages with Jo despite overhearing her",
+      "forgiving": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Compliments Jo's grandfather",
+      "respectful": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Offers arm with courtesy",
+      "courteous": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Observes young people",
+      "observant": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Plans to help Laurie",
+      "caring": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Comments on Laurie's music",
+      "critical": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Dislikes music due to past family issues",
+      "proud": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Calls and talks to the girls",
+      "kind": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Talks about music to draw Beth closer",
+      "strategic": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Ignores Beth to make her comfortable",
+      "considerate": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Offers use of piano to Beth",
+      "kind": 1,
+      "generous": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Strokes Beth's hair and kisses her forehead",
+      "affectionate": 1,
+      "nostalgic": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Opens study door to listen to music",
+      "appreciative": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Touched by Beth's kiss",
+      "sentimental": 1,
+      "kind": 1,
+      "Chunk": 58
+    }
+  ],
+  "Mrs. Gardiner": [
+    {
+      "Action": "Greets Jo and Meg kindly",
+      "hospitable": 1,
+      "Chunk": 24
+    }
+  ],
+  "Laurie": [
+    {
+      "Action": "Speaks French",
+      "multilingual": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Compliments Meg",
+      "polite": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Engages in conversation with Jo",
+      "sociable": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Expresses dislike for college",
+      "discontent": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Desires to live in Italy",
+      "dreamer": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Invites Jo to dance",
+      "chivalrous": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Doesn't laugh at Jo's confession",
+      "considerate": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Helps Jo and Meg",
+      "helpful": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Waits on ladies",
+      "chivalrous": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Offers carriage",
+      "helpful": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Opens window and talks to Jo",
+      "lonely": 1,
+      "friendly": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Expresses boredom and lack of company",
+      "isolated": 1,
+      "frustrated": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Gets ready for company",
+      "excitable": 1,
+      "hospitable": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Tries to tidy up the room",
+      "conscientious": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Watches Jo's family",
+      "lonely": 1,
+      "observant": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Admits to watching Jo's family",
+      "honest": 1,
+      "yearning": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Brightens when talking about grandpa",
+      "kind": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Feels bashful about visiting",
+      "bashful": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Shows good breeding by not asking too many questions",
+      "polite": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Talks about books",
+      "bookish": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Invites Jo to see his books",
+      "hospitable": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Expresses gratitude to Jo",
+      "grateful": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Teases Jo about not being afraid",
+      "playful": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Performs comic evolutions",
+      "playful": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Chats with Jo",
+      "sociable": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Gives flowers to Jo for her mother",
+      "thoughtful": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Plays piano",
+      "talented": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Modestly responds to Jo",
+      "humble": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Receives compliments",
+      "charming": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Feels grateful for the Marches' welcome",
+      "grateful": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Finds the Marches interesting",
+      "curious": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Plays truant to visit the Marches",
+      "rebellious": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Plays 'lord of the manor'",
+      "playful": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Mounts guard to warn servants away",
+      "protective": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Returns the cat and talks about cricket",
+      "friendly": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Looks wistful hearing the frolic",
+      "lonely": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Inspires Mr. Laurence's gift",
+      "influential": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Laughs and invites Jo to stay",
+      "friendly": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Laughs at Jo's prim manner",
+      "humorous": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Tries to look sober while having fun",
+      "playful": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Explains his dislike for his first name",
+      "self-aware": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Describes his time abroad",
+      "worldly": 1,
+      "Chunk": 25
+    }
+  ],
+  "March Parents": [
+    {
+      "Action": "Decline Aunt March's offer to adopt a daughter",
+      "family-oriented": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Value happiness over wealth",
+      "unworldly": 1,
+      "Chunk": 33
+    }
+  ],
+  "Aunt": [
+    {
+      "Action": "Listened to Jo read",
+      "critical": 1,
+      "good-natured": 1,
+      "Chunk": 38
+    }
+  ],
+  "Teacher": [
+    {
+      "Action": "Takes Susie by the ear and makes her stand on the platform",
+      "strict": 1,
+      "intimidating": 1,
+      "Chunk": 39
+    }
+  ],
+  "Susie": [
+    {
+      "Action": "Stands on the platform and cries",
+      "frightened": 1,
+      "humiliated": 1,
+      "Chunk": 39
+    }
+  ],
+  "Mr. Cutter": [
+    {
+      "Action": "Refuses the woman's request for work",
+      "impatient": 1,
+      "unsympathetic": 1,
+      "Chunk": 39
+    }
+  ],
+  "Poor woman": [
+    {
+      "Action": "Asks for work and receives a fish",
+      "desperate": 1,
+      "grateful": 1,
+      "Chunk": 39
+    }
+  ],
+  "Old Man": [
+    {
+      "Action": "Gives sons to the army",
+      "patriotic": 1,
+      "selfless": 1,
+      "Chunk": 40
+    }
+  ],
+  "Old Gentleman": [
+    {
+      "Action": "Allows Laurie to take a holiday",
+      "permissive": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Listens to Mrs. March's advice",
+      "open-minded": 1,
+      "Chunk": 53
+    }
+  ],
+  "Jenny Snow": [
+    {
+      "Action": "Offers to furnish answers",
+      "manipulative": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Informs Mr. Davis about Amy's limes",
+      "vindictive": 1,
+      "Chunk": 60
+    }
+  ],
+  "Mr. Davis": [
+    {
+      "Action": "Bans limes and other items",
+      "strict": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Has a tyrannical temper",
+      "patient": 0,
+      "Chunk": 60
+    }
+  ]
+}

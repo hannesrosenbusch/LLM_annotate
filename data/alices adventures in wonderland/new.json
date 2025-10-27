@@ -1,0 +1,3591 @@
+{
+  "Alice": [
+    {
+      "Action": "follows a talking rabbit down a hole.",
+      "Scariness": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "considers the consequences of dropping a jar.",
+      "Scariness": 0,
+      "Chunk": 1
+    },
+    {
+      "Action": "falls down a deep well without fear.",
+      "Scariness": 0,
+      "Chunk": 1
+    },
+    {
+      "Action": "Considers the usefulness of a book without pictures or conversations",
+      "Eloquence": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Expresses curiosity about the rabbit's waistcoat-pocket and watch",
+      "Eloquence": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Runs after the rabbit without hesitation",
+      "Eloquence": 0,
+      "Chunk": 1
+    },
+    {
+      "Action": "Thinks about the well's depth and looks around",
+      "Eloquence": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Ponders what will happen next while falling",
+      "Eloquence": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Manages to put the jar into a cupboard instead of dropping it",
+      "Eloquence": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "falls down a seemingly endless hole.",
+      "Scariness": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "considers the absurdity of her situation with humor.",
+      "Scariness": -1,
+      "Chunk": 2
+    },
+    {
+      "Action": "wonders about the people who walk with their heads downward.",
+      "Scariness": 0,
+      "Chunk": 2
+    },
+    {
+      "Action": "talks to herself while falling.",
+      "Scariness": 0,
+      "Chunk": 2
+    },
+    {
+      "Action": "expresses concern for her cat, Dinah.",
+      "Scariness": -1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Expresses her thoughts clearly while falling",
+      "Eloquence": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Uses grand words like Latitude and Longitude incorrectly",
+      "Eloquence": -1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Attempts to curtsey while falling",
+      "Eloquence": 0,
+      "Chunk": 2
+    },
+    {
+      "Action": "Talks to herself about her cat and tea-time",
+      "Eloquence": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "falls down a heap of sticks and dry leaves but is not hurt.",
+      "Scariness": 0,
+      "Chunk": 3
+    },
+    {
+      "Action": "jumps up on to her feet in a moment.",
+      "Scariness": 0,
+      "Chunk": 3
+    },
+    {
+      "Action": "wonders how she is ever to get out again.",
+      "Scariness": 0,
+      "Chunk": 3
+    },
+    {
+      "Action": "finds a tiny golden key and tries it in the locks.",
+      "Scariness": 0,
+      "Chunk": 3
+    },
+    {
+      "Action": "opens a door leading to a small passage.",
+      "Scariness": 0,
+      "Chunk": 3
+    },
+    {
+      "Action": "Engages in a repetitive internal dialogue about cats and bats",
+      "Eloquence": 0,
+      "Chunk": 3
+    },
+    {
+      "Action": "Expresses earnest curiosity to Dinah about eating a bat",
+      "Eloquence": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Attempts to articulate her thoughts while dozing off",
+      "Eloquence": 0,
+      "Chunk": 3
+    },
+    {
+      "Action": "Expresses wonder about how to get out of the hall",
+      "Eloquence": 0,
+      "Chunk": 3
+    },
+    {
+      "Action": "hesitates to drink from the bottle marked 'Drink Me'.",
+      "Scariness": -1,
+      "Chunk": 4
+    },
+    {
+      "Action": "recalls stories about children who got hurt for not being cautious.",
+      "Scariness": -1,
+      "Chunk": 4
+    },
+    {
+      "Action": "considers the possibility of the bottle being poison.",
+      "Scariness": 0,
+      "Chunk": 4
+    },
+    {
+      "Action": "decides to taste the drink after confirming it is not poison.",
+      "Scariness": 0,
+      "Chunk": 4
+    },
+    {
+      "Action": "expresses curiosity about her shrinking.",
+      "Scariness": 0,
+      "Chunk": 4
+    },
+    {
+      "Action": "Expresses her thoughts clearly about her situation and desires",
+      "Eloquence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Articulates her reasoning for not drinking the bottle immediately",
+      "Eloquence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Reflects on past lessons learned",
+      "Eloquence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Describes the taste of the drink in detail",
+      "Eloquence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Uses imaginative language about shutting up like a telescope",
+      "Eloquence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "feels nervous about shrinking.",
+      "Scariness": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "tries to climb the table but fails.",
+      "Scariness": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "cries out of frustration.",
+      "Scariness": 0,
+      "Chunk": 5
+    },
+    {
+      "Action": "gives herself good advice but seldom follows it.",
+      "Scariness": -1,
+      "Chunk": 5
+    },
+    {
+      "Action": "remembers trying to box her own ears.",
+      "Scariness": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "finds a cake labeled 'EAT ME'.",
+      "Scariness": 0,
+      "Chunk": 5
+    },
+    {
+      "Action": "expresses anxiety about her size.",
+      "Scariness": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "accepts the uncertainty of eating the cake.",
+      "Scariness": -1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Gives herself advice and reflects on her situation",
+      "Eloquence": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Struggles to express her feelings about her size",
+      "Eloquence": 0,
+      "Chunk": 5
+    },
+    {
+      "Action": "Attempts to reason with herself about her predicament",
+      "Eloquence": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Expresses frustration and confusion about her situation",
+      "Eloquence": 0,
+      "Chunk": 5
+    },
+    {
+      "Action": "Articulates her thoughts on the cake and its potential effects",
+      "Eloquence": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "cries and expresses concern for her feet.",
+      "Scariness": -1,
+      "Chunk": 6
+    },
+    {
+      "Action": "threatens herself to stop crying.",
+      "Scariness": 0,
+      "Chunk": 6
+    },
+    {
+      "Action": "plans to send presents to her feet.",
+      "Scariness": -1,
+      "Chunk": 6
+    },
+    {
+      "Action": "strikes her head against the roof.",
+      "Scariness": 0,
+      "Chunk": 6
+    },
+    {
+      "Action": "Expresses surprise with 'Curiouser and curiouser!'",
+      "Eloquence": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Forgets how to speak good English",
+      "Eloquence": -1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Plans to send presents to her feet",
+      "Eloquence": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Says 'Oh dear, what nonsense I’m talking!'",
+      "Eloquence": 0,
+      "Chunk": 6
+    },
+    {
+      "Action": "Tells herself to stop crying",
+      "Eloquence": 0,
+      "Chunk": 6
+    },
+    {
+      "Action": "Sheds tears despite her own admonition",
+      "Eloquence": -1,
+      "Chunk": 6
+    },
+    {
+      "Action": "expresses confusion and fear about her identity.",
+      "Scariness": 0,
+      "Chunk": 7
+    },
+    {
+      "Action": "Expresses her confusion and self-reflection",
+      "Eloquence": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Attempts to recall her identity and knowledge",
+      "Eloquence": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Struggles with basic arithmetic",
+      "Eloquence": -1,
+      "Chunk": 7
+    },
+    {
+      "Action": "expresses fear and confusion about her identity.",
+      "Scariness": 0,
+      "Chunk": 8
+    },
+    {
+      "Action": "cries and wishes for company.",
+      "Scariness": -1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Attempts to recite a poem but struggles with the words",
+      "Eloquence": -1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Expresses her feelings of confusion and desire to understand her identity",
+      "Eloquence": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Articulates her thoughts about wanting to stay down rather than conform",
+      "Eloquence": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Crys out in frustration and sadness",
+      "Eloquence": 0,
+      "Chunk": 8
+    },
+    {
+      "Action": "expresses fear at the sudden change.",
+      "Scariness": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "feels glad to find herself still in existence.",
+      "Scariness": -1,
+      "Chunk": 9
+    },
+    {
+      "Action": "swims in a pool of her own tears.",
+      "Scariness": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "wonders if she will be punished by drowning in her tears.",
+      "Scariness": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "tries to communicate with the mouse.",
+      "Scariness": -1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Expresses her feelings about her situation clearly",
+      "Eloquence": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Attempts to speak to the mouse",
+      "Eloquence": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Reflects on her past experiences to make sense of her current situation",
+      "Eloquence": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Struggles with the right way to address the mouse",
+      "Eloquence": 0,
+      "Chunk": 9
+    },
+    {
+      "Action": "apologizes hastily, afraid of hurting the Mouse's feelings.",
+      "Scariness": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "tries to soothe the Mouse.",
+      "Scariness": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Attempts to communicate in French",
+      "Eloquence": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Soothes the Mouse after realizing it is upset",
+      "Eloquence": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Describes her cat in detail",
+      "Eloquence": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Apologizes multiple times",
+      "Eloquence": 0,
+      "Chunk": 10
+    },
+    {
+      "Action": "calls softly to the Mouse.",
+      "Scariness": -1,
+      "Chunk": 11
+    },
+    {
+      "Action": "offers to not talk about cats or dogs.",
+      "Scariness": -1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Eagerly describes a dog",
+      "Eloquence": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Expresses her feelings clearly",
+      "Eloquence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "feels despair and confusion about the situation.",
+      "Scariness": -1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Struggles to respond to the Dodo's expectations",
+      "Eloquence": -1,
+      "Chunk": 13
+    },
+    {
+      "Action": "bows and takes the thimble, looking solemn.",
+      "Scariness": 0,
+      "Chunk": 14
+    },
+    {
+      "Action": "pleads with the Mouse, showing vulnerability.",
+      "Scariness": -1,
+      "Chunk": 14
+    },
+    {
+      "Action": "calls after the Mouse, asking it to return.",
+      "Scariness": 0,
+      "Chunk": 14
+    },
+    {
+      "Action": "Simply bowed and took the thimble",
+      "Eloquence": 0,
+      "Chunk": 14
+    },
+    {
+      "Action": "Asked the Mouse about its history",
+      "Eloquence": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Puzzled about the Mouse's tale while it was speaking",
+      "Eloquence": -1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Pleaded with the Mouse to come back",
+      "Eloquence": 0,
+      "Chunk": 14
+    },
+    {
+      "Action": "expresses sadness about her cat, Dinah.",
+      "Scariness": -1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Eagerly talks about her pet cat Dinah",
+      "Eloquence": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Expresses her feelings of loneliness and sadness",
+      "Eloquence": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "runs off frightened without trying to explain.",
+      "Scariness": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "expresses fear of being turned out of the house.",
+      "Scariness": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "fancies scary scenarios about being sent on messages.",
+      "Scariness": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "shows good-natured willingness to help the Rabbit.",
+      "Scariness": -1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Expresses her thoughts clearly about the situation",
+      "Eloquence": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Runs off without explaining the mistake",
+      "Eloquence": -1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Fancies the sort of things that could happen",
+      "Eloquence": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "expresses concern about her size and situation.",
+      "Scariness": -1,
+      "Chunk": 17
+    },
+    {
+      "Action": "drinks from a mysterious bottle without knowing its effects.",
+      "Scariness": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "feels unhappy and uncomfortable about her predicament.",
+      "Scariness": -1,
+      "Chunk": 17
+    },
+    {
+      "Action": "wonders what will become of her.",
+      "Scariness": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Expresses her thoughts clearly about her situation",
+      "Eloquence": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Wishes she hadn't drunk so much",
+      "Eloquence": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Articulates her feelings of discomfort and nostalgia",
+      "Eloquence": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "trembles at the sound of the Rabbit's voice.",
+      "Scariness": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "makes a snatch in the air, causing a shriek and crash.",
+      "Scariness": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "expresses curiosity about her situation.",
+      "Scariness": -1,
+      "Chunk": 18
+    },
+    {
+      "Action": "reflects on her growth and lessons to learn.",
+      "Scariness": -1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Expresses curiosity about her situation and reflects on her past",
+      "Eloquence": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Engages in self-dialogue and contemplates her lessons",
+      "Eloquence": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Attempts to communicate with the Rabbit but does not articulate her thoughts to him",
+      "Eloquence": 0,
+      "Chunk": 18
+    },
+    {
+      "Action": "wishes to be pulled out of the window.",
+      "Scariness": -1,
+      "Chunk": 19
+    },
+    {
+      "Action": "waits in apprehension without taking action.",
+      "Scariness": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "Expresses her thoughts clearly about the situation",
+      "Eloquence": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "kicks the chimney to see what happens.",
+      "Scariness": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "threatens to set Dinah at them.",
+      "Scariness": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "shouts out a warning to stop throwing pebbles.",
+      "Scariness": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "considers eating a cake to change her size.",
+      "Scariness": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "wonders what they will do next.",
+      "Scariness": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "Calls out to the others to stop throwing pebbles",
+      "Eloquence": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Thinks about what the others will do next",
+      "Eloquence": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "Expresses a bright idea about the cakes",
+      "Eloquence": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "runs off as hard as she could.",
+      "Scariness": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "is terribly frightened at the thought that the puppy might eat her up.",
+      "Scariness": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "coaxes the puppy in a gentle tone.",
+      "Scariness": -1,
+      "Chunk": 21
+    },
+    {
+      "Action": "dodges behind a great thistle to avoid being run over.",
+      "Scariness": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "thinks it is like having a game of play with a cart-horse.",
+      "Scariness": 0,
+      "Chunk": 21
+    },
+    {
+      "Action": "makes her escape when the puppy sits down.",
+      "Scariness": 0,
+      "Chunk": 21
+    },
+    {
+      "Action": "Plans to grow to her right size and find the garden",
+      "Eloquence": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Attempts to coax the puppy",
+      "Eloquence": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Expresses fear of being eaten by the puppy",
+      "Eloquence": 0,
+      "Chunk": 21
+    },
+    {
+      "Action": "Struggles to find a way to interact with the puppy",
+      "Eloquence": 0,
+      "Chunk": 21
+    },
+    {
+      "Action": "expresses confusion about her identity.",
+      "Scariness": -1,
+      "Chunk": 22
+    },
+    {
+      "Action": "politely tries to explain her situation.",
+      "Scariness": -1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Attempts to explain her identity and feelings",
+      "Eloquence": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Expresses confusion about her identity",
+      "Eloquence": 0,
+      "Chunk": 22
+    },
+    {
+      "Action": "Politely acknowledges her inability to explain herself",
+      "Eloquence": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "feels irritated but maintains composure.",
+      "Scariness": -1,
+      "Chunk": 23
+    },
+    {
+      "Action": "turns back to the Caterpillar despite feeling apprehensive.",
+      "Scariness": -1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Expresses her feelings clearly about the situation",
+      "Eloquence": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Attempts to recite a poem but struggles",
+      "Eloquence": -1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Waits patiently for the Caterpillar to speak",
+      "Eloquence": 0,
+      "Chunk": 23
+    },
+    {
+      "Action": "feels she is losing her temper.",
+      "Scariness": -1,
+      "Chunk": 24
+    },
+    {
+      "Action": "pleads in a piteous tone.",
+      "Scariness": -1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Timidly corrects the Caterpillar",
+      "Eloquence": 0,
+      "Chunk": 24
+    },
+    {
+      "Action": "Expresses her feelings about being contradicted",
+      "Eloquence": 0,
+      "Chunk": 24
+    },
+    {
+      "Action": "Pleads for understanding in a piteous tone",
+      "Eloquence": 0,
+      "Chunk": 24
+    },
+    {
+      "Action": "feels frightened by sudden changes in her size.",
+      "Scariness": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "expresses delight at her head being free.",
+      "Scariness": -1,
+      "Chunk": 25
+    },
+    {
+      "Action": "experiences alarm at her missing shoulders.",
+      "Scariness": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "tries to understand her situation and adapt.",
+      "Scariness": 0,
+      "Chunk": 25
+    },
+    {
+      "Action": "Questions the Caterpillar about the mushroom",
+      "Eloquence": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Expresses delight and alarm about her transformation",
+      "Eloquence": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Attempts to articulate her confusion about her body",
+      "Eloquence": 0,
+      "Chunk": 25
+    },
+    {
+      "Action": "indignantly denies being a serpent.",
+      "Scariness": -1,
+      "Chunk": 26
+    },
+    {
+      "Action": "expresses confusion and tries to reason with the Pigeon.",
+      "Scariness": -1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Indignantly asserts her identity",
+      "Eloquence": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Attempts to clarify her identity",
+      "Eloquence": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Acknowledges her confusion but remains polite",
+      "Eloquence": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "expresses concern about frightening someone.",
+      "Scariness": -1,
+      "Chunk": 27
+    },
+    {
+      "Action": "crouches down among the trees.",
+      "Scariness": 0,
+      "Chunk": 27
+    },
+    {
+      "Action": "talks to herself about her size changes.",
+      "Scariness": 0,
+      "Chunk": 27
+    },
+    {
+      "Action": "Responds hastily to the Pigeon",
+      "Eloquence": 0,
+      "Chunk": 27
+    },
+    {
+      "Action": "Talks to herself about her plans",
+      "Eloquence": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Considers her size before approaching the house",
+      "Eloquence": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "laughs at the footmen, showing curiosity.",
+      "Scariness": -1,
+      "Chunk": 28
+    },
+    {
+      "Action": "expresses her frustration at the uncivil behavior of the Footman.",
+      "Scariness": -1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Asks questions politely despite the Footman's rudeness",
+      "Eloquence": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "expresses frustration with the creatures arguing.",
+      "Scariness": 0,
+      "Chunk": 29
+    },
+    {
+      "Action": "Asks questions to engage in conversation",
+      "Eloquence": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Expresses frustration about the creatures arguing",
+      "Eloquence": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Politely continues the conversation despite rudeness",
+      "Eloquence": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "cries out in agony of terror.",
+      "Scariness": -1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Expresses her knowledge about the Earth's rotation",
+      "Eloquence": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "expresses concern for the baby.",
+      "Scariness": -1,
+      "Chunk": 31
+    },
+    {
+      "Action": "wonders if the baby will turn into a pig.",
+      "Scariness": 0,
+      "Chunk": 31
+    },
+    {
+      "Action": "feels alarmed by the baby's grunting.",
+      "Scariness": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "decides to set the creature down.",
+      "Scariness": -1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Expresses concern for the baby and reasons about its fate",
+      "Eloquence": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Tells the baby not to grunt and comments on its expression",
+      "Eloquence": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Speculates about the baby turning into a pig",
+      "Eloquence": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Thinks to herself about what to do with the creature",
+      "Eloquence": 0,
+      "Chunk": 31
+    },
+    {
+      "Action": "feels startled by the Cat's appearance.",
+      "Scariness": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "questions the Cat's madness.",
+      "Scariness": -1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Engages in a philosophical conversation with the Cheshire Cat",
+      "Eloquence": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Struggles to assert her reasoning against the Cat's logic",
+      "Eloquence": 0,
+      "Chunk": 32
+    },
+    {
+      "Action": "Attempts to clarify her thoughts but is somewhat hesitant",
+      "Eloquence": 0,
+      "Chunk": 32
+    },
+    {
+      "Action": "expresses apprehension about the cat's sudden appearances.",
+      "Scariness": -1,
+      "Chunk": 33
+    },
+    {
+      "Action": "walks towards the March Hare's house timidly.",
+      "Scariness": -1,
+      "Chunk": 33
+    },
+    {
+      "Action": "considers the possibility of the March Hare being mad.",
+      "Scariness": 0,
+      "Chunk": 33
+    },
+    {
+      "Action": "Expresses her thoughts about the croquet game and the baby turning into a pig",
+      "Eloquence": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Says she wishes the Cat wouldn't appear and vanish so suddenly",
+      "Eloquence": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Thinks to herself about the March Hare and her expectations",
+      "Eloquence": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Walks towards the March Hare's house rather timidly",
+      "Eloquence": 0,
+      "Chunk": 33
+    },
+    {
+      "Action": "expresses anger at the March Hare.",
+      "Scariness": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "defends herself against rudeness.",
+      "Scariness": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Expresses indignation about being offered wine that isn't there",
+      "Eloquence": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Responds to the Hatter's personal remark with severity",
+      "Eloquence": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Attempts to clarify her understanding of the riddle",
+      "Eloquence": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "expresses curiosity about the watch.",
+      "Scariness": -1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Politely expresses confusion about the Hatter's remark",
+      "Eloquence": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "expresses weariness and caution in conversation.",
+      "Scariness": -1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Expresses her thoughts clearly about wasting time",
+      "Eloquence": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Questions the Hatter's logic",
+      "Eloquence": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "expresses alarm at the proposal to tell a story.",
+      "Scariness": -1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Asks insightful questions",
+      "Eloquence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Gently remarks on the Dormouse's story",
+      "Eloquence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "expresses anger.",
+      "Scariness": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "tries to be humble and not offend.",
+      "Scariness": -1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Attempts to clarify her question",
+      "Eloquence": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Expresses confusion and remains silent",
+      "Eloquence": 0,
+      "Chunk": 38
+    },
+    {
+      "Action": "expresses disgust and leaves.",
+      "Scariness": -1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Expresses confusion about the conversation",
+      "Eloquence": 0,
+      "Chunk": 39
+    },
+    {
+      "Action": "States her opinion about the tea-party",
+      "Eloquence": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "approaches the gardeners with curiosity, showing no fear.",
+      "Scariness": -1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Asks a timid question",
+      "Eloquence": 0,
+      "Chunk": 40
+    },
+    {
+      "Action": "stands her ground and says 'Nonsense!'",
+      "Scariness": -1,
+      "Chunk": 41
+    },
+    {
+      "Action": "thinks 'I needn’t be afraid of them!'",
+      "Scariness": -1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Politely introduces herself to the Queen",
+      "Eloquence": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Expresses her thoughts clearly about the gardeners",
+      "Eloquence": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Responds to the Queen's command with decisiveness",
+      "Eloquence": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "laughs at the Rabbit's explanation.",
+      "Scariness": -1,
+      "Chunk": 42
+    },
+    {
+      "Action": "protects the gardeners.",
+      "Scariness": -1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Expresses her thoughts clearly and questions the Rabbit",
+      "Eloquence": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "feels very uneasy about the Queen's temper.",
+      "Scariness": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "laughs at the flamingo's puzzled expression.",
+      "Scariness": -1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Begins an account of the game to the Cheshire Cat",
+      "Eloquence": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Thinks it’s no use speaking until the Cat's ears have come",
+      "Eloquence": 0,
+      "Chunk": 43
+    },
+    {
+      "Action": "expresses confusion and frustration about the game.",
+      "Scariness": -1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Expresses her confusion and frustration clearly",
+      "Eloquence": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Attempts to introduce the Cheshire Cat",
+      "Eloquence": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Quotes a saying about a cat looking at a king",
+      "Eloquence": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "suggests asking the Duchess about the head.",
+      "Scariness": -1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Attempts to mediate a dispute among the King, Queen, and executioner",
+      "Eloquence": 0,
+      "Chunk": 45
+    },
+    {
+      "Action": "feels uncomfortable and does not like keeping close to the Duchess.",
+      "Scariness": -1,
+      "Chunk": 46
+    },
+    {
+      "Action": "tries to keep the conversation going despite discomfort.",
+      "Scariness": -1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Thinks about the effects of different foods on temper",
+      "Eloquence": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Venture to remark that perhaps there isn't a moral",
+      "Eloquence": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Keeps the conversation going despite discomfort",
+      "Eloquence": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "cautiously replies to the Duchess.",
+      "Scariness": -1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Politely asks for clarification on a complex statement",
+      "Eloquence": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Expresses her thoughts clearly and critiques the Duchess's gift of words",
+      "Eloquence": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "feels frightened and unhappy at the number of executions.",
+      "Scariness": -1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Expresses confusion about the Mock Turtle",
+      "Eloquence": 0,
+      "Chunk": 48
+    },
+    {
+      "Action": "feels ready to sink into the earth.",
+      "Scariness": -1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Asks questions to understand the situation",
+      "Eloquence": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Patiently waits for the Mock Turtle to continue",
+      "Eloquence": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "defends her education and expresses indignation.",
+      "Scariness": -1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Engages in conversation and asks questions",
+      "Eloquence": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Indignantly responds to the Mock Turtle",
+      "Eloquence": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Doubtfully responds to the Gryphon",
+      "Eloquence": 0,
+      "Chunk": 50
+    },
+    {
+      "Action": "checks herself hastily when about to mention tasting lobster.",
+      "Scariness": -1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Engages in conversation and asks questions",
+      "Eloquence": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "said timidly.",
+      "Scariness": -1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Expresses interest in the dance, but does not contribute to the conversation",
+      "Eloquence": 0,
+      "Chunk": 52
+    },
+    {
+      "Action": "expresses curiosity and wonder.",
+      "Scariness": -1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Engages in a curious conversation about the whiting",
+      "Eloquence": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "feels nervous and timid.",
+      "Scariness": -1,
+      "Chunk": 54
+    },
+    {
+      "Action": "gains courage as she tells her story.",
+      "Scariness": -1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Expresses surprise at the Mock Turtle's statement",
+      "Eloquence": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Begins to tell her adventures",
+      "Eloquence": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Struggles to repeat a poem due to distraction",
+      "Eloquence": -1,
+      "Chunk": 54
+    },
+    {
+      "Action": "sits down with her face in her hands, feeling apprehensive.",
+      "Scariness": -1,
+      "Chunk": 55
+    },
+    {
+      "Action": "speaks in a trembling voice.",
+      "Scariness": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Attempts to contribute but feels puzzled",
+      "Eloquence": 0,
+      "Chunk": 55
+    },
+    {
+      "Action": "Speaks in a trembling voice",
+      "Eloquence": -1,
+      "Chunk": 55
+    },
+    {
+      "Action": "expresses hunger and impatience during the trial.",
+      "Scariness": -1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Eagerly requests a song",
+      "Eloquence": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Expresses impatience for the trial to start",
+      "Eloquence": 0,
+      "Chunk": 56
+    },
+    {
+      "Action": "whispers to the Gryphon about the jurors' actions.",
+      "Scariness": 0,
+      "Chunk": 57
+    },
+    {
+      "Action": "takes away the juror's squeaky pencil quickly.",
+      "Scariness": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Identifies the judge and jury with confidence",
+      "Eloquence": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Proudly repeats the word 'jurors'",
+      "Eloquence": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Expresses indignation loudly but stops abruptly",
+      "Eloquence": 0,
+      "Chunk": 57
+    },
+    {
+      "Action": "Observes the jurors' writing and comments on it internally",
+      "Eloquence": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Takes away the squeaking pencil quickly",
+      "Eloquence": 0,
+      "Chunk": 57
+    },
+    {
+      "Action": "decides to remain in the court despite feeling uneasy.",
+      "Scariness": -1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Decides to stay in court despite feeling confused",
+      "Eloquence": 0,
+      "Chunk": 58
+    },
+    {
+      "Action": "grows meekly and asserts her right to grow.",
+      "Scariness": -1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Responds meekly and then boldly",
+      "Eloquence": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "thinks about the situation with curiosity.",
+      "Scariness": -1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Reflects on her understanding of court procedures",
+      "Eloquence": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "forgets her size and tips over the jury-box.",
+      "Scariness": 0,
+      "Chunk": 61
+    },
+    {
+      "Action": "expresses great dismay after the accident.",
+      "Scariness": -1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Exclaims in a tone of great dismay after tipping over the jury-box",
+      "Eloquence": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Says 'Nothing whatever' to the King's question",
+      "Eloquence": 0,
+      "Chunk": 61
+    },
+    {
+      "Action": "defies the King and refuses to leave.",
+      "Scariness": -1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Challenges the King's authority with clear reasoning",
+      "Eloquence": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "interrupts the King confidently, showing no fear.",
+      "Scariness": -1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Challenges the King's logic and expresses disbelief clearly",
+      "Eloquence": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "defies the Queen and says 'I won't!'",
+      "Scariness": -1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Points out the inconsistency in the King's logic",
+      "Eloquence": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Defiantly states she won't hold her tongue",
+      "Eloquence": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "gives a little scream, half of fright and half of anger.",
+      "Scariness": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Tells her sister about her curious dream",
+      "Eloquence": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "imagines a comforting future for her sister.",
+      "Scariness": -1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Picturing her future self and the stories she would tell",
+      "Eloquence": 1,
+      "Chunk": 66
+    }
+  ],
+  "White Rabbit": [
+    {
+      "Action": "expresses anxiety about being late.",
+      "Scariness": 0,
+      "Chunk": 1
+    },
+    {
+      "Action": "starts violently and skurries away into the darkness.",
+      "Scariness": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Muttering to himself in a hurry",
+      "Eloquence": 0,
+      "Chunk": 7
+    },
+    {
+      "Action": "muttering to itself about being executed.",
+      "Scariness": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "calls out to Alice in an angry tone.",
+      "Scariness": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Muttering anxiously about losing items",
+      "Eloquence": 0,
+      "Chunk": 16
+    },
+    {
+      "Action": "talks in a hurried nervous manner, indicating fear of the Queen.",
+      "Scariness": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Talks in a hurried nervous manner",
+      "Eloquence": 0,
+      "Chunk": 40
+    },
+    {
+      "Action": "Whispers anxiously and struggles to communicate effectively",
+      "Eloquence": -1,
+      "Chunk": 42
+    },
+    {
+      "Action": "cries out for silence in the court.",
+      "Scariness": 0,
+      "Chunk": 57
+    },
+    {
+      "Action": "hastily interrupts and calls for witnesses.",
+      "Scariness": 0,
+      "Chunk": 58
+    },
+    {
+      "Action": "Reads a poem clearly to the court",
+      "Eloquence": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "reads out Alice's name in a shrill voice.",
+      "Scariness": 0,
+      "Chunk": 61
+    },
+    {
+      "Action": "Reads out Alice's name in a shrill voice",
+      "Eloquence": -1,
+      "Chunk": 61
+    },
+    {
+      "Action": "jumps up in a great hurry.",
+      "Scariness": 0,
+      "Chunk": 62
+    },
+    {
+      "Action": "says 'it must have been that' regarding the letter.",
+      "Scariness": 0,
+      "Chunk": 62
+    },
+    {
+      "Action": "Attempts to clarify the situation but is confused",
+      "Eloquence": 0,
+      "Chunk": 62
+    },
+    {
+      "Action": "Follows instructions without adding clarity",
+      "Eloquence": 0,
+      "Chunk": 63
+    }
+  ],
+  "Crocodile": [
+    {
+      "Action": "is described with 'gently smiling jaws' and 'neatly spread claws'.",
+      "Scariness": 1,
+      "Chunk": 8
+    }
+  ],
+  "Mouse": [
+    {
+      "Action": "looks at Alice inquisitively but says nothing.",
+      "Scariness": 0,
+      "Chunk": 9
+    },
+    {
+      "Action": "Remains silent despite Alice's attempts to communicate",
+      "Eloquence": 0,
+      "Chunk": 9
+    },
+    {
+      "Action": "cries out in a shrill, passionate voice about his dislike for cats.",
+      "Scariness": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "trembles down to the end of his tail.",
+      "Scariness": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Expresses strong emotions about cats",
+      "Eloquence": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Uses a shrill, passionate voice",
+      "Eloquence": 0,
+      "Chunk": 10
+    },
+    {
+      "Action": "Refuses to discuss cats",
+      "Eloquence": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "swimming away from Alice in commotion.",
+      "Scariness": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "speaks in a low trembling voice.",
+      "Scariness": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Responds in a low trembling voice",
+      "Eloquence": 0,
+      "Chunk": 11
+    },
+    {
+      "Action": "calls for silence and asserts authority.",
+      "Scariness": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "frowns at the Lory for interrupting.",
+      "Scariness": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Attempts to give a historical account",
+      "Eloquence": 0,
+      "Chunk": 12
+    },
+    {
+      "Action": "Suggests Alice should have a prize",
+      "Eloquence": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "turns to Alice and sighs, then speaks severely.",
+      "Scariness": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "cries sharply and very angrily.",
+      "Scariness": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "gets up and walks away angrily.",
+      "Scariness": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "growls in reply.",
+      "Scariness": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Sighed and began to tell a story",
+      "Eloquence": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Cried sharply and angrily when Alice interrupted",
+      "Eloquence": -1,
+      "Chunk": 14
+    },
+    {
+      "Action": "splashing his way through the neighbouring pool, appearing frightened.",
+      "Scariness": 1,
+      "Chunk": 65
+    }
+  ],
+  "Lory": [
+    {
+      "Action": "Turns sulky and refuses to provide information",
+      "Eloquence": -1,
+      "Chunk": 11
+    },
+    {
+      "Action": "shivers in response to the Mouse's speech.",
+      "Scariness": 0,
+      "Chunk": 12
+    },
+    {
+      "Action": "Expresses discomfort with the Mouse's speech",
+      "Eloquence": -1,
+      "Chunk": 12
+    },
+    {
+      "Action": "sighs and comments on losing temper.",
+      "Scariness": 0,
+      "Chunk": 15
+    },
+    {
+      "Action": "Politely asks about Dinah",
+      "Eloquence": 1,
+      "Chunk": 15
+    }
+  ],
+  "Duck": [
+    {
+      "Action": "questions the Mouse's authority and makes a joke.",
+      "Scariness": -1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Questions the Mouse's clarity",
+      "Eloquence": -1,
+      "Chunk": 12
+    }
+  ],
+  "Dodo": [
+    {
+      "Action": "rises solemnly to propose adjourning the meeting.",
+      "Scariness": 0,
+      "Chunk": 12
+    },
+    {
+      "Action": "Calls for adjournment with formal language",
+      "Eloquence": 0,
+      "Chunk": 12
+    },
+    {
+      "Action": "organizes a nonsensical race and declares everyone a winner.",
+      "Scariness": 0,
+      "Chunk": 13
+    },
+    {
+      "Action": "demands Alice give up her thimble.",
+      "Scariness": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Proposes a Caucus-race and explains it in a convoluted manner",
+      "Eloquence": 0,
+      "Chunk": 13
+    },
+    {
+      "Action": "Declares 'Everybody has won, and all must have prizes'",
+      "Eloquence": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Presents the thimble with a short speech",
+      "Eloquence": 1,
+      "Chunk": 13
+    }
+  ],
+  "Eaglet": [
+    {
+      "Action": "bends down to hide a smile, indicating amusement.",
+      "Scariness": -1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Critiques the Dodo's use of complex words",
+      "Eloquence": -1,
+      "Chunk": 12
+    }
+  ],
+  "Dinah": [
+    {
+      "Action": "is described as a cat that catches mice and eats birds.",
+      "Scariness": 1,
+      "Chunk": 15
+    }
+  ],
+  "Old Crab": [
+    {
+      "Action": "gives a lesson about temper.",
+      "Scariness": 0,
+      "Chunk": 15
+    }
+  ],
+  "Young Crab": [
+    {
+      "Action": "snappishly responds to her mother.",
+      "Scariness": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Snappishly tells her mother to hold her tongue",
+      "Eloquence": -1,
+      "Chunk": 15
+    }
+  ],
+  "Magpie": [
+    {
+      "Action": "wraps itself up and leaves due to fear of night air.",
+      "Scariness": 1,
+      "Chunk": 15
+    }
+  ],
+  "Canary": [
+    {
+      "Action": "calls its children away in a trembling voice.",
+      "Scariness": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Calls out to its children in a trembling voice",
+      "Eloquence": 0,
+      "Chunk": 15
+    }
+  ],
+  "Old Magpie": [
+    {
+      "Action": "Wraps itself up and makes an excuse to leave",
+      "Eloquence": 0,
+      "Chunk": 15
+    }
+  ],
+  "Rabbit": [
+    {
+      "Action": "calls for help in an angry voice.",
+      "Scariness": 0,
+      "Chunk": 18
+    },
+    {
+      "Action": "tries to open the door unsuccessfully.",
+      "Scariness": 0,
+      "Chunk": 18
+    },
+    {
+      "Action": "Commands another character to fetch his gloves",
+      "Eloquence": 0,
+      "Chunk": 18
+    },
+    {
+      "Action": "Expresses frustration and confusion",
+      "Eloquence": 0,
+      "Chunk": 18
+    },
+    {
+      "Action": "suggests burning the house down.",
+      "Scariness": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "whispers in a frightened tone about the Duchess's execution.",
+      "Scariness": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "looks anxiously over his shoulder.",
+      "Scariness": 1,
+      "Chunk": 42
+    }
+  ],
+  "Pat": [
+    {
+      "Action": "expresses fear about the arm in the window.",
+      "Scariness": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Pronounces 'arm' as 'arrum'",
+      "Eloquence": -1,
+      "Chunk": 19
+    }
+  ],
+  "Bill": [
+    {
+      "Action": "is suggested to go down the chimney but refuses.",
+      "Scariness": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Is called upon to go down the chimney",
+      "Eloquence": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "describes a frightening experience of being startled.",
+      "Scariness": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Struggles to articulate what happened to him",
+      "Eloquence": -1,
+      "Chunk": 20
+    }
+  ],
+  "Various voices": [
+    {
+      "Action": "Engage in chaotic conversation",
+      "Eloquence": -1,
+      "Chunk": 19
+    }
+  ],
+  "Puppy": [
+    {
+      "Action": "jumps into the air with a yelp of delight.",
+      "Scariness": 0,
+      "Chunk": 21
+    },
+    {
+      "Action": "makes believe to worry the stick.",
+      "Scariness": 0,
+      "Chunk": 21
+    },
+    {
+      "Action": "barks hoarsely while playing.",
+      "Scariness": 0,
+      "Chunk": 21
+    }
+  ],
+  "Caterpillar": [
+    {
+      "Action": "addresses Alice sternly.",
+      "Scariness": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "smokes a hookah and takes no notice of Alice.",
+      "Scariness": 0,
+      "Chunk": 22
+    },
+    {
+      "Action": "demands an explanation from Alice.",
+      "Scariness": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Asks a question but does not engage further",
+      "Eloquence": -1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Responds sternly without elaboration",
+      "Eloquence": -1,
+      "Chunk": 22
+    },
+    {
+      "Action": "speaks contemptuously to Alice.",
+      "Scariness": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "calls after Alice in a commanding tone.",
+      "Scariness": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "tells Alice to keep her temper.",
+      "Scariness": 0,
+      "Chunk": 23
+    },
+    {
+      "Action": "puffs away without speaking, creating tension.",
+      "Scariness": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Makes very short remarks, showing contempt",
+      "Eloquence": -1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Asks puzzling questions without elaboration",
+      "Eloquence": -1,
+      "Chunk": 23
+    },
+    {
+      "Action": "rears itself upright angrily.",
+      "Scariness": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "contradicts Alice.",
+      "Scariness": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "smokes a hookah nonchalantly.",
+      "Scariness": 0,
+      "Chunk": 24
+    },
+    {
+      "Action": "tells Alice to be off or he’ll kick her down stairs.",
+      "Scariness": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "crawls away without further explanation.",
+      "Scariness": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Merely remarks about the mushroom",
+      "Eloquence": 0,
+      "Chunk": 25
+    }
+  ],
+  "The Youth": [
+    {
+      "Action": "Questions the sage with clever rhymes",
+      "Eloquence": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Continues to question with wit",
+      "Eloquence": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Asks another clever question",
+      "Eloquence": 1,
+      "Chunk": 24
+    }
+  ],
+  "The Sage": [
+    {
+      "Action": "Responds with a clear explanation and offers a product",
+      "Eloquence": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Provides a logical answer about his strength",
+      "Eloquence": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Dismisses the youth's questions abruptly",
+      "Eloquence": -1,
+      "Chunk": 24
+    }
+  ],
+  "The Caterpillar": [
+    {
+      "Action": "Critiques Alice's statement without elaboration",
+      "Eloquence": -1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Responds angrily and asserts its opinion",
+      "Eloquence": -1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Gives a curt response and resumes smoking",
+      "Eloquence": -1,
+      "Chunk": 24
+    }
+  ],
+  "Pigeon": [
+    {
+      "Action": "screams 'Serpent!' and beats Alice with its wings.",
+      "Scariness": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "raises its voice to a shriek.",
+      "Scariness": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Repeats accusations without clarity",
+      "Eloquence": -1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Expresses frustration with vague references",
+      "Eloquence": -1,
+      "Chunk": 26
+    },
+    {
+      "Action": "calls Alice a kind of serpent.",
+      "Scariness": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Expresses a new idea about Alice being a serpent",
+      "Eloquence": 1,
+      "Chunk": 27
+    }
+  ],
+  "Footman": [
+    {
+      "Action": "raps loudly at the door.",
+      "Scariness": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Raps loudly at the door",
+      "Eloquence": 0,
+      "Chunk": 27
+    },
+    {
+      "Action": "Gives a convoluted explanation without addressing Alice's question",
+      "Eloquence": -1,
+      "Chunk": 28
+    },
+    {
+      "Action": "repeats his remark with variations.",
+      "Scariness": 0,
+      "Chunk": 29
+    },
+    {
+      "Action": "Repeats remarks with variations",
+      "Eloquence": 0,
+      "Chunk": 29
+    }
+  ],
+  "Fish-Footman": [
+    {
+      "Action": "produces a large letter and speaks in a solemn tone.",
+      "Scariness": 0,
+      "Chunk": 28
+    },
+    {
+      "Action": "Delivers an invitation in a solemn tone",
+      "Eloquence": 1,
+      "Chunk": 28
+    }
+  ],
+  "Frog-Footman": [
+    {
+      "Action": "repeats the Fish-Footman's words in a solemn tone.",
+      "Scariness": 0,
+      "Chunk": 28
+    },
+    {
+      "Action": "ignores Alice's questions and looks up at the sky.",
+      "Scariness": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "sits and continues speaking as if nothing happened after a plate nearly hits him.",
+      "Scariness": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Repeats the invitation with slight changes",
+      "Eloquence": 0,
+      "Chunk": 28
+    }
+  ],
+  "Duchess": [
+    {
+      "Action": "suddenly uses violent language towards the baby.",
+      "Scariness": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "disparages Alice's knowledge.",
+      "Scariness": 0,
+      "Chunk": 29
+    },
+    {
+      "Action": "Responds abruptly and violently",
+      "Eloquence": -1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Dismisses Alice's knowledge with a rude remark",
+      "Eloquence": -1,
+      "Chunk": 29
+    },
+    {
+      "Action": "throws everything within her reach at the Duchess and the baby.",
+      "Scariness": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "commands to chop off Alice's head.",
+      "Scariness": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "sings a lullaby while violently shaking the baby.",
+      "Scariness": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Dismisses Alice's explanation with a growl",
+      "Eloquence": -1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Sings a nonsensical lullaby",
+      "Eloquence": 0,
+      "Chunk": 30
+    },
+    {
+      "Action": "is under sentence of execution.",
+      "Scariness": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "affectionately tucks her arm into Alice's.",
+      "Scariness": -1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Expresses affection towards Alice",
+      "Eloquence": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "squeezes herself up closer to Alice's side.",
+      "Scariness": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "digging her sharp little chin into Alice’s shoulder.",
+      "Scariness": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "makes ambiguous statements about morals.",
+      "Scariness": 0,
+      "Chunk": 46
+    },
+    {
+      "Action": "Attempts to impart wisdom about morals",
+      "Eloquence": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Squeezes closer to Alice while speaking",
+      "Eloquence": 0,
+      "Chunk": 46
+    },
+    {
+      "Action": "Makes a nonsensical statement about love",
+      "Eloquence": -1,
+      "Chunk": 46
+    },
+    {
+      "Action": "makes nonsensical remarks and agrees with Alice.",
+      "Scariness": 0,
+      "Chunk": 47
+    },
+    {
+      "Action": "gives a convoluted moral.",
+      "Scariness": 0,
+      "Chunk": 47
+    },
+    {
+      "Action": "makes a sharp remark about Alice's right to think.",
+      "Scariness": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Makes convoluted statements and agrees with Alice",
+      "Eloquence": 0,
+      "Chunk": 47
+    },
+    {
+      "Action": "Attempts to provide a moral but becomes overly complex",
+      "Eloquence": -1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Dismisses Alice's right to think",
+      "Eloquence": -1,
+      "Chunk": 47
+    },
+    {
+      "Action": "has a pig-baby sneezing on her knee, amidst crashing plates and dishes.",
+      "Scariness": 0,
+      "Chunk": 65
+    },
+    {
+      "Action": "Has a pig-baby sneezing on her knee",
+      "Eloquence": 0,
+      "Chunk": 65
+    }
+  ],
+  "Cheshire Cat": [
+    {
+      "Action": "grins from ear to ear.",
+      "Scariness": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "grins widely and displays long claws and many teeth.",
+      "Scariness": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "states that everyone is mad.",
+      "Scariness": 0,
+      "Chunk": 32
+    },
+    {
+      "Action": "explains its behavior in a logical manner.",
+      "Scariness": 0,
+      "Chunk": 32
+    },
+    {
+      "Action": "Articulates a complex idea about madness and behavior",
+      "Eloquence": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Uses playful language and wit to convey ideas",
+      "Eloquence": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "vanishes and reappears suddenly.",
+      "Scariness": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "has a grin that remains after it has vanished.",
+      "Scariness": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "appears with a grin.",
+      "Scariness": 0,
+      "Chunk": 43
+    },
+    {
+      "Action": "Asks Alice how she is getting on",
+      "Eloquence": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "refuses to kiss the King's hand.",
+      "Scariness": 0,
+      "Chunk": 44
+    },
+    {
+      "Action": "Makes a witty remark but does not elaborate",
+      "Eloquence": 0,
+      "Chunk": 44
+    },
+    {
+      "Action": "fades away mysteriously.",
+      "Scariness": 1,
+      "Chunk": 45
+    }
+  ],
+  "Cook": [
+    {
+      "Action": "ignores the chaos and continues stirring the soup.",
+      "Scariness": 0,
+      "Chunk": 30
+    },
+    {
+      "Action": "Ignores the conversation and focuses on stirring soup",
+      "Eloquence": 0,
+      "Chunk": 30
+    },
+    {
+      "Action": "Refuses to give evidence",
+      "Eloquence": -1,
+      "Chunk": 60
+    }
+  ],
+  "The Cook": [
+    {
+      "Action": "throws a frying-pan after Alice.",
+      "Scariness": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "refuses to give evidence.",
+      "Scariness": 0,
+      "Chunk": 60
+    }
+  ],
+  "The Baby": [
+    {
+      "Action": "grunts and sobs.",
+      "Scariness": 0,
+      "Chunk": 31
+    }
+  ],
+  "Baby": [
+    {
+      "Action": "Grunts in response to Alice",
+      "Eloquence": -1,
+      "Chunk": 31
+    }
+  ],
+  "Cat": [
+    {
+      "Action": "Engages in a playful conversation with Alice",
+      "Eloquence": 1,
+      "Chunk": 33
+    }
+  ],
+  "March Hare": [
+    {
+      "Action": "offers wine that doesn't exist.",
+      "Scariness": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Offers wine that doesn't exist",
+      "Eloquence": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Argues about civility without clear reasoning",
+      "Eloquence": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Attempts to contribute to the conversation but repeats himself",
+      "Eloquence": -1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Whispers to itself",
+      "Eloquence": -1,
+      "Chunk": 36
+    },
+    {
+      "Action": "interrupts and yawns, showing disinterest.",
+      "Scariness": 0,
+      "Chunk": 37
+    },
+    {
+      "Action": "Interrupts with a suggestion to change the subject",
+      "Eloquence": 0,
+      "Chunk": 37
+    },
+    {
+      "Action": "interrupts and moves places.",
+      "Scariness": 0,
+      "Chunk": 38
+    },
+    {
+      "Action": "Responds with a dismissive question",
+      "Eloquence": 0,
+      "Chunk": 38
+    },
+    {
+      "Action": "Interjects with a date but does not elaborate",
+      "Eloquence": 0,
+      "Chunk": 58
+    },
+    {
+      "Action": "interrupts and denies accusations.",
+      "Scariness": 0,
+      "Chunk": 59
+    },
+    {
+      "Action": "Interrupts to deny a statement",
+      "Eloquence": 0,
+      "Chunk": 59
+    },
+    {
+      "Action": "shares their never-ending meal, creating a chaotic scene.",
+      "Scariness": 0,
+      "Chunk": 65
+    },
+    {
+      "Action": "Shares a never-ending meal",
+      "Eloquence": 0,
+      "Chunk": 65
+    }
+  ],
+  "Hatter": [
+    {
+      "Action": "makes a personal remark about Alice's hair.",
+      "Scariness": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Makes a nonsensical remark about a raven and a writing-desk",
+      "Eloquence": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Responds to Alice's clarification with confusion",
+      "Eloquence": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Engages in a nonsensical conversation",
+      "Eloquence": 0,
+      "Chunk": 35
+    },
+    {
+      "Action": "Engages in a nonsensical conversation about Time",
+      "Eloquence": 0,
+      "Chunk": 36
+    },
+    {
+      "Action": "Attempts to explain his relationship with Time",
+      "Eloquence": 0,
+      "Chunk": 36
+    },
+    {
+      "Action": "Recites a nonsensical poem",
+      "Eloquence": 0,
+      "Chunk": 36
+    },
+    {
+      "Action": "mournfully recounts the Queen's threat of execution.",
+      "Scariness": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Gives a mournful explanation about time",
+      "Eloquence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Makes a witty remark about taking more tea",
+      "Eloquence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "makes a triumphant remark.",
+      "Scariness": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Makes a triumphant remark",
+      "Eloquence": 0,
+      "Chunk": 38
+    },
+    {
+      "Action": "Tells Alice she shouldn't talk",
+      "Eloquence": -1,
+      "Chunk": 39
+    },
+    {
+      "Action": "shows nervousness and confusion in the court.",
+      "Scariness": -1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Struggles to articulate his thoughts and bites his teacup",
+      "Eloquence": -1,
+      "Chunk": 58
+    },
+    {
+      "Action": "trembles and expresses fear of execution.",
+      "Scariness": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "drops his teacup and goes down on one knee.",
+      "Scariness": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Begins to speak but struggles to articulate",
+      "Eloquence": -1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Attempts to explain but gets sidetracked",
+      "Eloquence": -1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Fails to remember key details",
+      "Eloquence": -1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Makes a humorous remark about his position",
+      "Eloquence": 1,
+      "Chunk": 60
+    }
+  ],
+  "Dormouse": [
+    {
+      "Action": "is used as a cushion by the others.",
+      "Scariness": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Speaks while half-asleep, contributing little to the dialogue",
+      "Eloquence": -1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Sings in its sleep",
+      "Eloquence": -1,
+      "Chunk": 36
+    },
+    {
+      "Action": "is pinched to wake up, showing vulnerability.",
+      "Scariness": -1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Begins a story in a hurried manner",
+      "Eloquence": 0,
+      "Chunk": 37
+    },
+    {
+      "Action": "Responds in a hoarse, feeble voice",
+      "Eloquence": -1,
+      "Chunk": 37
+    },
+    {
+      "Action": "sulkily remarks.",
+      "Scariness": 0,
+      "Chunk": 38
+    },
+    {
+      "Action": "yawns and rubs its eyes.",
+      "Scariness": 0,
+      "Chunk": 38
+    },
+    {
+      "Action": "Gives a confusing answer",
+      "Eloquence": -1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Wakes up and contributes to the conversation",
+      "Eloquence": 0,
+      "Chunk": 39
+    },
+    {
+      "Action": "Adds a date without context or clarity",
+      "Eloquence": 0,
+      "Chunk": 58
+    },
+    {
+      "Action": "complains about being squeezed.",
+      "Scariness": 0,
+      "Chunk": 59
+    },
+    {
+      "Action": "Expresses discomfort about being squeezed",
+      "Eloquence": 0,
+      "Chunk": 59
+    },
+    {
+      "Action": "Claims to grow at a reasonable pace",
+      "Eloquence": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Sleepily interjects with a response",
+      "Eloquence": 0,
+      "Chunk": 60
+    }
+  ],
+  "The Hatter": [
+    {
+      "Action": "pours a little hot tea upon the Dormouse's nose.",
+      "Scariness": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "speaks contemptuously to Alice.",
+      "Scariness": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "mentions a quarrel with Time who went mad.",
+      "Scariness": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "is rude to Alice.",
+      "Scariness": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "hurries out of the court without even waiting to put his shoes on.",
+      "Scariness": 1,
+      "Chunk": 60
+    }
+  ],
+  "The March Hare": [
+    {
+      "Action": "meekly replies to the Hatter.",
+      "Scariness": 0,
+      "Chunk": 35
+    },
+    {
+      "Action": "whispers to itself in a way that suggests discontent.",
+      "Scariness": 1,
+      "Chunk": 36
+    }
+  ],
+  "The Dormouse": [
+    {
+      "Action": "talks in his sleep.",
+      "Scariness": 0,
+      "Chunk": 35
+    },
+    {
+      "Action": "sings in its sleep, requiring pinching to stop.",
+      "Scariness": 0,
+      "Chunk": 36
+    },
+    {
+      "Action": "shrieked when pinched.",
+      "Scariness": 0,
+      "Chunk": 39
+    }
+  ],
+  "Queen": [
+    {
+      "Action": "commands 'Off with his head!'",
+      "Scariness": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Demands to know Alice's name in a severe tone",
+      "Eloquence": -1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Screams commands without clarity",
+      "Eloquence": -1,
+      "Chunk": 41
+    },
+    {
+      "Action": "shouts 'Off with their heads!'",
+      "Scariness": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "roars at Alice to come on.",
+      "Scariness": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Commands with authority but lacks clarity in communication",
+      "Eloquence": 0,
+      "Chunk": 42
+    },
+    {
+      "Action": "Shouts 'Off with his head!'",
+      "Eloquence": -1,
+      "Chunk": 43
+    },
+    {
+      "Action": "orders executions without hesitation.",
+      "Scariness": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "screams with passion.",
+      "Scariness": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Issues commands without explanation",
+      "Eloquence": -1,
+      "Chunk": 44
+    },
+    {
+      "Action": "threatens to execute everyone.",
+      "Scariness": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Threatens execution without clear reasoning",
+      "Eloquence": -1,
+      "Chunk": 45
+    },
+    {
+      "Action": "appears suddenly, frowning like a thunderstorm.",
+      "Scariness": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "shouts 'Off with his head!' and threatens executions.",
+      "Scariness": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "stamps on the ground while giving a warning.",
+      "Scariness": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "leaves off to see after some executions she has ordered.",
+      "Scariness": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Shouts threats and commands",
+      "Eloquence": -1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Stares at the Hatter, causing him to fidget",
+      "Eloquence": 0,
+      "Chunk": 58
+    },
+    {
+      "Action": "stares at the Hatter.",
+      "Scariness": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Issues chaotic commands",
+      "Eloquence": -1,
+      "Chunk": 60
+    },
+    {
+      "Action": "adds that Alice is 'nearly two miles high.'",
+      "Scariness": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Supports the King's arbitrary rule without explanation",
+      "Eloquence": -1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Makes a definitive statement without evidence",
+      "Eloquence": 0,
+      "Chunk": 63
+    },
+    {
+      "Action": "shouts 'Off with her head!'",
+      "Scariness": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "throws an inkstand at the Lizard",
+      "Scariness": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "orders off her unfortunate guests to execution.",
+      "Scariness": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Orders off her guests to execution",
+      "Eloquence": 0,
+      "Chunk": 65
+    }
+  ],
+  "The Queen": [
+    {
+      "Action": "not present but implied to be authoritative.",
+      "Scariness": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "shrieks out commands to behead the Dormouse.",
+      "Scariness": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "commands to suppress and pinch the Dormouse.",
+      "Scariness": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "supports the King's accusation, adding to the tension.",
+      "Scariness": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Shouts and throws an inkstand in anger",
+      "Eloquence": -1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Commands others to silence and threatens Alice",
+      "Eloquence": -1,
+      "Chunk": 64
+    }
+  ],
+  "The Gardeners": [
+    {
+      "Action": "painting roses red, which is unusual.",
+      "Scariness": 0,
+      "Chunk": 39
+    }
+  ],
+  "Five": [
+    {
+      "Action": "Responds sulkily to a fellow gardener",
+      "Eloquence": -1,
+      "Chunk": 39
+    },
+    {
+      "Action": "expresses anxiety about the Queen's potential wrath.",
+      "Scariness": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Attempts to explain the situation to Alice",
+      "Eloquence": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Calls out in a panicked manner",
+      "Eloquence": 0,
+      "Chunk": 40
+    }
+  ],
+  "Seven": [
+    {
+      "Action": "Accidentally causes Five to spill paint",
+      "Eloquence": 0,
+      "Chunk": 39
+    },
+    {
+      "Action": "stops speaking abruptly upon seeing Alice, indicating fear of the Queen.",
+      "Scariness": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Begins to express feelings about injustice",
+      "Eloquence": 1,
+      "Chunk": 40
+    }
+  ],
+  "Queen of Hearts": [
+    {
+      "Action": "is feared by the gardeners who believe they will be beheaded if she finds out about the mistake.",
+      "Scariness": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "No direct speech or action shown",
+      "Eloquence": 0,
+      "Chunk": 40
+    },
+    {
+      "Action": "screams 'Off with her head!'",
+      "Scariness": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "glares at Alice like a wild beast",
+      "Scariness": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "shouting 'Off with his head!'",
+      "Scariness": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "is present in a court setting, which can imply authority and potential for intimidation.",
+      "Scariness": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "stares at the Hatter, causing him to turn pale and fidget.",
+      "Scariness": 1,
+      "Chunk": 58
+    }
+  ],
+  "Two": [
+    {
+      "Action": "explains the fear of the Queen's punishment.",
+      "Scariness": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Starts to explain the mistake in a low voice",
+      "Eloquence": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Speaks in a humble tone but is cut off",
+      "Eloquence": 0,
+      "Chunk": 41
+    }
+  ],
+  "Knave of Hearts": [
+    {
+      "Action": "Carries the King's crown without speaking",
+      "Eloquence": 0,
+      "Chunk": 40
+    },
+    {
+      "Action": "bows and smiles in reply",
+      "Scariness": 0,
+      "Chunk": 41
+    }
+  ],
+  "King of Hearts": [
+    {
+      "Action": "No direct speech or action shown",
+      "Eloquence": 0,
+      "Chunk": 40
+    },
+    {
+      "Action": "sits on a throne with a crowd around him.",
+      "Scariness": 0,
+      "Chunk": 56
+    }
+  ],
+  "King": [
+    {
+      "Action": "timidly says 'Consider, my dear: she is only a child!'",
+      "Scariness": -1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Timidly interjects with a suggestion",
+      "Eloquence": 0,
+      "Chunk": 41
+    },
+    {
+      "Action": "hides behind Alice when feeling threatened.",
+      "Scariness": -1,
+      "Chunk": 44
+    },
+    {
+      "Action": "eagerly seeks the executioner.",
+      "Scariness": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Expresses curiosity but lacks clarity in his speech",
+      "Eloquence": 0,
+      "Chunk": 44
+    },
+    {
+      "Action": "Commands the removal of the cat without clear reasoning",
+      "Eloquence": -1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Makes a nonsensical statement about beheading",
+      "Eloquence": -1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Pardons the company in a low voice",
+      "Eloquence": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "looks anxiously around the court.",
+      "Scariness": 0,
+      "Chunk": 57
+    },
+    {
+      "Action": "threatens the Hatter with execution.",
+      "Scariness": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Commands the court but lacks clarity in his questions",
+      "Eloquence": 0,
+      "Chunk": 58
+    },
+    {
+      "Action": "threatens execution for not giving evidence.",
+      "Scariness": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "criticizes the Hatter's speaking ability.",
+      "Scariness": 0,
+      "Chunk": 59
+    },
+    {
+      "Action": "Interrupts and demands clarity",
+      "Eloquence": 0,
+      "Chunk": 59
+    },
+    {
+      "Action": "Critiques the Hatter's speaking ability",
+      "Eloquence": 0,
+      "Chunk": 59
+    },
+    {
+      "Action": "Struggles to maintain order in court",
+      "Eloquence": 0,
+      "Chunk": 60
+    },
+    {
+      "Action": "emphasizes the need for all jurymen to be in their places.",
+      "Scariness": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Asks Alice about her knowledge with emphasis",
+      "Eloquence": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "turns pale and shuts his note-book hastily.",
+      "Scariness": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "cackles out 'Silence!'",
+      "Scariness": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Hastily agrees with the White Rabbit and fumbles with words",
+      "Eloquence": -1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Makes a clever statement that is applauded",
+      "Eloquence": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "muttering and trying to make sense of nonsensical verses",
+      "Scariness": 0,
+      "Chunk": 64
+    }
+  ],
+  "Three Gardeners": [
+    {
+      "Action": "jump up and begin bowing",
+      "Scariness": 0,
+      "Chunk": 41
+    }
+  ],
+  "Knave": [
+    {
+      "Action": "Responds to the Queen with a bow and smile",
+      "Eloquence": 0,
+      "Chunk": 41
+    },
+    {
+      "Action": "stands in chains, suggesting he is in a precarious situation.",
+      "Scariness": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Claims innocence without clear reasoning",
+      "Eloquence": 0,
+      "Chunk": 63
+    },
+    {
+      "Action": "shakes his head sadly",
+      "Scariness": 0,
+      "Chunk": 64
+    }
+  ],
+  "Soldiers": [
+    {
+      "Action": "march off quietly after the Queen's command.",
+      "Scariness": 0,
+      "Chunk": 42
+    },
+    {
+      "Action": "Responds to the Queen's command but lacks independent expression",
+      "Eloquence": 0,
+      "Chunk": 42
+    }
+  ],
+  "Executioner": [
+    {
+      "Action": "expresses reluctance to behead without a body.",
+      "Scariness": 0,
+      "Chunk": 45
+    },
+    {
+      "Action": "Presents a logical argument about beheading",
+      "Eloquence": 1,
+      "Chunk": 45
+    }
+  ],
+  "Gryphon": [
+    {
+      "Action": "watches the Queen and chuckles about the fun of it.",
+      "Scariness": 0,
+      "Chunk": 48
+    },
+    {
+      "Action": "Chuckles and speaks half to itself",
+      "Eloquence": 0,
+      "Chunk": 48
+    },
+    {
+      "Action": "dismisses Alice's question angrily.",
+      "Scariness": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Dismisses Alice's question and speaks in a commanding tone",
+      "Eloquence": -1,
+      "Chunk": 49
+    },
+    {
+      "Action": "interrupts Alice and tells the Mock Turtle to hold his tongue.",
+      "Scariness": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "exclaims surprise at Alice's ignorance.",
+      "Scariness": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Interrupts Alice and asserts authority",
+      "Eloquence": 0,
+      "Chunk": 50
+    },
+    {
+      "Action": "Exclaims surprise at Alice's ignorance",
+      "Eloquence": 0,
+      "Chunk": 50
+    },
+    {
+      "Action": "interrupts the Mock Turtle in a very decided tone.",
+      "Scariness": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "shakes and punches the Mock Turtle in the back.",
+      "Scariness": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Makes a clever remark about lessons",
+      "Eloquence": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Interrupts with a decisive tone",
+      "Eloquence": 0,
+      "Chunk": 51
+    },
+    {
+      "Action": "shouted with a bound into the air.",
+      "Scariness": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "yelled at the top of its voice.",
+      "Scariness": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Yells and interrupts, showing lack of coherence",
+      "Eloquence": -1,
+      "Chunk": 52
+    },
+    {
+      "Action": "speaks solemnly about whiting.",
+      "Scariness": 0,
+      "Chunk": 53
+    },
+    {
+      "Action": "Provides a convoluted explanation about the whiting",
+      "Eloquence": 0,
+      "Chunk": 53
+    },
+    {
+      "Action": "impatiently orders Alice to perform.",
+      "Scariness": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "demands Alice to stand up and repeat a lesson.",
+      "Scariness": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Impatiently demands Alice to repeat a lesson",
+      "Eloquence": 0,
+      "Chunk": 54
+    },
+    {
+      "Action": "interrupts and hastily dismisses Alice's explanation.",
+      "Scariness": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Impatiently interrupts and directs the conversation",
+      "Eloquence": 0,
+      "Chunk": 55
+    },
+    {
+      "Action": "hurries Alice off without explanation.",
+      "Scariness": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Commands the Mock Turtle to sing",
+      "Eloquence": 0,
+      "Chunk": 56
+    },
+    {
+      "Action": "shriek fills the air.",
+      "Scariness": 1,
+      "Chunk": 65
+    }
+  ],
+  "Mock Turtle": [
+    {
+      "Action": "sits sad and lonely, sobbing heavily.",
+      "Scariness": 0,
+      "Chunk": 49
+    },
+    {
+      "Action": "Attempts to tell a story but is interrupted and sobs",
+      "Eloquence": 0,
+      "Chunk": 49
+    },
+    {
+      "Action": "Begins story with a sigh and lacks clarity",
+      "Eloquence": -1,
+      "Chunk": 49
+    },
+    {
+      "Action": "expresses relief in a condescending manner.",
+      "Scariness": 0,
+      "Chunk": 50
+    },
+    {
+      "Action": "sighs and expresses regret about his education.",
+      "Scariness": -1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Describes his education with whimsical subjects",
+      "Eloquence": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Expresses relief and explains his schooling",
+      "Eloquence": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Lists subjects in a humorous manner",
+      "Eloquence": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "sighs deeply and sobs, choking his voice.",
+      "Scariness": 0,
+      "Chunk": 51
+    },
+    {
+      "Action": "Struggles to speak due to sobs",
+      "Eloquence": -1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Attempts to explain the Lobster Quadrille",
+      "Eloquence": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "capering wildly.",
+      "Scariness": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "sang very slowly and sadly.",
+      "Scariness": 0,
+      "Chunk": 52
+    },
+    {
+      "Action": "Sings a whimsical song with clear imagery",
+      "Eloquence": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "yawns and shuts his eyes.",
+      "Scariness": 0,
+      "Chunk": 53
+    },
+    {
+      "Action": "Yawns and shuts his eyes during explanation",
+      "Eloquence": -1,
+      "Chunk": 53
+    },
+    {
+      "Action": "expresses offense when corrected.",
+      "Scariness": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "shows curiosity about Alice's story.",
+      "Scariness": 0,
+      "Chunk": 54
+    },
+    {
+      "Action": "Makes a pun about 'porpoise'",
+      "Eloquence": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "questions Alice persistently and expresses confusion.",
+      "Scariness": 0,
+      "Chunk": 55
+    },
+    {
+      "Action": "Expresses confusion and requests explanations",
+      "Eloquence": 0,
+      "Chunk": 55
+    },
+    {
+      "Action": "sings a melancholic song.",
+      "Scariness": 0,
+      "Chunk": 56
+    },
+    {
+      "Action": "Sings a song with emotional depth",
+      "Eloquence": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "sobs in the distance, contributing to a sense of misery.",
+      "Scariness": 1,
+      "Chunk": 65
+    }
+  ],
+  "Snail": [
+    {
+      "Action": "gave a look askance.",
+      "Scariness": 0,
+      "Chunk": 52
+    }
+  ],
+  "Jurors": [
+    {
+      "Action": "write down 'stupid things!' on their slates.",
+      "Scariness": 0,
+      "Chunk": 57
+    },
+    {
+      "Action": "Write down 'stupid things!' on their slates",
+      "Eloquence": -1,
+      "Chunk": 57
+    }
+  ],
+  "Juror (Bill, the Lizard)": [
+    {
+      "Action": "Cannot spell 'stupid' and asks for help",
+      "Eloquence": -1,
+      "Chunk": 57
+    }
+  ],
+  "The King": [
+    {
+      "Action": "looks anxiously at the White Rabbit.",
+      "Scariness": 0,
+      "Chunk": 60
+    },
+    {
+      "Action": "accuses the Knave of mischief without evidence.",
+      "Scariness": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Muttering over the verses and attempting to make sense of them",
+      "Eloquence": 0,
+      "Chunk": 64
+    },
+    {
+      "Action": "Makes a pun and tries to elicit laughter",
+      "Eloquence": 1,
+      "Chunk": 64
+    }
+  ],
+  "Lizard": [
+    {
+      "Action": "sits with its mouth open, gazing up in a melancholy way.",
+      "Scariness": 0,
+      "Chunk": 61
+    },
+    {
+      "Action": "Sits with its mouth open, unable to respond",
+      "Eloquence": -1,
+      "Chunk": 61
+    }
+  ],
+  "Jurymen": [
+    {
+      "Action": "Show confusion and lack of understanding",
+      "Eloquence": -1,
+      "Chunk": 62
+    }
+  ],
+  "The Jury": [
+    {
+      "Action": "writes down Alice's disbelief without questioning the King's authority.",
+      "Scariness": 0,
+      "Chunk": 63
+    }
+  ],
+  "The White Rabbit": [
+    {
+      "Action": "follows the King's orders without question.",
+      "Scariness": 0,
+      "Chunk": 63
+    }
+  ],
+  "The Knave": [
+    {
+      "Action": "Responds to the King's question with a sad tone",
+      "Eloquence": 0,
+      "Chunk": 64
+    }
+  ],
+  "Sister": [
+    {
+      "Action": "watches the setting sun, thinking of little Alice and her wonderful Adventures.",
+      "Scariness": -1,
+      "Chunk": 65
+    }
+  ],
+  "Alice's Sister": [
+    {
+      "Action": "Listens attentively and reflects on Alice's adventures",
+      "Eloquence": 1,
+      "Chunk": 65
+    }
+  ]
+}

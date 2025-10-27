@@ -1,0 +1,30 @@
+{
+  "n_total": 100,
+  "labels": [
+    "Correct",
+    "Likely correct",
+    "Unclear",
+    "Likely incorrect",
+    "Incorrect"
+  ],
+  "n_Correct": 67,
+  "proportion_Correct": 0.67,
+  "95%_CI_lower_Correct": 0.5727631656427916,
+  "95%_CI_upper_Correct": 0.7543788291977139,
+  "n_Likely_correct": 21,
+  "proportion_Likely_correct": 0.21,
+  "95%_CI_lower_Likely_correct": 0.1418264401229462,
+  "95%_CI_upper_Likely_correct": 0.3000968485054992,
+  "n_Unclear": 9,
+  "proportion_Unclear": 0.09,
+  "95%_CI_lower_Unclear": 0.04850875612040666,
+  "95%_CI_upper_Unclear": 0.1624256090480684,
+  "n_Likely_incorrect": 3,
+  "proportion_Likely_incorrect": 0.03,
+  "95%_CI_lower_Likely_incorrect": 0.010894483716810323,
+  "95%_CI_upper_Likely_incorrect": 0.08435689827612243,
+  "n_Incorrect": 0,
+  "proportion_Incorrect": 0.0,
+  "95%_CI_lower_Incorrect": 0.0002506399507392151,
+  "95%_CI_upper_Incorrect": 0.03586462039000372
+}

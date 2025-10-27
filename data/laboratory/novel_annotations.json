@@ -1,0 +1,2263 @@
+{
+  "Kasimir Schneider": [
+    {
+      "Action": "Is carried out by paramedics",
+      "Happiness": -1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Becomes an object of self-deprecation",
+      "Funniness": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Reflects on the absurdity of his situation",
+      "Funniness": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Smiled at Mrs. Atkinson-Debrov",
+      "Happiness": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Expressed eagerness about the loan situation",
+      "Happiness": 0,
+      "Chunk": 3
+    },
+    {
+      "Action": "Expresses annoyance at name abbreviation",
+      "Funniness": 0,
+      "Chunk": 3
+    },
+    {
+      "Action": "Smiles as if receiving a key to a rare book collection",
+      "Funniness": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Describes loan situation with a hint of embarrassment",
+      "Funniness": 0,
+      "Chunk": 3
+    },
+    {
+      "Action": "Gives a delightfully timid smile",
+      "Happiness": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Lets shoulders slump",
+      "Happiness": -1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Clutches forehead and sways dangerously",
+      "Happiness": -1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Falls onto the carpet",
+      "Happiness": -1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Feigns a fainting spell to elicit sympathy",
+      "Funniness": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Clutches forehead and sways dangerously",
+      "Funniness": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Whispers about his heart while on the floor",
+      "Funniness": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Rifles through envelopes with excitement",
+      "Happiness": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Wheezes dramatically and theatrically coughs",
+      "Funniness": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Rifles through envelopes in a chaotic manner",
+      "Funniness": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Crude ripping open of a letter",
+      "Funniness": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Admiring the beauty of the lecture hall",
+      "Happiness": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Sitting in the back row and reading instead of engaging",
+      "Happiness": -1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Pulling out a book and perusing it",
+      "Happiness": 0,
+      "Chunk": 9
+    },
+    {
+      "Action": "Sits in the back row and reads instead of paying attention",
+      "Funniness": -1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Nods appreciatively towards the coffee machine",
+      "Happiness": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Stands rigidly and looks perplexed",
+      "Happiness": -1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Stutters and looks perplexed",
+      "Funniness": -1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Makes a face after sipping coffee",
+      "Funniness": 0,
+      "Chunk": 13
+    },
+    {
+      "Action": "Expresses youthful confidence",
+      "Happiness": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Addresses professor with politeness",
+      "Happiness": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Jumps to his feet to get the contract form",
+      "Happiness": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Acknowledges limited time for assistantship",
+      "Happiness": 0,
+      "Chunk": 15
+    },
+    {
+      "Action": "Addresses professor with adequate tone and formality",
+      "Funniness": 0,
+      "Chunk": 15
+    },
+    {
+      "Action": "Says he will do his very best",
+      "Funniness": 0,
+      "Chunk": 15
+    },
+    {
+      "Action": "Bows slightly",
+      "Funniness": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Expresses youthful confidence",
+      "Funniness": 0,
+      "Chunk": 15
+    },
+    {
+      "Action": "Evades attention for multiple days",
+      "Funniness": 0,
+      "Chunk": 16
+    },
+    {
+      "Action": "Refrained from commenting",
+      "Happiness": 0,
+      "Chunk": 25
+    },
+    {
+      "Action": "Refraining from commenting on Laura's statement",
+      "Funniness": -1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Jumps out of chair",
+      "Happiness": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Decides to give up on aesthetic sensibilities",
+      "Funniness": 0,
+      "Chunk": 28
+    },
+    {
+      "Action": "Jumps out of his chair",
+      "Funniness": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Nods, obviously shagrinned",
+      "Happiness": -1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Nods and looks shagrinned",
+      "Funniness": 0,
+      "Chunk": 29
+    },
+    {
+      "Action": "Experiences traumatic shock",
+      "Happiness": -1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Throws himself at the threshold",
+      "Happiness": -1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Feels physical torture and anxiety",
+      "Happiness": -1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Experiences traumatic shock and physical rejection",
+      "Funniness": -1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Shoos away pigeons",
+      "Happiness": 0,
+      "Chunk": 31
+    },
+    {
+      "Action": "Considers Professor Hartmann's ambition positively",
+      "Happiness": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Shoos away pigeons",
+      "Funniness": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Realizes opportunities for others",
+      "Happiness": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Feels soothed by their interaction",
+      "Happiness": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Observes the interaction positively",
+      "Happiness": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Cannot laugh but enjoys the moment",
+      "Happiness": 0,
+      "Chunk": 33
+    },
+    {
+      "Action": "Quickly realizes what to do and offers a pen",
+      "Funniness": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Recalls humorous past incidents at the undergraduate ball",
+      "Funniness": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Considers letting bushes burn as a form of punishment",
+      "Funniness": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Mentions diminishing alcohol content in beverages",
+      "Funniness": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Expresses pride in students but recalls their misbehavior",
+      "Funniness": 0,
+      "Chunk": 35
+    },
+    {
+      "Action": "Describes the chaos of past events with a serious tone",
+      "Funniness": -1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Answers smartly",
+      "Happiness": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Responds smartly to a question",
+      "Funniness": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Feels burning shame about the affair",
+      "Happiness": -1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Scolds himself",
+      "Happiness": -1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Remedies shortcomings to control nerves",
+      "Happiness": 0,
+      "Chunk": 43
+    },
+    {
+      "Action": "Reflects on the embarrassment of losing part of his personality",
+      "Funniness": -1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Participates in ribbing of struggling institutions",
+      "Funniness": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Laughs",
+      "Happiness": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Sighs and looks quite miserable",
+      "Happiness": -1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Closes his suit jacket and crosses his arms",
+      "Happiness": 0,
+      "Chunk": 45
+    },
+    {
+      "Action": "Laughs at Laura's comment about dancing",
+      "Funniness": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Jokes about his compliment being split between Laura and her mom",
+      "Funniness": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Sighs and looks miserable",
+      "Funniness": -1,
+      "Chunk": 45
+    }
+  ],
+  "Professor Katharina Hartmann": [
+    {
+      "Action": "Feels remorseful and somewhat responsible",
+      "Happiness": -1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Remembers fondly the first meeting with Kasimir",
+      "Happiness": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Expresses appreciation for admiration from students",
+      "Happiness": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Considers the beauty of the university",
+      "Happiness": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Describes university life with dark humor",
+      "Funniness": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Expresses remorse while being distracted by paramedics",
+      "Funniness": 0,
+      "Chunk": 1
+    },
+    {
+      "Action": "Compares universities to humans in a vain manner",
+      "Funniness": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Mentions the madness of university students",
+      "Funniness": 0,
+      "Chunk": 1
+    },
+    {
+      "Action": "Remembers a joyful moment with a squirrel",
+      "Happiness": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Expresses disdain for modern technology",
+      "Happiness": -1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Feels happy seeing a student pause to enjoy nature",
+      "Happiness": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Reflects on the upset caused by a death",
+      "Happiness": -1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Shows intrigue towards a new student",
+      "Happiness": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Compares computers to a piece of plastic on the forehead",
+      "Funniness": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Describes the squirrel's antics in a whimsical manner",
+      "Funniness": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Expresses disdain for modern things in an exaggerated way",
+      "Funniness": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Mentions the 'short, ugly exclamations' of students",
+      "Funniness": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Reflects on the beauty of nature in a poetic way",
+      "Funniness": 0,
+      "Chunk": 2
+    },
+    {
+      "Action": "Expresses self-consciousness about summer",
+      "Happiness": -1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Considers expectations of others",
+      "Happiness": -1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Reflects on sore point of absence",
+      "Happiness": -1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Expresses self-consciousness about summer aesthetics",
+      "Funniness": 0,
+      "Chunk": 6
+    },
+    {
+      "Action": "Considers planting 'silly flowers' and inviting bees",
+      "Funniness": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Describes campus as 'the most beautiful winter campus'",
+      "Funniness": 0,
+      "Chunk": 6
+    },
+    {
+      "Action": "Complains about students' laziness",
+      "Funniness": -1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Delighted by academic interests",
+      "Happiness": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Sank into regular summer blues",
+      "Happiness": -1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Regretting unjustified rejection",
+      "Happiness": -1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Wallowing in realization of lost talent",
+      "Happiness": -1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Discourages loud sociability",
+      "Happiness": -1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Polishes the marble floors and removes cheap-looking books",
+      "Happiness": 0,
+      "Chunk": 8
+    },
+    {
+      "Action": "Allows herself to linger",
+      "Happiness": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Expressing pride in the lecture hall's beauty",
+      "Happiness": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Removing ink stains and oiling chairs",
+      "Happiness": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Offers coffee and greets Caspar",
+      "Happiness": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Wears jeans and a flannel shirt for intellectual labor",
+      "Funniness": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Holds oily work gloves while shaking hands",
+      "Funniness": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Misremembers the character's name",
+      "Funniness": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Cheers with her cup",
+      "Happiness": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Cuts off Kasimir's explanation",
+      "Happiness": -1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Cuts off Kasimir and insists on giving him coffee",
+      "Funniness": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Cheers with her cup and drinks half her coffee in unhinged gulps",
+      "Funniness": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Dismissively waves",
+      "Happiness": -1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Says the field is a joke",
+      "Happiness": -1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Compliments the application",
+      "Happiness": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Dismissively waves off the importance of a textbook",
+      "Funniness": -1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Calls the entire field of parapsychology a joke",
+      "Funniness": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Comments on the excitement about email accounts",
+      "Funniness": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Gives a brief smile",
+      "Happiness": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Leans back and taps a pen onto her armrest",
+      "Funniness": 0,
+      "Chunk": 15
+    },
+    {
+      "Action": "Makes a hint about the appointment",
+      "Funniness": 0,
+      "Chunk": 15
+    },
+    {
+      "Action": "Eager to see whether you would fulfill the request",
+      "Happiness": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Let my focus drift to other talents",
+      "Happiness": 0,
+      "Chunk": 16
+    },
+    {
+      "Action": "Enjoys the transition to inspiring activities",
+      "Happiness": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Tempted to replace a student",
+      "Happiness": -1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Expresses eagerness to see if a task will be completed",
+      "Funniness": 0,
+      "Chunk": 16
+    },
+    {
+      "Action": "Rummages around on her shelves",
+      "Happiness": 0,
+      "Chunk": 24
+    },
+    {
+      "Action": "Rummages around on her shelves, replacing books with cheap plastic drawers",
+      "Funniness": 0,
+      "Chunk": 24
+    },
+    {
+      "Action": "Smiling awkwardly",
+      "Happiness": 0,
+      "Chunk": 25
+    },
+    {
+      "Action": "Smiling awkwardly at the mention of the graduation ball",
+      "Funniness": 0,
+      "Chunk": 25
+    },
+    {
+      "Action": "Switching on an obnoxious computer screen",
+      "Funniness": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Frowns, appalled by extortion",
+      "Happiness": -1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Reacts to Laura's comments with a face like finding a dung beetle in salad",
+      "Funniness": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Frowns at Laura's extortion",
+      "Funniness": -1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Stares thoughtfully out of the window",
+      "Happiness": 0,
+      "Chunk": 27
+    },
+    {
+      "Action": "Sounds fairly impressed",
+      "Happiness": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Clears her throat and points her pen",
+      "Funniness": 0,
+      "Chunk": 27
+    },
+    {
+      "Action": "Smiles",
+      "Happiness": 0,
+      "Chunk": 28
+    },
+    {
+      "Action": "Smiles like a gargoyle",
+      "Funniness": -1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Uses a calendar despite having a printed one",
+      "Funniness": 0,
+      "Chunk": 28
+    },
+    {
+      "Action": "Collects papers with a smile",
+      "Funniness": 0,
+      "Chunk": 28
+    },
+    {
+      "Action": "Frowns in surprise",
+      "Happiness": 0,
+      "Chunk": 29
+    },
+    {
+      "Action": "Taps pen on the screen while explaining the machine",
+      "Funniness": 0,
+      "Chunk": 29
+    },
+    {
+      "Action": "Described as ambitious and eccentric",
+      "Funniness": 0,
+      "Chunk": 31
+    },
+    {
+      "Action": "Sips seltzer calmly",
+      "Happiness": 0,
+      "Chunk": 42
+    },
+    {
+      "Action": "Wears black sneakers with dress pants",
+      "Funniness": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Dismisses Mr. Orkin-Rent's offer politely",
+      "Funniness": 0,
+      "Chunk": 42
+    },
+    {
+      "Action": "Involved in dubious organization",
+      "Funniness": 0,
+      "Chunk": 43
+    }
+  ],
+  "Mrs. Atkinson-Debrov": [
+    {
+      "Action": "Raised her eyebrows in impatience",
+      "Happiness": -1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Sighed and showed emotional detachment",
+      "Happiness": -1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Raises her eyebrows to signal impatience",
+      "Funniness": 0,
+      "Chunk": 3
+    },
+    {
+      "Action": "Sighs and pushes glasses back on her nose",
+      "Funniness": -1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Scoffs and shakes her head",
+      "Happiness": -1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Displays slight sense of nervousness",
+      "Happiness": 0,
+      "Chunk": 4
+    },
+    {
+      "Action": "Scoffs and dismisses a heartfelt request",
+      "Funniness": -1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Crosses fingers and adopts a condescending tone",
+      "Funniness": -1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Looks annoyed and dismayed",
+      "Happiness": -1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Looks annoyed and dismayed at technical issues",
+      "Funniness": -1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Grudgingly assists to avoid criminal charges",
+      "Funniness": 0,
+      "Chunk": 5
+    },
+    {
+      "Action": "Is mentioned but not actively engaged",
+      "Happiness": 0,
+      "Chunk": 11
+    }
+  ],
+  "Unnamed Character": [
+    {
+      "Action": "Breathes out heavily through nose",
+      "Happiness": -1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Stuffed letter into pocket",
+      "Happiness": -1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Stormed off campus",
+      "Happiness": -1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Ponders odd behavior in a humorous context",
+      "Funniness": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Describes mindless ice-cream eaters with a sarcastic tone",
+      "Funniness": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Considers himself an expert on parapsychology humorously",
+      "Funniness": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Wallows in summer blues without taking action",
+      "Funniness": -1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Critiques the admissions process in a serious manner",
+      "Funniness": 0,
+      "Chunk": 7
+    },
+    {
+      "Action": "Gets out of the bus with a heavy leather suitcase and an anticipatory twinkle in your eyes",
+      "Happiness": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Enters the Walter von Lucadou Lecture Hall",
+      "Happiness": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Causes turmoil at Kleinburg University",
+      "Happiness": 0,
+      "Chunk": 8
+    },
+    {
+      "Action": "Describes students with exaggerated disdain",
+      "Funniness": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Mentions spiders and maggots in salad as punishment",
+      "Funniness": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Polishes marble floors and fractures light for effect",
+      "Funniness": 0,
+      "Chunk": 8
+    },
+    {
+      "Action": "Expresses disdain for loud sociability",
+      "Funniness": -1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Breaks the soda machine and waits for its removal",
+      "Funniness": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Removes ink stains and oils chairs",
+      "Funniness": 0,
+      "Chunk": 9
+    },
+    {
+      "Action": "Allows music students to trespass on the organ",
+      "Funniness": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Snaps book shut loudly in anger",
+      "Happiness": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Joins in anger with another",
+      "Happiness": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Dreads the moment a book is unavailable",
+      "Happiness": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Takes it as a sign of another's academic potential",
+      "Happiness": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Snaps book shut loudly",
+      "Funniness": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Expresses anger about the dean's beliefs",
+      "Funniness": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Dissuades a seagull from building a nest",
+      "Funniness": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Pride in extensive book collection",
+      "Funniness": 0,
+      "Chunk": 10
+    },
+    {
+      "Action": "Contemplates how to inquire about another",
+      "Happiness": 0,
+      "Chunk": 11
+    },
+    {
+      "Action": "Shares a quick anecdote about wasps and a gardener",
+      "Funniness": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Contemplates moving Mrs. Atkinson-Debrov to inquire about another character",
+      "Funniness": 0,
+      "Chunk": 11
+    },
+    {
+      "Action": "Describes the university board's reluctance to employ a dangerous young man",
+      "Funniness": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Mentions hovering around basement laboratories",
+      "Funniness": 0,
+      "Chunk": 11
+    },
+    {
+      "Action": "Assumes early-morning visit is for a psychological experiment",
+      "Funniness": 0,
+      "Chunk": 11
+    },
+    {
+      "Action": "Feels upset about the hiring procedures",
+      "Happiness": -1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Curses self for lackluster review",
+      "Happiness": -1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Curses self for lackluster review of hiring procedures",
+      "Funniness": 0,
+      "Chunk": 12
+    },
+    {
+      "Action": "Forgets to make the stairs creak",
+      "Funniness": 0,
+      "Chunk": 12
+    },
+    {
+      "Action": "Notes the portraits' eyes stayed still and unconcerned",
+      "Funniness": 0,
+      "Chunk": 12
+    },
+    {
+      "Action": "Shakes off disappointment",
+      "Happiness": 0,
+      "Chunk": 14
+    },
+    {
+      "Action": "Expresses enthusiasm about the textbook",
+      "Happiness": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Sits in stunned silence",
+      "Happiness": -1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Realizes the purpose of the meeting",
+      "Happiness": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "States they can work well together",
+      "Happiness": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Expresses disappointment about the professor's dismissive attitude",
+      "Funniness": 0,
+      "Chunk": 14
+    },
+    {
+      "Action": "Sits in stunned silence",
+      "Funniness": 0,
+      "Chunk": 14
+    },
+    {
+      "Action": "Gives a brilliant smile",
+      "Happiness": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Gives a brilliant smile and comments on the beautiful evening",
+      "Funniness": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Employs a playful tone",
+      "Happiness": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Feels embarrassed by empty exclamations",
+      "Happiness": -1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Eyes the coat of arms with interest",
+      "Happiness": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Uses playful tone while discussing dice",
+      "Funniness": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Employs empty exclamations",
+      "Funniness": -1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Sighs and plays with a chip of white paint",
+      "Happiness": -1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Expresses frustration about enrollment",
+      "Happiness": -1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Feels glad about shared disgust",
+      "Happiness": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Puts hands in pockets and chafes shoes",
+      "Happiness": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "Sighs and plays with a chip of white paint",
+      "Funniness": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "Expresses disgust at the university's modernization",
+      "Funniness": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Describes the difficulty of logging in without a student number",
+      "Funniness": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "Rekindled a smile",
+      "Happiness": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Wiped the floor next to Laura",
+      "Happiness": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Acknowledged attractiveness",
+      "Happiness": 0,
+      "Chunk": 21
+    },
+    {
+      "Action": "Wipes the floor next to Laura",
+      "Funniness": 0,
+      "Chunk": 21
+    },
+    {
+      "Action": "Relies on attractiveness to ask for favors",
+      "Funniness": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Describes reliance on attractiveness as charming",
+      "Funniness": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Expresses authentic surprise",
+      "Happiness": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Imagines a positive future",
+      "Happiness": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Feels approval of connection",
+      "Happiness": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Hurries to help Laura",
+      "Happiness": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Sits silently watching the sunset",
+      "Happiness": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Expresses embarrassment and surprise",
+      "Funniness": -1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Imagines a future of scholarly success",
+      "Funniness": 0,
+      "Chunk": 22
+    },
+    {
+      "Action": "Clears throat, seeks encouragement",
+      "Happiness": 0,
+      "Chunk": 26
+    },
+    {
+      "Action": "Attempts to contribute to the discussion",
+      "Happiness": 0,
+      "Chunk": 26
+    },
+    {
+      "Action": "Attempts to contribute with vague references to quantum physics",
+      "Funniness": 0,
+      "Chunk": 26
+    },
+    {
+      "Action": "Resents the growing tendency to interrupt",
+      "Happiness": -1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Resents interruptions",
+      "Funniness": 0,
+      "Chunk": 27
+    },
+    {
+      "Action": "Makes a comment about psi",
+      "Funniness": 0,
+      "Chunk": 27
+    },
+    {
+      "Action": "Grows bored and decides to visit the subterranean labs",
+      "Funniness": 0,
+      "Chunk": 29
+    },
+    {
+      "Action": "Gives a little laugh",
+      "Happiness": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Gives a little laugh",
+      "Funniness": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Tempted to join giggles",
+      "Happiness": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Shares interest in attraction",
+      "Happiness": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Nods silently",
+      "Happiness": 0,
+      "Chunk": 32
+    },
+    {
+      "Action": "Sneers and re-ties shoelaces",
+      "Happiness": -1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Tempted to join giggles from the terrace",
+      "Funniness": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Unties another's shoelaces",
+      "Funniness": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Sneers and re-ties shoelaces",
+      "Funniness": 0,
+      "Chunk": 32
+    },
+    {
+      "Action": "Lets a tiny rabbit hop around a statue",
+      "Funniness": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Crouches down to re-tie shoelaces",
+      "Funniness": 0,
+      "Chunk": 32
+    },
+    {
+      "Action": "Observes the interaction without commenting",
+      "Funniness": -1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Mentions the potential for fun in their relationship",
+      "Funniness": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Smiles, expresses happiness about the invitation",
+      "Happiness": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Amused expression",
+      "Happiness": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Waits silently",
+      "Happiness": 0,
+      "Chunk": 34
+    },
+    {
+      "Action": "Makes a sarcastic remark about hair products",
+      "Funniness": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Asks about a single rose mischievously",
+      "Funniness": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Recalls mixed emotions about the ball",
+      "Happiness": 0,
+      "Chunk": 35
+    },
+    {
+      "Action": "Tolerates pre-drinking gatherings",
+      "Happiness": 0,
+      "Chunk": 35
+    },
+    {
+      "Action": "Feels pride for students",
+      "Happiness": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Remembers past incidents with disdain",
+      "Happiness": -1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Spots someone and feels glad",
+      "Happiness": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Places a luxurious bouquet on the path",
+      "Happiness": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Comments on students messing up the waltz",
+      "Funniness": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Twiddles the hands of a watch to hurry someone",
+      "Funniness": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Places a luxurious bouquet on someone's path",
+      "Funniness": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Silently scoffed",
+      "Happiness": -1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Maintained preferred look for events",
+      "Happiness": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Expressed disgust at committee member's idea",
+      "Happiness": -1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Silently scoffs at the idea of mice",
+      "Funniness": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Describes mice as 'eager, little helpers'",
+      "Funniness": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Expresses disgust at the committee member's idea",
+      "Funniness": 0,
+      "Chunk": 38
+    },
+    {
+      "Action": "Serves water to Laura's parents",
+      "Happiness": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Whispers to Laura about her supervisor",
+      "Funniness": 0,
+      "Chunk": 39
+    },
+    {
+      "Action": "Plays with a spoon on the table",
+      "Funniness": 0,
+      "Chunk": 39
+    },
+    {
+      "Action": "Redistributes name cards and manages the event",
+      "Happiness": 0,
+      "Chunk": 40
+    },
+    {
+      "Action": "Tickles Professor Jessen's throat",
+      "Happiness": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Notes boredom on grandparents' faces",
+      "Happiness": -1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Tickled Professor Jessen’s throat",
+      "Funniness": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Redistributed name cards and managed event logistics",
+      "Funniness": 0,
+      "Chunk": 40
+    },
+    {
+      "Action": "Mumbles nervously",
+      "Happiness": -1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Presses lips together",
+      "Happiness": -1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Observes movements around",
+      "Happiness": 0,
+      "Chunk": 41
+    },
+    {
+      "Action": "Joins applause sheepishly",
+      "Happiness": 0,
+      "Chunk": 41
+    },
+    {
+      "Action": "Mumbles about the dance being difficult",
+      "Funniness": 0,
+      "Chunk": 41
+    },
+    {
+      "Action": "Presses thin lips together in hesitation",
+      "Funniness": -1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Observes movements nervously",
+      "Funniness": 0,
+      "Chunk": 41
+    },
+    {
+      "Action": "Gives poor imitations of couples",
+      "Funniness": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Dances with confidence",
+      "Happiness": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Dances with obvious technical shortcomings",
+      "Funniness": 0,
+      "Chunk": 42
+    },
+    {
+      "Action": "Drinks champagne too fast",
+      "Funniness": 0,
+      "Chunk": 42
+    },
+    {
+      "Action": "Follows footsteps with curiosity",
+      "Happiness": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Debates safety concerns",
+      "Happiness": 0,
+      "Chunk": 44
+    },
+    {
+      "Action": "Smiles while conversing",
+      "Happiness": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Stubs out cigarette",
+      "Happiness": 0,
+      "Chunk": 44
+    },
+    {
+      "Action": "Debates fire safety vs. preventing a fall",
+      "Funniness": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Smiles while discussing friendships",
+      "Funniness": 0,
+      "Chunk": 44
+    },
+    {
+      "Action": "Knocks ashes onto moss",
+      "Funniness": 1,
+      "Chunk": 44
+    }
+  ],
+  "Dean Mayer": [
+    {
+      "Action": "Soliloquizes about parapsychology",
+      "Funniness": 0,
+      "Chunk": 9
+    },
+    {
+      "Action": "Makes quips about supernatural phenomena",
+      "Funniness": 1,
+      "Chunk": 10
+    }
+  ],
+  "Professor Thomas Rhein": [
+    {
+      "Action": "Stares down from the window",
+      "Happiness": -1,
+      "Chunk": 11
+    }
+  ],
+  "Professor Rhein": [
+    {
+      "Action": "Nameplate brutally chiseled off",
+      "Happiness": -1,
+      "Chunk": 12
+    }
+  ],
+  "Narrator": [
+    {
+      "Action": "Notes admiration for Kasimir's confidence",
+      "Happiness": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Anticipates series of failures",
+      "Happiness": -1,
+      "Chunk": 15
+    }
+  ],
+  "Laura Brenner": [
+    {
+      "Action": "Spends time in the secluded pavilion",
+      "Happiness": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Rolls her dice in a secluded pavilion",
+      "Funniness": 0,
+      "Chunk": 16
+    },
+    {
+      "Action": "Collects data for her thesis",
+      "Happiness": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Wedges herself next to other students",
+      "Happiness": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Furrows her eyebrows and looks thoughtfully",
+      "Happiness": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Rolls dice",
+      "Happiness": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Has been accepted for a PhD position",
+      "Happiness": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Rolls dice and takes cryptic notes",
+      "Funniness": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Wedges herself next to students to annoy them",
+      "Funniness": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Collects data for thesis on trick dice",
+      "Funniness": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Furrows her eyebrows when annoyed",
+      "Funniness": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Looks up blankly",
+      "Happiness": -1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Focuses on her notes",
+      "Happiness": -1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Calculates odds",
+      "Happiness": 0,
+      "Chunk": 18
+    },
+    {
+      "Action": "Ignores the compliment and focuses on her notes",
+      "Funniness": -1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Mumbles about her studies",
+      "Happiness": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "Furrows her eyebrows",
+      "Happiness": -1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Expresses skepticism about the study",
+      "Happiness": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "Responds with a factual statement about a study",
+      "Funniness": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "Furrows eyebrows at the playful tone",
+      "Funniness": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "Scoffs",
+      "Happiness": -1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Gives a probing look",
+      "Happiness": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "Weighs the die in her hand",
+      "Happiness": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "Scoffs at the idea of running away from scientific developments",
+      "Funniness": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "Gives a probing look",
+      "Funniness": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "Interrupts to mention she knows about the new supervisor",
+      "Funniness": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "Smiled, laughed",
+      "Happiness": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Mustering amusement",
+      "Happiness": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Laughs at a comment about her supervisor",
+      "Funniness": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Makes a witty observation about favors",
+      "Funniness": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Asks for a favor",
+      "Happiness": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Shakes hands",
+      "Happiness": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Asks for a favor in exchange for a date to the graduation ball",
+      "Funniness": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Quickly picks up her die",
+      "Funniness": 0,
+      "Chunk": 22
+    },
+    {
+      "Action": "Addresses your obvious surprise with an amused smirk",
+      "Happiness": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Addresses the narrator with an amused smirk",
+      "Funniness": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Smirking",
+      "Happiness": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Smirking while discussing her relationship with Kasimir",
+      "Funniness": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Pressing her backpack to her stomach",
+      "Funniness": 0,
+      "Chunk": 25
+    },
+    {
+      "Action": "Interrupts her supervisor",
+      "Happiness": -1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Interrupts Professor Hartmann with audacious comments",
+      "Funniness": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Angrily scribbles in her notebook",
+      "Happiness": -1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Sneers",
+      "Happiness": -1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Sneers at Professor Hartmann",
+      "Funniness": 0,
+      "Chunk": 27
+    },
+    {
+      "Action": "Grimaces",
+      "Happiness": -1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Grimaces at the proposal",
+      "Funniness": -1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Takes time to read the document",
+      "Funniness": 0,
+      "Chunk": 28
+    },
+    {
+      "Action": "Throws a look at the oily work gloves",
+      "Happiness": 0,
+      "Chunk": 29
+    },
+    {
+      "Action": "Throws a look at the oily work gloves",
+      "Funniness": 0,
+      "Chunk": 29
+    },
+    {
+      "Action": "Asks a question with determination",
+      "Happiness": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Asks a serious question with weasel-like determination",
+      "Funniness": -1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Furrows her eyebrows",
+      "Happiness": -1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Grabs Kasimir's arm",
+      "Happiness": -1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Questions the sanity of Professor Hartmann",
+      "Funniness": 0,
+      "Chunk": 31
+    },
+    {
+      "Action": "Grabs Kasimir's arm and questions him",
+      "Funniness": 0,
+      "Chunk": 31
+    },
+    {
+      "Action": "Seemingly unaware of onlooking students",
+      "Happiness": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Gives crap for parapsychology supervisor",
+      "Happiness": -1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Seemingly unaware of onlooking students",
+      "Funniness": 0,
+      "Chunk": 32
+    },
+    {
+      "Action": "Thanks Kasimir for the pen",
+      "Happiness": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Attempts to write but fails",
+      "Happiness": 0,
+      "Chunk": 33
+    },
+    {
+      "Action": "Gives instructions for dinner",
+      "Happiness": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Attempts to write but leaves empty depressions",
+      "Funniness": 0,
+      "Chunk": 33
+    },
+    {
+      "Action": "Underlines words and gives specific instructions about attire",
+      "Funniness": 0,
+      "Chunk": 33
+    },
+    {
+      "Action": "Smiles rarely",
+      "Happiness": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Clenches jaw",
+      "Happiness": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Blushes",
+      "Happiness": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Ignores sarcasm and continues with her notes",
+      "Funniness": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Blushes at the suggestion of a dramatic rose",
+      "Funniness": 0,
+      "Chunk": 34
+    },
+    {
+      "Action": "Continues in graduate program",
+      "Happiness": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Shakes off her mother’s affection",
+      "Happiness": -1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Adjusts her robe after her mother rubs her arm",
+      "Funniness": 0,
+      "Chunk": 36
+    },
+    {
+      "Action": "Corrects Kasimir",
+      "Happiness": 0,
+      "Chunk": 37
+    },
+    {
+      "Action": "Fends off her mother's hands",
+      "Happiness": -1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Corrects Kasimir about his role",
+      "Funniness": 0,
+      "Chunk": 37
+    },
+    {
+      "Action": "Fends off her mother's hands",
+      "Funniness": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Smiled at you",
+      "Happiness": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Smiled weakly",
+      "Happiness": 0,
+      "Chunk": 38
+    },
+    {
+      "Action": "Smiles weakly at her father's comment",
+      "Funniness": 0,
+      "Chunk": 38
+    },
+    {
+      "Action": "Expresses concern about moving out",
+      "Happiness": -1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Makes a face and hides her mouth",
+      "Funniness": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Receives applause from her father",
+      "Happiness": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Applauded vehemently for her turn",
+      "Funniness": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Nods eagerly",
+      "Happiness": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Sounds nervous",
+      "Happiness": -1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Nods eagerly to encourage dance partner",
+      "Funniness": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Hisses to just go",
+      "Funniness": 0,
+      "Chunk": 41
+    },
+    {
+      "Action": "Smiles",
+      "Happiness": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Shares a smile with the narrator",
+      "Funniness": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Asks about friendships",
+      "Happiness": -1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Takes a drag of a cigarette",
+      "Funniness": 0,
+      "Chunk": 44
+    },
+    {
+      "Action": "Asks if it's weird not to have friends",
+      "Funniness": 0,
+      "Chunk": 44
+    },
+    {
+      "Action": "Takes a drag from the cigarette",
+      "Happiness": 0,
+      "Chunk": 45
+    },
+    {
+      "Action": "Asks about the compliment",
+      "Happiness": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Makes a humorous remark about Kasimir's dancing",
+      "Funniness": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Questions Kasimir's sincerity",
+      "Funniness": 0,
+      "Chunk": 45
+    }
+  ],
+  "Unnamed Student": [
+    {
+      "Action": "Prioritizes bars over responsibilities",
+      "Funniness": 1,
+      "Chunk": 16
+    }
+  ],
+  "Mr. Orkin-Rent": [
+    {
+      "Action": "Furrows his untamed eyebrows and scratches his wrinkly neck",
+      "Happiness": 0,
+      "Chunk": 23
+    },
+    {
+      "Action": "Breathes out heavily and shakes his head",
+      "Funniness": 0,
+      "Chunk": 23
+    },
+    {
+      "Action": "Asks if Jerry sprayed nonsense",
+      "Funniness": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Gives the boy a smart look",
+      "Happiness": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Gives a smart look and offers a deal to Jerry",
+      "Funniness": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Supported physical management of the event",
+      "Funniness": 0,
+      "Chunk": 40
+    },
+    {
+      "Action": "Offers services for free",
+      "Happiness": 0,
+      "Chunk": 42
+    },
+    {
+      "Action": "Trumpets loudly into Professor Hartmann's ear",
+      "Funniness": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Offers to clean the lab for free",
+      "Funniness": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Pours himself an unreasonable amount of punch",
+      "Funniness": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Fails in janitorial duties",
+      "Funniness": 0,
+      "Chunk": 43
+    },
+    {
+      "Action": "Relentless requests for assistance",
+      "Funniness": -1,
+      "Chunk": 44
+    }
+  ],
+  "Jerry": [
+    {
+      "Action": "Lifts his hands, covered in green paint",
+      "Happiness": -1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Has paint-covered hands and pajamas",
+      "Funniness": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Claims innocence with panicked confusion",
+      "Funniness": 0,
+      "Chunk": 23
+    },
+    {
+      "Action": "Stops short, shaking his head in confusion",
+      "Happiness": 0,
+      "Chunk": 24
+    },
+    {
+      "Action": "Expresses confusion and doesn't understand the janitor's comments",
+      "Funniness": -1,
+      "Chunk": 24
+    }
+  ],
+  "Laura's Mother": [
+    {
+      "Action": "Smiles and rubs her daughter's arm",
+      "Happiness": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Chirps and fidgets with Laura's hair",
+      "Happiness": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Chirps and fidgets with Laura's hair",
+      "Funniness": 0,
+      "Chunk": 37
+    },
+    {
+      "Action": "Wails about mice in the walls",
+      "Funniness": -1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Delighted by a gesture",
+      "Happiness": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Almost chokes at her husband's comment",
+      "Funniness": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Delighted by Laura's applause",
+      "Funniness": 0,
+      "Chunk": 40
+    }
+  ],
+  "Laura's Father": [
+    {
+      "Action": "Drones on about renovations",
+      "Happiness": 0,
+      "Chunk": 36
+    },
+    {
+      "Action": "Drones on about house renovations",
+      "Funniness": -1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Pats Kasimir heavily on the shoulder",
+      "Happiness": 0,
+      "Chunk": 37
+    },
+    {
+      "Action": "Expresses shock and jealousy",
+      "Happiness": -1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Makes a joke about psychology students",
+      "Funniness": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Expresses shock and jealousy",
+      "Funniness": -1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Caught the hurt look on his daughter's face",
+      "Happiness": -1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Makes a joke about 'Nerdy Hall'",
+      "Funniness": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Catches the hurt look on Laura's face",
+      "Funniness": 0,
+      "Chunk": 38
+    },
+    {
+      "Action": "Engages in conversation about business",
+      "Happiness": 0,
+      "Chunk": 39
+    },
+    {
+      "Action": "Reads from the label and makes a comment about local business",
+      "Funniness": 0,
+      "Chunk": 39
+    },
+    {
+      "Action": "Applauds vehemently",
+      "Happiness": 1,
+      "Chunk": 40
+    }
+  ],
+  "Committee Member": [
+    {
+      "Action": "Suggests a redundant digital screen",
+      "Funniness": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Catches a mysterious stomach bug",
+      "Funniness": 1,
+      "Chunk": 38
+    }
+  ],
+  "Professor Henrick Jessen": [
+    {
+      "Action": "Gives a repetitive speech",
+      "Happiness": -1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Gave a boring speech",
+      "Funniness": -1,
+      "Chunk": 40
+    }
+  ],
+  "Erich Brenner": [
+    {
+      "Action": "Noted for stagnant alumni donations",
+      "Funniness": -1,
+      "Chunk": 40
+    }
+  ],
+  "Mr. Brenner": [
+    {
+      "Action": "Pats back roughly",
+      "Happiness": 0,
+      "Chunk": 41
+    },
+    {
+      "Action": "Pats back roughly, causing a stumble",
+      "Funniness": 1,
+      "Chunk": 41
+    }
+  ]
+}

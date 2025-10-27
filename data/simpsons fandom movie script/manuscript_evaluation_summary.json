@@ -1,0 +1,20 @@
+{
+  "n_total": 100,
+  "labels": [
+    "correct",
+    "questionable",
+    "incorrect"
+  ],
+  "n_correct": 95,
+  "proportion_correct": 0.95,
+  "95%_CI_lower_correct": 0.8882449413653339,
+  "95%_CI_upper_correct": 0.977889427590582,
+  "n_questionable": 4,
+  "proportion_questionable": 0.04,
+  "95%_CI_lower_questionable": 0.016267215110638195,
+  "95%_CI_upper_questionable": 0.0983050186200594,
+  "n_incorrect": 1,
+  "proportion_incorrect": 0.01,
+  "95%_CI_lower_incorrect": 0.0024071729092579905,
+  "95%_CI_upper_incorrect": 0.0539323474267957
+}

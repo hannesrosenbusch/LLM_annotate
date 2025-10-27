@@ -1,0 +1,100 @@
+{"character": "Wickham", "annotation": {"Action": "Character development affects Elizabeth's spirits.", "Social dominance orientation": 0, "Chunk": 188}, "human_label": "Correct"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Consider how important every moment is in such a case.", "Agreeableness": 1, "Chunk": 266}, "human_label": "Correct"}
+{"character": "Mr. Darcy", "annotation": {"Action": "Walking with others despite being less talkative, suggesting a cooperative stance.", "Agreeableness": 1, "Chunk": 322}, "human_label": "Unclear"}
+{"character": "Colonel Forster", "annotation": {"Action": "Gives reason to expect him here soon.", "Agreeableness": 1, "Chunk": 239}, "human_label": "Likely correct"}
+{"character": "Darcy", "annotation": {"Action": "Offers compassionate silence and concern for Elizabeth's distress.", "Agreeableness": 1, "Chunk": 242}, "human_label": "Correct"}
+{"character": "Mr. Bennet", "annotation": {"Action": "Congratulates Jane and wishes her happiness", "Agreeableness": 1, "Chunk": 307}, "human_label": "Correct"}
+{"character": "Elizabeth", "annotation": {"Action": "Expresses a countenance as smiling as her sister's, showing an attempt to maintain harmony.", "Agreeableness": 1, "Chunk": 84}, "human_label": "Correct"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Acknowledges imprudence of potential attachment to Mr. Wickham due to societal norms and her father's opinion.", "Social dominance orientation": 0, "Chunk": 128}, "human_label": "Unclear"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Spends time with family and appreciates their joy and kindness.", "Social dominance orientation": -1, "Chunk": 135}, "human_label": "Likely correct"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Acknowledges the impropriety of her father's behavior towards her mother but endeavors to forget it considering his affectionate treatment towards herself.", "Social dominance orientation": 0, "Chunk": 208}, "human_label": "Likely correct"}
+{"character": "Mr. Bennet", "annotation": {"Action": "Visits Mr. Bingley despite his wife's belief that he wouldn't.", "Agreeableness": 1, "Chunk": 3}, "human_label": "Likely correct"}
+{"character": "Darcy", "annotation": {"Action": "Deigned to return a salutation from Mr. Wickham.", "Social dominance orientation": 1, "Chunk": 63}, "human_label": "Correct"}
+{"character": "Mr. Collins", "annotation": {"Action": "Talks extensively about his house and garden at Hunsford.", "Social dominance orientation": 1, "Chunk": 62}, "human_label": "Likely correct"}
+{"character": "Mrs. Bennet", "annotation": {"Action": "Refuses to admit she was winking at Kitty.", "Agreeableness": -1, "Chunk": 304}, "human_label": "Correct"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Elizabeth forces herself to express gratitude and pleasure, despite feeling awkward.", "Agreeableness": 1, "Chunk": 324}, "human_label": "Correct"}
+{"character": "Elizabeth", "annotation": {"Action": "Shares how her former prejudices against Darcy were removed gradually.", "Agreeableness": 1, "Chunk": 325}, "human_label": "Correct"}
+{"character": "Miss Bingley", "annotation": {"Action": "Engrossed by Mr. Darcy, showing indifference towards Jane's illness.", "Agreeableness": -1, "Chunk": 29}, "human_label": "Likely correct"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Asks directly about the purpose of Darcy's visit, showing mutual interest.", "Agreeableness": 1, "Chunk": 337}, "human_label": "Correct"}
+{"character": "Catherine Bennet", "annotation": {"Action": "Shows disconcertion when criticized for valuing officers.", "Social dominance orientation": 0, "Chunk": 24}, "human_label": "Correct"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Elizabeth feels respect, esteem, gratitude, and interest towards Mr. Darcy, and ponders on renewing his addresses despite past grievances.", "Agreeableness": 1, "Chunk": 232}, "human_label": "Correct"}
+{"character": "Mary Bennet", "annotation": {"Action": "Attempts to console her sisters and reflect on the situation.", "Agreeableness": 1, "Chunk": 253}, "human_label": "Correct"}
+{"character": "Elizabeth", "annotation": {"Action": "Finds herself equal to the scene and observes the ladies composedly.", "Agreeableness": 0, "Chunk": 143}, "human_label": "Correct"}
+{"character": "Mr. Collins", "annotation": {"Action": "Displays the house and its furniture with ostentatious formality", "Social dominance orientation": 1, "Chunk": 138}, "human_label": "Correct"}
+{"character": "Mrs. Bennet", "annotation": {"Action": "Carefully provides for the entertainment of her brother and sister.", "Agreeableness": 1, "Chunk": 126}, "human_label": "Correct"}
+{"character": "Mary Bennet", "annotation": {"Action": "Singing again despite Elizabeth's silent entreaties to stop.", "Agreeableness": -1, "Chunk": 89}, "human_label": "Correct"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Expresses desire to avoid company due to misery despite years of happiness not compensating.", "Social dominance orientation": -1, "Chunk": 298}, "human_label": "Correct"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Turns away her head from Mrs. Gardiner's gaze.", "Agreeableness": 0, "Chunk": 230}, "human_label": "Likely correct"}
+{"character": "Darcy", "annotation": {"Action": "Said nothing at all during the interaction.", "Social dominance orientation": 1, "Chunk": 92}, "human_label": "Unclear"}
+{"character": "Caroline Bingley", "annotation": {"Action": "Misses contact with Jane and reproaches her for lack of notice", "Social dominance orientation": 1, "Chunk": 130}, "human_label": "Correct"}
+{"character": "Jane Bennet", "annotation": {"Action": "Reads the letter from Miss Bingley aloud and considers the social invitation.", "Social dominance orientation": 1, "Chunk": 25}, "human_label": "Unclear"}
+{"character": "Mrs. Bennet", "annotation": {"Action": "Perseveres in her disbelief of Sir William's announcement, showing lack of politeness.", "Agreeableness": -1, "Chunk": 113}, "human_label": "Correct"}
+{"character": "Mr. Gardiner", "annotation": {"Action": "Writes to Colonel Forster to arrange the payment of Mr. Wickham's debts.", "Agreeableness": 1, "Chunk": 275}, "human_label": "Correct"}
+{"character": "Lydia", "annotation": {"Action": "Boasted about her ring to Mrs. Hill and the housemaids.", "Agreeableness": -1, "Chunk": 278}, "human_label": "Correct"}
+{"character": "Mrs. Bennet", "annotation": {"Action": "Calls a letter from Mr. Collins impertinent and hypocritical.", "Social dominance orientation": 0, "Chunk": 54}, "human_label": "Correct"}
+{"character": "Elizabeth", "annotation": {"Action": "Feels anxious and dreads that she won't please others.", "Agreeableness": 0, "Chunk": 227}, "human_label": "Correct"}
+{"character": "Mr. Collins", "annotation": {"Action": "Expresses desire to dance at the ball and values social status of the event.", "Social dominance orientation": 1, "Chunk": 77}, "human_label": "Correct"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Not making Kitty's visit a general concern, respecting individual preferences.", "Agreeableness": 1, "Chunk": 322}, "human_label": "Unclear"}
+{"character": "Sir William", "annotation": {"Action": "Suggests that choosing not to dance at prestigious places like St. James's is improper.", "Social dominance orientation": 1, "Chunk": 21}, "human_label": "Correct"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Resolving within herself to draw no limits in future to the impudence of an impudent man.", "Agreeableness": -1, "Chunk": 277}, "human_label": "Likely correct"}
+{"character": "Narrator", "annotation": {"Action": "Mrs. Long asked Mr. Darcy how he liked Netherfield.", "Social dominance orientation": -1, "Chunk": 15}, "human_label": "Likely incorrect"}
+{"character": "Caroline Bingley", "annotation": {"Action": "Writing a letter expressing regret about leaving Hertfordshire and hoping for frequent correspondence.", "Agreeableness": 1, "Chunk": 104}, "human_label": "Likely correct"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Ignores her mother's hints about Mr. Collins' proposal.", "Social dominance orientation": -1, "Chunk": 78}, "human_label": "Likely correct"}
+{"character": "Bingley", "annotation": {"Action": "Displays unaffected cordiality and friendly inquiry about Elizabeth's family.", "Social dominance orientation": 0, "Chunk": 228}, "human_label": "Unclear"}
+{"character": "Mr. Darcy", "annotation": {"Action": "Enjoys significant power of choice due to his wealth.", "Social dominance orientation": 1, "Chunk": 161}, "human_label": "Likely correct"}
+{"character": "Lady Catherine", "annotation": {"Action": "Condescends to advise Mr. Collins to marry and suggests improvements in his parsonage.", "Agreeableness": 1, "Chunk": 58}, "human_label": "Likely incorrect"}
+{"character": "Elizabeth", "annotation": {"Action": "Earnest and solemn in her reply to her father, explaining her affection for Mr. Darcy and enumerating his good qualities to reconcile her father to the match.", "Agreeableness": 1, "Chunk": 333}, "human_label": "Correct"}
+{"character": "Mr. Darcy", "annotation": {"Action": "Inquired of Elizabeth after the health of her family.", "Agreeableness": 1, "Chunk": 151}, "human_label": "Correct"}
+{"character": "Elizabeth", "annotation": {"Action": "Felt that the comfort of intimacy with Charlotte was over but resolved to continue correspondence for the sake of what had been.", "Agreeableness": 1, "Chunk": 130}, "human_label": "Correct"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Questions Caroline's motives and emphasizes individual autonomy.", "Social dominance orientation": 0, "Chunk": 105}, "human_label": "Likely correct"}
+{"character": "Mrs. Younge", "annotation": {"Action": "Withheld information about Wickham's whereabouts until bribed.", "Agreeableness": -1, "Chunk": 283}, "human_label": "Likely correct"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Initially resolved not to speak to Mr. Darcy but decided it would be a greater punishment to force him to talk.", "Agreeableness": 1, "Chunk": 80}, "human_label": "Likely incorrect"}
+{"character": "Georgiana", "annotation": {"Action": "Consents to an elopement at fifteen.", "Social dominance orientation": 0, "Chunk": 178}, "human_label": "Correct"}
+{"character": "Mrs. Bennet", "annotation": {"Action": "Values meeting many people and associates it with good breeding.", "Social dominance orientation": 1, "Chunk": 37}, "human_label": "Correct"}
+{"character": "Mrs. Gardiner", "annotation": {"Action": "Invites Elizabeth to accompany her and her husband on a summer tour.", "Agreeableness": 1, "Chunk": 137}, "human_label": "Correct"}
+{"character": "Mr. Bingley", "annotation": {"Action": "Warmly shakes Elizabeth\u2019s hand and suggests she may lose her way to spend more time together.", "Agreeableness": 1, "Chunk": 331}, "human_label": "Correct"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Admits being cross and not writing sooner.", "Agreeableness": 0, "Chunk": 338}, "human_label": "Correct"}
+{"character": "Mr. Darcy", "annotation": {"Action": "Avoids Gracechurch Street due to perceived impurities.", "Social dominance orientation": 1, "Chunk": 126}, "human_label": "Likely correct"}
+{"character": "Elizabeth", "annotation": {"Action": "Expresses shock and dismay at Mr. Darcy's alleged unjust and inhuman actions towards Wickham.", "Agreeableness": 1, "Chunk": 71}, "human_label": "Correct"}
+{"character": "Mr. Bennet", "annotation": {"Action": "Interferes when Mary is singing to allow other young ladies to exhibit.", "Agreeableness": 1, "Chunk": 90}, "human_label": "Correct"}
+{"character": "Miss Bingley", "annotation": {"Action": "Attempts to compliment and assist Mr. Darcy repeatedly.", "Agreeableness": 1, "Chunk": 40}, "human_label": "Correct"}
+{"character": "Caroline", "annotation": {"Action": "Reproached Jane for giving no notice of coming to London.", "Agreeableness": -1, "Chunk": 130}, "human_label": "Correct"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Asks Wickham if he is acquainted with Colonel Fitzwilliam.", "Agreeableness": 0, "Chunk": 206}, "human_label": "Correct"}
+{"character": "Caroline Bingley", "annotation": {"Action": "Fails to visit Jane Bennet despite previous intimacy.", "Agreeableness": -1, "Chunk": 131}, "human_label": "Correct"}
+{"character": "Mr. Collins", "annotation": {"Action": "Shows resentful silence and stiffness of manner after being rejected.", "Agreeableness": -1, "Chunk": 102}, "human_label": "Correct"}
+{"character": "Mr. Collins", "annotation": {"Action": "Congratulates Maria and Elizabeth on their good fortune of being invited to Rosings.", "Social dominance orientation": 1, "Chunk": 141}, "human_label": "Correct"}
+{"character": "Mr. Gardiner", "annotation": {"Action": "Made a positive engagement to meet some gentlemen at Pemberley.", "Agreeableness": 1, "Chunk": 233}, "human_label": "Correct"}
+{"character": "Jane", "annotation": {"Action": "Expresses gladness about overcoming embarrassment and being able to meet Mr. Darcy as an indifferent acquaintance.", "Agreeableness": 1, "Chunk": 299}, "human_label": "Likely correct"}
+{"character": "Mr. Gardiner", "annotation": {"Action": "Assures Mrs. Bennet of his affection and promises to assist Mr. Bennet.", "Agreeableness": 1, "Chunk": 251}, "human_label": "Correct"}
+{"character": "Elizabeth", "annotation": {"Action": "Speaks positively about her friend's happiness in her marriage to Mr. Collins.", "Agreeableness": 1, "Chunk": 157}, "human_label": "Correct"}
+{"character": "Mr. Darcy", "annotation": {"Action": "Displays an accent so far removed from hauteur or disdain.", "Agreeableness": 1, "Chunk": 229}, "human_label": "Correct"}
+{"character": "Mr. Darcy", "annotation": {"Action": "Voluntarily helps Elizabeth's family.", "Social dominance orientation": -1, "Chunk": 333}, "human_label": "Correct"}
+{"character": "Lady Catherine de Bourgh", "annotation": {"Action": "Enters the room with an ungracious air and responds to Elizabeth\u2019s salutation with a slight inclination of the head.", "Agreeableness": -1, "Chunk": 310}, "human_label": "Correct"}
+{"character": "Mr. Bennet", "annotation": {"Action": "Congratulates Jane on being crossed in love and makes light of the situation.", "Agreeableness": 0, "Chunk": 122}, "human_label": "Likely correct"}
+{"character": "Mary Bennet", "annotation": {"Action": "Deeply engrossed in her studies and did not actively participate in welcoming her sisters.", "Agreeableness": 0, "Chunk": 52}, "human_label": "Likely correct"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Felt that to be mistress of Pemberley might be something.", "Social dominance orientation": 1, "Chunk": 213}, "human_label": "Correct"}
+{"character": "Mrs. Hurst and her sister", "annotation": {"Action": "Scarcely open their mouths except to complain of fatigue and are evidently impatient to have the house to themselves.", "Agreeableness": -1, "Chunk": 91}, "human_label": "Correct"}
+{"character": "Elizabeth", "annotation": {"Action": "Is willing to express gratitude towards Mr. Darcy for his kindness.", "Agreeableness": 1, "Chunk": 300}, "human_label": "Correct"}
+{"character": "Mrs. Gardiner", "annotation": {"Action": "Plans a visit to places of interest and organizes a pleasant trip with Elizabeth.", "Agreeableness": 1, "Chunk": 211}, "human_label": "Correct"}
+{"character": "Colonel Fitzwilliam", "annotation": {"Action": "Laughs at Mr. Darcy's perceived stupidity.", "Agreeableness": 0, "Chunk": 159}, "human_label": "Unclear"}
+{"character": "Mrs. Bennet", "annotation": {"Action": "Broadly shares the news of Jane\u2019s fortunate marriage to elevate the family's social standing.", "Social dominance orientation": 1, "Chunk": 309}, "human_label": "Correct"}
+{"character": "Jane Bennet", "annotation": {"Action": "Shows concern that Elizabeth marries for affection rather than social status.", "Social dominance orientation": -1, "Chunk": 330}, "human_label": "Correct"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Silently consents to walk with Mr. Darcy to Oakham Mount.", "Agreeableness": 0, "Chunk": 331}, "human_label": "Likely correct"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Regrets her previous negative opinions and expressions about Mr. Darcy, wishing they had been more moderate.", "Agreeableness": 1, "Chunk": 332}, "human_label": "Correct"}
+{"character": "Mr. Bingley", "annotation": {"Action": "Leaving Netherfield due to proximity to Mrs. Bennet despite having an easy temper.", "Agreeableness": 0, "Chunk": 340}, "human_label": "Likely correct"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Sympathizes with Kitty's current situation and hopes she will regain her natural sense.", "Agreeableness": 1, "Chunk": 209}, "human_label": "Correct"}
+{"character": "Mr. Darcy", "annotation": {"Action": "Smiles at Elizabeth to relieve her agitation and informs her that her father wants to see her.", "Agreeableness": 1, "Chunk": 332}, "human_label": "Correct"}
+{"character": "Jane Bennet", "annotation": {"Action": "Refuses to discuss sensitive information with Elizabeth.", "Social dominance orientation": 0, "Chunk": 282}, "human_label": "Correct"}
+{"character": "Mr. Darcy", "annotation": {"Action": "Responds coolly to Miss Bingley's criticism of Elizabeth, without encouraging further negativity.", "Agreeableness": 1, "Chunk": 236}, "human_label": "Likely correct"}
+{"character": "Mr. Darcy", "annotation": {"Action": "Firmly states that he hardly ever forgives and his resentment is unappeasable.", "Agreeableness": -1, "Chunk": 83}, "human_label": "Correct"}
+{"character": "Elizabeth", "annotation": {"Action": "Endeavored to put an end to entreaty for financial help.", "Agreeableness": -1, "Chunk": 342}, "human_label": "Unclear"}
+{"character": "Lydia", "annotation": {"Action": "Takes defection of handsome young men more to heart than should due to their social status.", "Social dominance orientation": 1, "Chunk": 134}, "human_label": "Likely correct"}
+{"character": "Mrs. Bennet", "annotation": {"Action": "Expresses disbelief in the match and hopes for its failure.", "Social dominance orientation": 1, "Chunk": 114}, "human_label": "Likely correct"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Challenges her aunt's views on mercenary and prudent motives with reasoned arguments.", "Agreeableness": 0, "Chunk": 136}, "human_label": "Correct"}
+{"character": "Jane Bennet", "annotation": {"Action": "Desires to conceal her anxiety and maintain steady mildness in the face of her mother's persistent demands.", "Agreeableness": 1, "Chunk": 116}, "human_label": "Likely correct"}
+{"character": "Jane Bennet", "annotation": {"Action": "Provides a more compassionate view, hoping the marriage will result in mutual affection and stability regardless of social rank.", "Social dominance orientation": -1, "Chunk": 267}, "human_label": "Correct"}
+{"character": "Mr. Gardiner", "annotation": {"Action": "Entreats Mr. Bennet to never mention the subject again.", "Agreeableness": 0, "Chunk": 274}, "human_label": "Likely correct"}
+{"character": "Lydia Bennet", "annotation": {"Action": "Participates in sharing local gossip.", "Social dominance orientation": 0, "Chunk": 52}, "human_label": "Correct"}
+{"character": "Elizabeth Bennet", "annotation": {"Action": "Expresses impertinence towards Mr. Darcy, challenging his critical behavior.", "Social dominance orientation": -1, "Chunk": 19}, "human_label": "Correct"}
+{"character": "Mrs. Hurst", "annotation": {"Action": "Noticed Elizabeth and Mrs. Gardiner only by a courtesy.", "Agreeableness": 0, "Chunk": 233}, "human_label": "Likely correct"}
+{"character": "Lady Catherine", "annotation": {"Action": "Arises to receive the visitors with condescension.", "Agreeableness": -1, "Chunk": 143}, "human_label": "Correct"}

@@ -1,0 +1,3136 @@
+{
+  "Scratchy": [
+    {
+      "Action": "Comes out of a spaceship and declares peace for cats and mice.",
+      "peaceful": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Comes out of a spaceship and declares peace for cats and mice.",
+      "diplomatic": 1,
+      "Chunk": 1
+    }
+  ],
+  "Itchy": [
+    {
+      "Action": "Harms Scratchy with an American flag, becomes president, and targets nuclear missiles at the moon.",
+      "aggressive": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Harms Scratchy with an American flag, becomes president, and targets nuclear missiles at the moon.",
+      "ambitious": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Harms Scratchy with an American flag, becomes president, and targets nuclear missiles at the moon.",
+      "ruthless": 1,
+      "Chunk": 1
+    }
+  ],
+  "Homer": [
+    {
+      "Action": "Stands up in the theater and calls the movie boring.",
+      "impatient": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Stands up in the theater and calls the movie boring.",
+      "critical": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Stands up in the theater and calls the movie boring.",
+      "discontent": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Jokes about kissing Marge, shows a leaking silo of pig waste, and gets distracted by free doughnuts.",
+      "humorous": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Jokes about kissing Marge, shows a leaking silo of pig waste, and gets distracted by free doughnuts.",
+      "careless": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Jokes about kissing Marge, shows a leaking silo of pig waste, and gets distracted by free doughnuts.",
+      "easily distracted": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Expresses contentment in Alaska and reluctance to help Springfield.",
+      "selfish": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Expresses contentment in Alaska and reluctance to help Springfield.",
+      "stubborn": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Expresses contentment in Alaska and reluctance to help Springfield.",
+      "resentful": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Goes dog sledding, whips the dogs, talks to himself, faints in the snow, and attempts to save his family.",
+      "determined": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Goes dog sledding, whips the dogs, talks to himself, faints in the snow, and attempts to save his family.",
+      "impulsive": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Goes dog sledding, whips the dogs, talks to himself, faints in the snow, and attempts to save his family.",
+      "self-reflective": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Goes dog sledding, whips the dogs, talks to himself, faints in the snow, and attempts to save his family.",
+      "resilient": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Slides down the rope, knocks residents and bomb off the rope, kicks the bomb, and drives a scooter.",
+      "clumsy": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Slides down the rope, knocks residents and bomb off the rope, kicks the bomb, and drives a scooter.",
+      "well-meaning": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Slides down the rope, knocks residents and bomb off the rope, kicks the bomb, and drives a scooter.",
+      "impulsive": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Slides down the rope, knocks residents and bomb off the rope, kicks the bomb, and drives a scooter.",
+      "determined": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Insists on staying to watch the credits.",
+      "respectful": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Insists on staying to watch the credits.",
+      "appreciative of effort": 1,
+      "Chunk": 27
+    }
+  ],
+  "Lisa": [
+    {
+      "Action": "Expresses concern about not being able to see the movie and later comments on the environmental issue.",
+      "concerned": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Expresses concern about not being able to see the movie and later comments on the environmental issue.",
+      "environmentally conscious": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Expresses concern about not being able to see the movie and later comments on the environmental issue.",
+      "thoughtful": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Questions Homer about turning his back on those who loved them.",
+      "empathetic": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Questions Homer about turning his back on those who loved them.",
+      "concerned": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Questions Homer about turning his back on those who loved them.",
+      "moralistic": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Advises to lay low until reaching Seattle.",
+      "cautious": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Advises to lay low until reaching Seattle.",
+      "practical": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Advises to lay low until reaching Seattle.",
+      "strategic": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Plays her saxophone and engages in sibling banter with Bart.",
+      "musical": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Plays her saxophone and engages in sibling banter with Bart.",
+      "playful": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Expresses concern about animal welfare in the film.",
+      "compassionate": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Expresses concern about animal welfare in the film.",
+      "conscientious": 1,
+      "Chunk": 27
+    }
+  ],
+  "Comic Book Guy": [
+    {
+      "Action": "Complains about being released into the ground.",
+      "complaining": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Complains about being released into the ground.",
+      "sensitive": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Films Grampa's outburst with his cell phone.",
+      "opportunistic": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Films Grampa's outburst with his cell phone.",
+      "detached": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Films Grampa's outburst with his cell phone.",
+      "curious": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Provides a comic book reference to Marge and thanks her for pregnancy pants.",
+      "nerdy": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Provides a comic book reference to Marge and thanks her for pregnancy pants.",
+      "humorous": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Provides a comic book reference to Marge and thanks her for pregnancy pants.",
+      "comfort-seeking": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Reflects on his life spent collecting comic books.",
+      "nostalgic": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Reflects on his life spent collecting comic books.",
+      "content": 1,
+      "Chunk": 24
+    }
+  ],
+  "Billie Joe": [
+    {
+      "Action": "Thanks the crowd and attempts to speak about the environment.",
+      "grateful": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Thanks the crowd and attempts to speak about the environment.",
+      "environmentally conscious": 1,
+      "Chunk": 1
+    }
+  ],
+  "Otto": [
+    {
+      "Action": "Calls out 'Dingus!' during the concert.",
+      "disruptive": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Calls out 'Dingus!' during the concert.",
+      "dismissive": 1,
+      "Chunk": 1
+    }
+  ],
+  "Carl": [
+    {
+      "Action": "Tells the band to shut up and play.",
+      "impatient": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Tells the band to shut up and play.",
+      "dismissive": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Warns Homer that people will discover the truth.",
+      "realistic": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Warns Homer that people will discover the truth.",
+      "cautious": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Assures Homer that the mob only wants him and helps Lisa with a burning bouquet.",
+      "reassuring": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Assures Homer that the mob only wants him and helps Lisa with a burning bouquet.",
+      "helpful": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Assures Homer that the mob only wants him and helps Lisa with a burning bouquet.",
+      "practical": 1,
+      "Chunk": 13
+    }
+  ],
+  "Barney": [
+    {
+      "Action": "Calls the band 'preachy'.",
+      "critical": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Calls the band 'preachy'.",
+      "uninterested": 1,
+      "Chunk": 1
+    }
+  ],
+  "Mike": [
+    {
+      "Action": "Denies being preachy and acknowledges the pollution issue.",
+      "defensive": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Denies being preachy and acknowledges the pollution issue.",
+      "environmentally aware": 1,
+      "Chunk": 1
+    }
+  ],
+  "Tré Cool": [
+    {
+      "Action": "Mentions the pollution dissolving their barge.",
+      "observant": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Mentions the pollution dissolving their barge.",
+      "concerned": 1,
+      "Chunk": 1
+    }
+  ],
+  "Moe": [
+    {
+      "Action": "Disagrees with Lisa's comment on the environmental issue.",
+      "contrarian": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Disagrees with Lisa's comment on the environmental issue.",
+      "dismissive": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Questions if they are trapped like rats.",
+      "skeptical": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Questions if they are trapped like rats.",
+      "concerned": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Complains about losing his beer and other items due to power failures.",
+      "frustrated": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Complains about losing his beer and other items due to power failures.",
+      "sarcastic": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Complains about losing his beer and other items due to power failures.",
+      "possessive": 1,
+      "Chunk": 16
+    }
+  ],
+  "Reverend Lovejoy": [
+    {
+      "Action": "Leads a prayer for the latest rock band to die in town.",
+      "sarcastic": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Leads a prayer for the latest rock band to die in town.",
+      "ritualistic": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Attempts to engage the congregation in a new way by calling on them to speak.",
+      "innovative": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Attempts to engage the congregation in a new way by calling on them to speak.",
+      "persistent": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Attempts to engage the congregation in a new way by calling on them to speak.",
+      "frustrated": 1,
+      "Chunk": 2
+    }
+  ],
+  "Marge": [
+    {
+      "Action": "Expresses dislike for being late.",
+      "punctual": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Expresses dislike for being late.",
+      "concerned": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Expresses concern about the pig being in the house and the waste disposal.",
+      "concerned": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Expresses concern about the pig being in the house and the waste disposal.",
+      "responsible": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Expresses concern about the pig being in the house and the waste disposal.",
+      "practical": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Expresses determination to stop the destruction of Springfield and confronts Homer about his selfishness.",
+      "determined": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Expresses determination to stop the destruction of Springfield and confronts Homer about his selfishness.",
+      "caring": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Expresses determination to stop the destruction of Springfield and confronts Homer about his selfishness.",
+      "assertive": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Prepares the family for their arrival in Seattle.",
+      "protective": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Prepares the family for their arrival in Seattle.",
+      "responsible": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Prepares the family for their arrival in Seattle.",
+      "maternal": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Expresses concern about being seen by Russ Cargill.",
+      "protective": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Expresses concern about being seen by Russ Cargill.",
+      "cautious": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Notices Maggie's first word.",
+      "attentive": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Notices Maggie's first word.",
+      "caring": 1,
+      "Chunk": 27
+    }
+  ],
+  "Homer Simpson": [
+    {
+      "Action": "Expresses disdain for attending church and mocks the congregation.",
+      "disrespectful": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Expresses disdain for attending church and mocks the congregation.",
+      "irreverent": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Expresses disdain for attending church and mocks the congregation.",
+      "cynical": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Kisses Grampa on the forehead and makes a joke about a senior moment.",
+      "humorous": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Kisses Grampa on the forehead and makes a joke about a senior moment.",
+      "affectionate": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Kisses Grampa on the forehead and makes a joke about a senior moment.",
+      "dismissive": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Completes chores by taking down a hornets' nest and putting it in Flanders' mailbox, and attempts to fix the roof.",
+      "mischievous": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Completes chores by taking down a hornets' nest and putting it in Flanders' mailbox, and attempts to fix the roof.",
+      "irresponsible": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Completes chores by taking down a hornets' nest and putting it in Flanders' mailbox, and attempts to fix the roof.",
+      "practical": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Strangles Bart for laughing, agrees to a dare contest, and shakes the TV antenna.",
+      "impulsive": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Strangles Bart for laughing, agrees to a dare contest, and shakes the TV antenna.",
+      "competitive": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Strangles Bart for laughing, agrees to a dare contest, and shakes the TV antenna.",
+      "reckless": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Carries bricks while being shot by Bart and suggests a dare.",
+      "tolerant": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Carries bricks while being shot by Bart and suggests a dare.",
+      "reckless": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Carries bricks while being shot by Bart and suggests a dare.",
+      "adventurous": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Dares Bart to skateboard naked to Krusty Burger and back.",
+      "irresponsible": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Dares Bart to skateboard naked to Krusty Burger and back.",
+      "manipulative": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Dares Bart to skateboard naked to Krusty Burger and back.",
+      "immature": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Gives Bart his shirt and socks but forgets his pants.",
+      "forgetful": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Gives Bart his shirt and socks but forgets his pants.",
+      "careless": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Jokes about being Tommy Bahama when Bart complains about not having pants.",
+      "humorous": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Jokes about being Tommy Bahama when Bart complains about not having pants.",
+      "dismissive": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Steals french fries from Flanders and eats a hamburger noisily.",
+      "rude": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Steals french fries from Flanders and eats a hamburger noisily.",
+      "gluttonous": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Gets distracted by a pig wearing a chef hat while talking to Bart.",
+      "easily distracted": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Gets distracted by a pig wearing a chef hat while talking to Bart.",
+      "childish": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Decides to take the pig home after seeing it in people clothes.",
+      "impulsive": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Decides to take the pig home after seeing it in people clothes.",
+      "sentimental": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Ignores Marge's warning, makes jokes with the pig, and lets the pig walk on the ceiling.",
+      "carefree": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Ignores Marge's warning, makes jokes with the pig, and lets the pig walk on the ceiling.",
+      "humorous": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Ignores Marge's warning, makes jokes with the pig, and lets the pig walk on the ceiling.",
+      "irresponsible": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Drives off the lake and dumps waste into the lake after destroying the wall.",
+      "careless": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Drives off the lake and dumps waste into the lake after destroying the wall.",
+      "irresponsible": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Drives off the lake and dumps waste into the lake after destroying the wall.",
+      "reckless": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Exclaims 'Dooooooooooooooooooome!'",
+      "dramatic": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Exclaims 'Dooooooooooooooooooome!'",
+      "panicked": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Says 'Act natural.'",
+      "evasive": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Says 'Act natural.'",
+      "nervous": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Mistakenly believes he is outside the dome, realizes his mistake, and dismisses the news report about his actions.",
+      "careless": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Mistakenly believes he is outside the dome, realizes his mistake, and dismisses the news report about his actions.",
+      "self-centered": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Mistakenly believes he is outside the dome, realizes his mistake, and dismisses the news report about his actions.",
+      "in denial": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Expresses fear of facing the mob and attempts to protect his family by nailing the door and mimicking a chainsaw.",
+      "fearful": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Expresses fear of facing the mob and attempts to protect his family by nailing the door and mimicking a chainsaw.",
+      "protective": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Expresses fear of facing the mob and attempts to protect his family by nailing the door and mimicking a chainsaw.",
+      "resourceful": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Requests help and makes a sarcastic comment about apologies.",
+      "sarcastic": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Requests help and makes a sarcastic comment about apologies.",
+      "self-centered": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Apologizes for his mistakes and presents a plan to move to Alaska.",
+      "impulsive": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Apologizes for his mistakes and presents a plan to move to Alaska.",
+      "carefree": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Apologizes for his mistakes and presents a plan to move to Alaska.",
+      "apologetic": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Apologizes for his mistakes and presents a plan to move to Alaska.",
+      "optimistic": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Apologizes for his mistakes and presents a plan to move to Alaska.",
+      "dependent on family": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Attempts to win a truck by riding a motorcycle around the Ball of Death.",
+      "reckless": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Attempts to win a truck by riding a motorcycle around the Ball of Death.",
+      "optimistic": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Attempts to win a truck by riding a motorcycle around the Ball of Death.",
+      "determined": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Puts a poster on the car window to change the view of Alaska.",
+      "imaginative": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Puts a poster on the car window to change the view of Alaska.",
+      "childish": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Encourages Lisa to clap, runs into the house to avoid snow, expresses satisfaction at being separated from the kids.",
+      "carefree": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Encourages Lisa to clap, runs into the house to avoid snow, expresses satisfaction at being separated from the kids.",
+      "self-centered": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Encourages Lisa to clap, runs into the house to avoid snow, expresses satisfaction at being separated from the kids.",
+      "humorous": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Insists on staying in Alaska, dismisses Marge's concerns, and later finds the house empty with a video message from Marge.",
+      "stubborn": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Insists on staying in Alaska, dismisses Marge's concerns, and later finds the house empty with a video message from Marge.",
+      "self-centered": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Insists on staying in Alaska, dismisses Marge's concerns, and later finds the house empty with a video message from Marge.",
+      "dismissive": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Insists on staying in Alaska, dismisses Marge's concerns, and later finds the house empty with a video message from Marge.",
+      "unaware": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Engages in throat singing and experiences a vision leading to an epiphany.",
+      "self-centered": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Engages in throat singing and experiences a vision leading to an epiphany.",
+      "transformative": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Engages in throat singing and experiences a vision leading to an epiphany.",
+      "humorous": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Attempts to deceive a guard with a fake note and uses super glue to climb the dome.",
+      "resourceful": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Attempts to deceive a guard with a fake note and uses super glue to climb the dome.",
+      "impulsive": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Attempts to deceive a guard with a fake note and uses super glue to climb the dome.",
+      "determined": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Risking his life to save people he dislikes and asking Bart for another chance.",
+      "self-sacrificing": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Risking his life to save people he dislikes and asking Bart for another chance.",
+      "confused": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Risking his life to save people he dislikes and asking Bart for another chance.",
+      "seeking redemption": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Risking his life to save people he dislikes and asking Bart for another chance.",
+      "impulsive": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Meets Russ Cargill and jokes about not knowing him.",
+      "humorous": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Meets Russ Cargill and jokes about not knowing him.",
+      "carefree": 1,
+      "Chunk": 26
+    }
+  ],
+  "Marge Simpson": [
+    {
+      "Action": "Expresses concern about being late and warns Homer about being overheard.",
+      "conscientious": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Expresses concern about being late and warns Homer about being overheard.",
+      "concerned": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Expresses concern about being late and warns Homer about being overheard.",
+      "socially aware": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Questions the point of going to church if religious experiences are ignored.",
+      "thoughtful": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Questions the point of going to church if religious experiences are ignored.",
+      "persistent": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Questions the point of going to church if religious experiences are ignored.",
+      "concerned": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Watches a recording and writes down Grampa's words.",
+      "curious": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Watches a recording and writes down Grampa's words.",
+      "investigative": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Watches a recording and writes down Grampa's words.",
+      "concerned": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Comments on being aged horribly by Homer's impulsiveness.",
+      "tired": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Comments on being aged horribly by Homer's impulsiveness.",
+      "long-suffering": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Warns Homer about the pig, referencing a warning from church.",
+      "cautious": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Warns Homer about the pig, referencing a warning from church.",
+      "concerned": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Warns Homer about the pig, referencing a warning from church.",
+      "responsible": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Exclaims about being trapped forever.",
+      "pessimistic": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Exclaims about being trapped forever.",
+      "concerned": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Discovers Maggie outside the dome and informs Homer.",
+      "observant": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Discovers Maggie outside the dome and informs Homer.",
+      "concerned": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Discovers Maggie outside the dome and informs Homer.",
+      "responsible": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Encourages Homer to face the mob and later retrieves their wedding video from the house.",
+      "pragmatic": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Encourages Homer to face the mob and later retrieves their wedding video from the house.",
+      "sentimental": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Encourages Homer to face the mob and later retrieves their wedding video from the house.",
+      "supportive": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Directs the family to follow her to the sinkhole.",
+      "decisive": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Directs the family to follow her to the sinkhole.",
+      "protective": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Questions Homer about his actions and eventually agrees to his plan.",
+      "concerned": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Questions Homer about his actions and eventually agrees to his plan.",
+      "forgiving": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Questions Homer about his actions and eventually agrees to his plan.",
+      "supportive": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Questions Homer about his actions and eventually agrees to his plan.",
+      "skeptical": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Informs Homer they have ten dollars and later tries to distract the cashier from seeing a wanted sign.",
+      "practical": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Informs Homer they have ten dollars and later tries to distract the cashier from seeing a wanted sign.",
+      "supportive": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Informs Homer they have ten dollars and later tries to distract the cashier from seeing a wanted sign.",
+      "protective": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Claims to be European to avoid a situation, then requests beef jerky.",
+      "resourceful": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Claims to be European to avoid a situation, then requests beef jerky.",
+      "quick-thinking": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Confronts Homer about their marriage and decides to leave with the kids to help Springfield.",
+      "assertive": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Confronts Homer about their marriage and decides to leave with the kids to help Springfield.",
+      "determined": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Confronts Homer about their marriage and decides to leave with the kids to help Springfield.",
+      "protective": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Confronts Homer about their marriage and decides to leave with the kids to help Springfield.",
+      "disillusioned": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Expresses nostalgia for Homer despite the dire situation.",
+      "sentimental": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Expresses nostalgia for Homer despite the dire situation.",
+      "family-oriented": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Urging someone to throw the bomb.",
+      "practical": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Urging someone to throw the bomb.",
+      "urgent": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Urging someone to throw the bomb.",
+      "directive": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Kisses Homer and calls it the best kiss of her life.",
+      "affectionate": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Kisses Homer and calls it the best kiss of her life.",
+      "romantic": 1,
+      "Chunk": 26
+    }
+  ],
+  "Ned Flanders": [
+    {
+      "Action": "Eagerly volunteers to confess to an immodest sense of pride.",
+      "enthusiastic": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Eagerly volunteers to confess to an immodest sense of pride.",
+      "pious": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Eagerly volunteers to confess to an immodest sense of pride.",
+      "self-reflective": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Expresses concern about Bart's safety.",
+      "cautious": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Expresses concern about Bart's safety.",
+      "concerned": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Expresses concern about Bart's safety.",
+      "neighborly": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Expresses shock when Bart crashes into the window.",
+      "religious": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Expresses shock when Bart crashes into the window.",
+      "conservative": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Offers Bart an extra pair of pants.",
+      "helpful": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Offers Bart an extra pair of pants.",
+      "neighborly": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Offers Bart advice and cocoa, tries to bond with him.",
+      "kind": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Offers Bart advice and cocoa, tries to bond with him.",
+      "fatherly": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Offers Bart advice and cocoa, tries to bond with him.",
+      "patient": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Expresses concern over his fishing pole and gives Bart a pat on the back.",
+      "concerned": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Expresses concern over his fishing pole and gives Bart a pat on the back.",
+      "non-violent": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Expresses concern over his fishing pole and gives Bart a pat on the back.",
+      "supportive": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Observes the squirrel with multiple eyes and attributes it to intelligent design.",
+      "faithful": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Observes the squirrel with multiple eyes and attributes it to intelligent design.",
+      "accepting": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Observes the squirrel with multiple eyes and attributes it to intelligent design.",
+      "optimistic": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Sets a plank for Bart to escape and acknowledges Bart's skepticism about Homer doing the same for him.",
+      "helpful": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Sets a plank for Bart to escape and acknowledges Bart's skepticism about Homer doing the same for him.",
+      "selfless": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Sets a plank for Bart to escape and acknowledges Bart's skepticism about Homer doing the same for him.",
+      "realistic": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Welcomes Bart into his family.",
+      "compassionate": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Welcomes Bart into his family.",
+      "inclusive": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Encouraging Bart to spend time with Homer.",
+      "supportive": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Encouraging Bart to spend time with Homer.",
+      "optimistic": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Encouraging Bart to spend time with Homer.",
+      "encouraging": 1,
+      "Chunk": 25
+    }
+  ],
+  "Abe Simpson": [
+    {
+      "Action": "Wakes up and delivers a cryptic warning to the congregation.",
+      "eccentric": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Wakes up and delivers a cryptic warning to the congregation.",
+      "alarmed": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Wakes up and delivers a cryptic warning to the congregation.",
+      "prophetic": 1,
+      "Chunk": 2
+    }
+  ],
+  "Lisa Simpson": [
+    {
+      "Action": "Urges her father to take action during Grampa's outburst.",
+      "concerned": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Urges her father to take action during Grampa's outburst.",
+      "proactive": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Urges her father to take action during Grampa's outburst.",
+      "responsible": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Knocks on doors to talk about pollution in Lake Springfield.",
+      "environmentally conscious": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Knocks on doors to talk about pollution in Lake Springfield.",
+      "determined": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Knocks on doors to talk about pollution in Lake Springfield.",
+      "persistent": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Knocking on doors to talk about Springfield Lake pollution.",
+      "persistent": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Knocking on doors to talk about Springfield Lake pollution.",
+      "environmentally conscious": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Knocking on doors to talk about Springfield Lake pollution.",
+      "determined": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Excitedly talks about someone who loves the environment and has an Irish brogue.",
+      "enthusiastic": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Excitedly talks about someone who loves the environment and has an Irish brogue.",
+      "idealistic": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Excitedly talks about someone who loves the environment and has an Irish brogue.",
+      "talkative": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Gives a presentation about pollution and pours lake water into the audience's glasses.",
+      "passionate": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Gives a presentation about pollution and pours lake water into the audience's glasses.",
+      "environmentally conscious": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Gives a presentation about pollution and pours lake water into the audience's glasses.",
+      "determined": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Argues that they couldn't be more polluted.",
+      "logical": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Argues that they couldn't be more polluted.",
+      "concerned": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Expresses anger towards Homer and agrees to hold onto her anger.",
+      "emotional": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Expresses anger towards Homer and agrees to hold onto her anger.",
+      "compliant": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Expresses anger towards Homer and agrees to hold onto her anger.",
+      "expressive": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Expresses a perfect moment with Colin and later questions Marge about their next move.",
+      "romantic": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Expresses a perfect moment with Colin and later questions Marge about their next move.",
+      "idealistic": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Observes the interaction between Homer and Marge.",
+      "observant": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Observes the interaction between Homer and Marge.",
+      "thoughtful": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Encourages Homer to speed up when he is scared.",
+      "intelligent": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Encourages Homer to speed up when he is scared.",
+      "supportive": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Encourages Homer to speed up when he is scared.",
+      "encouraging": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Initially questions Bart's actions, then claps as instructed by Homer.",
+      "inquisitive": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Initially questions Bart's actions, then claps as instructed by Homer.",
+      "obedient": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Expresses concern about speaking too loudly on the train.",
+      "cautious": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Expresses concern about speaking too loudly on the train.",
+      "aware": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Expresses concern about speaking too loudly on the train.",
+      "intelligent": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Wants to find Colin but is told by Marge to focus on family.",
+      "caring": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Wants to find Colin but is told by Marge to focus on family.",
+      "concerned": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Looks for Colin and suggests cleaning up the lake.",
+      "caring": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Looks for Colin and suggests cleaning up the lake.",
+      "environmentally conscious": 1,
+      "Chunk": 26
+    }
+  ],
+  "Bart Simpson": [
+    {
+      "Action": "Expresses a desire for syrup when discussing waffles.",
+      "carefree": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Expresses a desire for syrup when discussing waffles.",
+      "childish": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Expresses a desire for syrup when discussing waffles.",
+      "self-indulgent": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Laughs at Homer getting hit in the eye and suggests a dare contest.",
+      "playful": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Laughs at Homer getting hit in the eye and suggests a dare contest.",
+      "daring": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Laughs at Homer getting hit in the eye and suggests a dare contest.",
+      "rebellious": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Shoots Homer with a BB gun while Homer carries bricks.",
+      "mischievous": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Shoots Homer with a BB gun while Homer carries bricks.",
+      "playful": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Shoots Homer with a BB gun while Homer carries bricks.",
+      "daring": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Skateboards naked through town as part of a dare.",
+      "daring": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Skateboards naked through town as part of a dare.",
+      "rebellious": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Skateboards naked through town as part of a dare.",
+      "vulnerable": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Complains about not having pants and calls it the worst day of his life.",
+      "dramatic": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Complains about not having pants and calls it the worst day of his life.",
+      "frustrated": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Considers using a slingshot against Homer, reminisces about fishing with Homer, and secretly drinks cocoa made by Ned.",
+      "rebellious": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Considers using a slingshot against Homer, reminisces about fishing with Homer, and secretly drinks cocoa made by Ned.",
+      "nostalgic": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Considers using a slingshot against Homer, reminisces about fishing with Homer, and secretly drinks cocoa made by Ned.",
+      "secretive": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Drops the fishing pole and begins to strangle himself.",
+      "impulsive": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Drops the fishing pole and begins to strangle himself.",
+      "reckless": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Drops the fishing pole and begins to strangle himself.",
+      "self-destructive": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Beats the squirrel's eyes.",
+      "mischievous": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Beats the squirrel's eyes.",
+      "playful": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Beats the squirrel's eyes.",
+      "disrespectful": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Expresses concern for Ned's safety if he helps them.",
+      "cautious": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Expresses concern for Ned's safety if he helps them.",
+      "caring": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Expresses concern for Ned's safety if he helps them.",
+      "observant": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Jumps into the sinkhole and later drinks whiskey.",
+      "rebellious": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Jumps into the sinkhole and later drinks whiskey.",
+      "troubled": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Criticizes Marge for agreeing with Homer and questions the feasibility of the plan.",
+      "cynical": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Criticizes Marge for agreeing with Homer and questions the feasibility of the plan.",
+      "critical": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Criticizes Marge for agreeing with Homer and questions the feasibility of the plan.",
+      "realistic": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Celebrates Homer's success and later uses a slingshot to shoot away Homer's hot dog.",
+      "mischievous": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Celebrates Homer's success and later uses a slingshot to shoot away Homer's hot dog.",
+      "playful": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Celebrates Homer's success and later uses a slingshot to shoot away Homer's hot dog.",
+      "supportive": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Draws wacky designs on a wanted poster.",
+      "mischievous": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Draws wacky designs on a wanted poster.",
+      "creative": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Clapping to cause avalanches.",
+      "mischievous": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Clapping to cause avalanches.",
+      "playful": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Looks through people's luggage and jokes about being a mascot of an evil corporation.",
+      "mischievous": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Looks through people's luggage and jokes about being a mascot of an evil corporation.",
+      "rebellious": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Looks through people's luggage and jokes about being a mascot of an evil corporation.",
+      "humorous": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Expresses disbelief and disappointment about Springfield's worsening condition.",
+      "cynical": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Expresses disbelief and disappointment about Springfield's worsening condition.",
+      "observant": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Initially refusing to forgive Homer but eventually joining him.",
+      "resentful": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Initially refusing to forgive Homer but eventually joining him.",
+      "seeking consistency": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Initially refusing to forgive Homer but eventually joining him.",
+      "forgiving": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Initially refusing to forgive Homer but eventually joining him.",
+      "adventurous": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Tricks Russ Cargill by mentioning a fake treasure.",
+      "clever": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Tricks Russ Cargill by mentioning a fake treasure.",
+      "mischievous": 1,
+      "Chunk": 26
+    }
+  ],
+  "Grampa Simpson": [
+    {
+      "Action": "Expresses a desire for bananas on his waffles.",
+      "simple-minded": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Expresses a desire for bananas on his waffles.",
+      "distracted": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Remarks that the crazy old man in church was right.",
+      "superstitious": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Remarks that the crazy old man in church was right.",
+      "vindicated": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Declares himself part of the mob.",
+      "contradictory": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Declares himself part of the mob.",
+      "unpredictable": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Declares himself part of the mob.",
+      "humorous": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Questioning Homer's actions.",
+      "inquisitive": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Questioning Homer's actions.",
+      "concerned": 1,
+      "Chunk": 25
+    }
+  ],
+  "Milhouse Van Houten": [
+    {
+      "Action": "Invites Lisa to canvass him and claims to care about the environment.",
+      "eager to please": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Invites Lisa to canvass him and claims to care about the environment.",
+      "possibly insincere": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Invites Lisa to canvass him and claims to care about the environment.",
+      "supportive": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Tells Lisa that Colin is dead and claims Colin's last words were for him to take care of Lisa.",
+      "dramatic": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Tells Lisa that Colin is dead and claims Colin's last words were for him to take care of Lisa.",
+      "opportunistic": 1,
+      "Chunk": 26
+    }
+  ],
+  "Nelson Muntz": [
+    {
+      "Action": "Threatens Milhouse to say global warming is a myth and knocks him down.",
+      "bullying": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Threatens Milhouse to say global warming is a myth and knocks him down.",
+      "intimidating": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Threatens Milhouse to say global warming is a myth and knocks him down.",
+      "aggressive": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Mocks Bart while he is strapped to the lamp-post.",
+      "bully": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Mocks Bart while he is strapped to the lamp-post.",
+      "persistent": 1,
+      "Chunk": 5
+    }
+  ],
+  "Colin": [
+    {
+      "Action": "Engages Lisa in a conversation about environmental conservation.",
+      "knowledgeable": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Engages Lisa in a conversation about environmental conservation.",
+      "charming": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Engages Lisa in a conversation about environmental conservation.",
+      "environmentally aware": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Suggests getting ice cream with Lisa.",
+      "easygoing": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Suggests getting ice cream with Lisa.",
+      "considerate": 1,
+      "Chunk": 26
+    }
+  ],
+  "Ralph Wiggum": [
+    {
+      "Action": "Expresses a change in preference after seeing Bart.",
+      "innocent": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Expresses a change in preference after seeing Bart.",
+      "naive": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Attempts to damage the dome and experiences blowback.",
+      "naive": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Attempts to damage the dome and experiences blowback.",
+      "enthusiastic": 1,
+      "Chunk": 18
+    }
+  ],
+  "Agnes Skinner": [
+    {
+      "Action": "Urges residents not to look at Bart's private parts.",
+      "protective": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Urges residents not to look at Bart's private parts.",
+      "authoritative": 1,
+      "Chunk": 5
+    }
+  ],
+  "Clancy Wiggum": [
+    {
+      "Action": "Chases Bart for being naked in public and later straps him to a lamp-post.",
+      "law-abiding": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Chases Bart for being naked in public and later straps him to a lamp-post.",
+      "humorous": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Chases Bart for being naked in public and later straps him to a lamp-post.",
+      "authoritative": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Commands to 'Get them!'",
+      "authoritative": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Commands to 'Get them!'",
+      "determined": 1,
+      "Chunk": 14
+    }
+  ],
+  "Lou": [
+    {
+      "Action": "Shoots at Bart's skateboard wheel and later helps strap Bart to a lamp-post.",
+      "compliant": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Shoots at Bart's skateboard wheel and later helps strap Bart to a lamp-post.",
+      "dutiful": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Expresses concern about a potential dead body.",
+      "observant": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Expresses concern about a potential dead body.",
+      "concerned": 1,
+      "Chunk": 9
+    }
+  ],
+  "Rod and Todd Flanders": [
+    {
+      "Action": "Repeat Ned's shocked exclamation.",
+      "obedient": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Repeat Ned's shocked exclamation.",
+      "innocent": 1,
+      "Chunk": 5
+    }
+  ],
+  "Eddie": [
+    {
+      "Action": "Helps scrape Bart off the window.",
+      "compliant": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Helps scrape Bart off the window.",
+      "dutiful": 1,
+      "Chunk": 5
+    }
+  ],
+  "Mrs. Muntz": [
+    {
+      "Action": "Joins in mocking Bart.",
+      "mocking": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Joins in mocking Bart.",
+      "influenced by others": 1,
+      "Chunk": 5
+    }
+  ],
+  "Chief Wiggum": [
+    {
+      "Action": "Tells Bart 'See you in court, kid.'",
+      "authoritative": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Tells Bart 'See you in court, kid.'",
+      "formal": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Stops Fat Tony from dumping in the lake.",
+      "dutiful": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Stops Fat Tony from dumping in the lake.",
+      "law-abiding": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Stops Fat Tony from dumping in the lake.",
+      "authoritative": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Stops Fat Tony from dumping in the lake and dismisses Lou's concern about a dead body.",
+      "authoritative": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Stops Fat Tony from dumping in the lake and dismisses Lou's concern about a dead body.",
+      "dismissive": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Stops Fat Tony from dumping in the lake and dismisses Lou's concern about a dead body.",
+      "naive": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Orders men to open fire on the dome and then asks who's hurt.",
+      "authoritative": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Orders men to open fire on the dome and then asks who's hurt.",
+      "careless": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Orders men to open fire on the dome and then asks who's hurt.",
+      "concerned": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Dismisses the situation by saying 'they're China's problem now.'",
+      "dismissive": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Dismisses the situation by saying 'they're China's problem now.'",
+      "careless": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Mentions a convict they were going to execute.",
+      "pragmatic": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Mentions a convict they were going to execute.",
+      "unempathetic": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Expresses regret for not taking the robot seriously.",
+      "regretful": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Expresses regret for not taking the robot seriously.",
+      "careless": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Commenting on the lack of injuries.",
+      "observant": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Commenting on the lack of injuries.",
+      "relieved": 1,
+      "Chunk": 25
+    }
+  ],
+  "Krusty the Clown": [
+    {
+      "Action": "Stars in a commercial for a new pork sandwich and spits out the hamburger after the take.",
+      "performative": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Stars in a commercial for a new pork sandwich and spits out the hamburger after the take.",
+      "disingenuous": 1,
+      "Chunk": 6
+    }
+  ],
+  "Barney Gumble": [
+    {
+      "Action": "Jokes about being home while in the lake.",
+      "humorous": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Jokes about being home while in the lake.",
+      "carefree": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Jokes about being home while in the lake.",
+      "possibly intoxicated": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Complains about the lack of coffee.",
+      "addicted": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Complains about the lack of coffee.",
+      "frustrated": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Initially denies Moe's claim but quickly submits after an explosion.",
+      "skeptical": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Initially denies Moe's claim but quickly submits after an explosion.",
+      "easily swayed": 1,
+      "Chunk": 23
+    }
+  ],
+  "Joe Quimby": [
+    {
+      "Action": "Agrees with Lisa's distraction and declares a state of emergency.",
+      "agreeable": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Agrees with Lisa's distraction and declares a state of emergency.",
+      "authoritative": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Agrees with Lisa's distraction and declares a state of emergency.",
+      "reactive": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Instructs Cletus to test the barrier around the lake.",
+      "cautious": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Instructs Cletus to test the barrier around the lake.",
+      "pragmatic": 1,
+      "Chunk": 9
+    }
+  ],
+  "Lenny Leonard": [
+    {
+      "Action": "Comments on the scissor lift and reacts to the state of emergency.",
+      "pragmatic": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Comments on the scissor lift and reacts to the state of emergency.",
+      "humorous": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Comments on the scissor lift and reacts to the state of emergency.",
+      "reactive": 1,
+      "Chunk": 8
+    }
+  ],
+  "Carl Carlson": [
+    {
+      "Action": "Responds to Lenny's comment about the color black.",
+      "understanding": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Responds to Lenny's comment about the color black.",
+      "good-natured": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Responds to Lenny's comment about the color black.",
+      "tolerant": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Questions who would stay behind during the escape plan.",
+      "pragmatic": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Questions who would stay behind during the escape plan.",
+      "self-preserving": 1,
+      "Chunk": 23
+    }
+  ],
+  "Moe Szyslak": [
+    {
+      "Action": "Expresses disdain for children after Lisa's presentation.",
+      "cynical": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Expresses disdain for children after Lisa's presentation.",
+      "grumpy": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Expresses disdain for children after Lisa's presentation.",
+      "pessimistic": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Comments on Homer's head being visible.",
+      "observant": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Comments on Homer's head being visible.",
+      "cynical": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Claims to be the emperor of Springfield and causes an explosion.",
+      "delusional": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Claims to be the emperor of Springfield and causes an explosion.",
+      "attention-seeking": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Claims to be the emperor of Springfield and causes an explosion.",
+      "reckless": 1,
+      "Chunk": 23
+    }
+  ],
+  "Fat Tony": [
+    {
+      "Action": "Attempts to dump a carpet in the lake.",
+      "law-breaking": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Attempts to dump a carpet in the lake.",
+      "sneaky": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Attempts to dump a carpet in the lake.",
+      "unethical": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Plans to dispose of yard trimmings in a car compactor.",
+      "cunning": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Plans to dispose of yard trimmings in a car compactor.",
+      "resourceful": 1,
+      "Chunk": 9
+    }
+  ],
+  "Cletus": [
+    {
+      "Action": "Attempts to dump a possum in the lake but is blocked by the wall.",
+      "compliant": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Attempts to dump a possum in the lake but is blocked by the wall.",
+      "simple-minded": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Relates to being beaten by a chicken in tic-tac-toe.",
+      "self-deprecating": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Relates to being beaten by a chicken in tic-tac-toe.",
+      "humorous": 1,
+      "Chunk": 24
+    }
+  ],
+  "Builder 1": [
+    {
+      "Action": "Comments on the effectiveness of the barrier.",
+      "proud": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Comments on the effectiveness of the barrier.",
+      "satisfied": 1,
+      "Chunk": 9
+    }
+  ],
+  "Builder 2": [
+    {
+      "Action": "Agrees with Builder 1 on the barrier's effectiveness.",
+      "agreeable": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Agrees with Builder 1 on the barrier's effectiveness.",
+      "supportive": 1,
+      "Chunk": 9
+    }
+  ],
+  "Lenny": [
+    {
+      "Action": "Calls Homer to inform him about free doughnuts.",
+      "informative": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Calls Homer to inform him about free doughnuts.",
+      "excitable": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Asks for clarification.",
+      "confused": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Asks for clarification.",
+      "curious": 1,
+      "Chunk": 11
+    }
+  ],
+  "Russ Cargill": [
+    {
+      "Action": "Presents pollution crisis to the president and offers unthinkable options.",
+      "determined": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Presents pollution crisis to the president and offers unthinkable options.",
+      "persuasive": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Presents pollution crisis to the president and offers unthinkable options.",
+      "ambitious": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Explains the situation and mocks the residents.",
+      "authoritative": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Explains the situation and mocks the residents.",
+      "condescending": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Explains the situation and mocks the residents.",
+      "sarcastic": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Orders to find the family and describes an elaborate arrangement of tough and soft guys.",
+      "power-hungry": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Orders to find the family and describes an elaborate arrangement of tough and soft guys.",
+      "meticulous": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Shows the president the damage to the dome and offers solutions.",
+      "manipulative": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Shows the president the damage to the dome and offers solutions.",
+      "assertive": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Guides Arnold Schwarzenegger to choose the number four.",
+      "authoritative": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Guides Arnold Schwarzenegger to choose the number four.",
+      "directive": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Guides Arnold Schwarzenegger to choose the number four.",
+      "patient": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Acknowledges seeing the family.",
+      "observant": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Acknowledges seeing the family.",
+      "authoritative": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Announces Operation Soaring Eagle and the plan to bomb Springfield.",
+      "authoritative": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Announces Operation Soaring Eagle and the plan to bomb Springfield.",
+      "ruthless": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Announces Operation Soaring Eagle and the plan to bomb Springfield.",
+      "manipulative": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Expresses frustration at being tricked by an idiot.",
+      "frustrated": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Expresses frustration at being tricked by an idiot.",
+      "dismissive": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Approaching Homer with a gun.",
+      "threatening": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Approaching Homer with a gun.",
+      "aggressive": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Threatens Homer with a shotgun.",
+      "aggressive": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Threatens Homer with a shotgun.",
+      "intimidating": 1,
+      "Chunk": 26
+    }
+  ],
+  "Arnold Schwarzenegger": [
+    {
+      "Action": "Chooses an option without reading them.",
+      "decisive": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Chooses an option without reading them.",
+      "impatient": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Chooses an option without reading them.",
+      "impulsive": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Chooses option number three without reading the options.",
+      "decisive": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Chooses option number three without reading the options.",
+      "impulsive": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Chooses option number three without reading the options.",
+      "confident": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Expresses concern about the situation and makes a decision based on limited information.",
+      "decisive": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Expresses concern about the situation and makes a decision based on limited information.",
+      "humorous": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Engages in a guessing game with Russ Cargill about a number.",
+      "indecisive": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Engages in a guessing game with Russ Cargill about a number.",
+      "playful": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Engages in a guessing game with Russ Cargill about a number.",
+      "compliant": 1,
+      "Chunk": 19
+    }
+  ],
+  "Martin Prince, Jr.": [
+    {
+      "Action": "Exclaims about being sealed in a dome.",
+      "observant": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Exclaims about being sealed in a dome.",
+      "anxious": 1,
+      "Chunk": 11
+    }
+  ],
+  "Man": [
+    {
+      "Action": "Expresses confusion and indecision about staying or leaving.",
+      "indecisive": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Expresses confusion and indecision about staying or leaving.",
+      "anxious": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Expresses confusion and indecision about staying or leaving.",
+      "regretful": 1,
+      "Chunk": 11
+    }
+  ],
+  "Professor Frink": [
+    {
+      "Action": "Announces he has perfected an acid-firing super-drill.",
+      "intelligent": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Announces he has perfected an acid-firing super-drill.",
+      "innovative": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Announces he has perfected an acid-firing super-drill.",
+      "unfortunate": 1,
+      "Chunk": 11
+    }
+  ],
+  "Sideshow Mel": [
+    {
+      "Action": "Questions who could have done this to them.",
+      "inquisitive": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Questions who could have done this to them.",
+      "frustrated": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "States he tastes freedom.",
+      "expressive": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "States he tastes freedom.",
+      "appreciative of freedom": 1,
+      "Chunk": 24
+    }
+  ],
+  "Krusty": [
+    {
+      "Action": "Questions Russ Cargill's statement.",
+      "skeptical": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Questions Russ Cargill's statement.",
+      "sarcastic": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Commands Teeny to take out the baby and later suggests torching the gas tank.",
+      "aggressive": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Commands Teeny to take out the baby and later suggests torching the gas tank.",
+      "commanding": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Commands Teeny to take out the baby and later suggests torching the gas tank.",
+      "reckless": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Tells Homer to get out.",
+      "impatient": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Tells Homer to get out.",
+      "dismissive": 1,
+      "Chunk": 24
+    }
+  ],
+  "Kent Brockman": [
+    {
+      "Action": "Reports on the crisis in Springfield and the discovery of the cause of the town's entrapment.",
+      "informative": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Reports on the crisis in Springfield and the discovery of the cause of the town's entrapment.",
+      "dramatic": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Reports on the crisis in Springfield and the discovery of the cause of the town's entrapment.",
+      "professional": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Reports on the situation under the dome.",
+      "informative": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Reports on the situation under the dome.",
+      "concerned": 1,
+      "Chunk": 18
+    }
+  ],
+  "The mob": [
+    {
+      "Action": "Gathers with flaming torches to confront the Simpson family.",
+      "angry": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Gathers with flaming torches to confront the Simpson family.",
+      "vengeful": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Gathers with flaming torches to confront the Simpson family.",
+      "impulsive": 1,
+      "Chunk": 12
+    }
+  ],
+  "Seymour Skinner": [
+    {
+      "Action": "Commands schoolchildren to aim with bows.",
+      "authoritative": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Commands schoolchildren to aim with bows.",
+      "strategic": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Commands schoolchildren to aim with bows.",
+      "organized": 1,
+      "Chunk": 13
+    }
+  ],
+  "Nelson": [
+    {
+      "Action": "Uses a red arrow to identify his target.",
+      "methodical": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Uses a red arrow to identify his target.",
+      "precise": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Uses a red arrow to identify his target.",
+      "aggressive": 1,
+      "Chunk": 13
+    }
+  ],
+  "Plopper": [
+    {
+      "Action": "Pushes the board into the ground, causing the family to fall and run away.",
+      "unpredictable": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Pushes the board into the ground, causing the family to fall and run away.",
+      "innocent": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Pushes the board into the ground, causing the family to fall and run away.",
+      "inadvertent": 1,
+      "Chunk": 13
+    }
+  ],
+  "Maggie Simpson": [
+    {
+      "Action": "Points to the sandbox and escapes.",
+      "resourceful": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Points to the sandbox and escapes.",
+      "observant": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Hits Russ Cargill with a rock, causing him to pass out.",
+      "resourceful": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Hits Russ Cargill with a rock, causing him to pass out.",
+      "unexpectedly helpful": 1,
+      "Chunk": 26
+    }
+  ],
+  "EPA-man": [
+    {
+      "Action": "Informs Russ Cargill that they lost the family and comments on his madness.",
+      "honest": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Informs Russ Cargill that they lost the family and comments on his madness.",
+      "concerned": 1,
+      "Chunk": 14
+    }
+  ],
+  "Tivoli-man": [
+    {
+      "Action": "Offers Homer an extra try for free because he enjoys seeing Homer hurt himself.",
+      "manipulative": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Offers Homer an extra try for free because he enjoys seeing Homer hurt himself.",
+      "amused": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Offers Homer an extra try for free because he enjoys seeing Homer hurt himself.",
+      "generous": 1,
+      "Chunk": 16
+    }
+  ],
+  "Cashier": [
+    {
+      "Action": "Identifies a family similar to the doodle on the wanted poster.",
+      "observant": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Identifies a family similar to the doodle on the wanted poster.",
+      "dutiful": 1,
+      "Chunk": 17
+    }
+  ],
+  "Mr. Burns": [
+    {
+      "Action": "Offers a choice between supplying power or releasing hounds.",
+      "manipulative": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Offers a choice between supplying power or releasing hounds.",
+      "power-hungry": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Suggests to Smithers that watching him attempt suicide might cheer him up.",
+      "morbid": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Suggests to Smithers that watching him attempt suicide might cheer him up.",
+      "callous": 1,
+      "Chunk": 26
+    }
+  ],
+  "Dr. Julius Hibbert": [
+    {
+      "Action": "Pleads for electricity to save lives at the hospital.",
+      "concerned": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Pleads for electricity to save lives at the hospital.",
+      "compassionate": 1,
+      "Chunk": 17
+    }
+  ],
+  "Apu": [
+    {
+      "Action": "Urges Mr. Burns to look into his heart for the answer.",
+      "idealistic": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Urges Mr. Burns to look into his heart for the answer.",
+      "persuasive": 1,
+      "Chunk": 17
+    }
+  ],
+  "Smithers": [
+    {
+      "Action": "Frantically shakes his head and waves his hands in protest.",
+      "loyal": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Frantically shakes his head and waves his hands in protest.",
+      "cautious": 1,
+      "Chunk": 17
+    }
+  ],
+  "Custom man": [
+    {
+      "Action": "Gives Homer $1000 for allowing oil companies to operate.",
+      "pragmatic": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Gives Homer $1000 for allowing oil companies to operate.",
+      "compliant": 1,
+      "Chunk": 17
+    }
+  ],
+  "Helen Lovejoy": [
+    {
+      "Action": "Suggests discussing 'Tuesdays with Morrie' again.",
+      "repetitive": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Suggests discussing 'Tuesdays with Morrie' again.",
+      "traditional": 1,
+      "Chunk": 18
+    }
+  ],
+  "Cookie Kwan": [
+    {
+      "Action": "Expresses frustration at discussing the same book.",
+      "impatient": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Expresses frustration at discussing the same book.",
+      "outspoken": 1,
+      "Chunk": 18
+    }
+  ],
+  "Lindsay Naegle": [
+    {
+      "Action": "Makes a sarcastic remark about the book club members.",
+      "sarcastic": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Makes a sarcastic remark about the book club members.",
+      "cynical": 1,
+      "Chunk": 18
+    }
+  ],
+  "Tom Hanks": [
+    {
+      "Action": "Appears in a TV commercial promoting the New Grand Canyon.",
+      "trustworthy": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Appears in a TV commercial promoting the New Grand Canyon.",
+      "charismatic": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Appears in a TV commercial promoting the New Grand Canyon.",
+      "persuasive": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Asks people to leave him alone if they see him in person.",
+      "private": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Asks people to leave him alone if they see him in person.",
+      "humorous": 1,
+      "Chunk": 26
+    }
+  ],
+  "Bart": [
+    {
+      "Action": "Expresses a wish for Flanders to be his father and provokes Homer.",
+      "rebellious": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Expresses a wish for Flanders to be his father and provokes Homer.",
+      "provocative": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Expresses a wish for Flanders to be his father and provokes Homer.",
+      "discontent": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Attempts to get the driver to release the family and expresses defiance.",
+      "rebellious": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Attempts to get the driver to release the family and expresses defiance.",
+      "persistent": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Tells Homer he doomed them, seeks comfort from Ned.",
+      "blunt": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Tells Homer he doomed them, seeks comfort from Ned.",
+      "seeking affection": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Tells Homer he doomed them, seeks comfort from Ned.",
+      "vulnerable": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Encourages his dad to leave the cinema.",
+      "impatient": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Encourages his dad to leave the cinema.",
+      "restless": 1,
+      "Chunk": 27
+    }
+  ],
+  "NSA-man": [
+    {
+      "Action": "Shouts and cheers upon finding someone the government is looking for.",
+      "enthusiastic": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Shouts and cheers upon finding someone the government is looking for.",
+      "dutiful": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Shouts and cheers upon finding someone the government is looking for.",
+      "patriotic": 1,
+      "Chunk": 21
+    }
+  ],
+  "Medicine Woman": [
+    {
+      "Action": "Guides Homer through a spiritual cleansing process.",
+      "wise": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Guides Homer through a spiritual cleansing process.",
+      "patient": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Guides Homer through a spiritual cleansing process.",
+      "spiritual": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Encourages Homer not to give up.",
+      "supportive": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Encourages Homer not to give up.",
+      "motivational": 1,
+      "Chunk": 22
+    }
+  ],
+  "Guard": [
+    {
+      "Action": "Commands attention with 'Ten-hut!'",
+      "disciplined": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Commands attention with 'Ten-hut!'",
+      "authoritative": 1,
+      "Chunk": 22
+    }
+  ],
+  "EPA chauffeur 1": [
+    {
+      "Action": "Notices something strange about a stop sign.",
+      "observant": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Notices something strange about a stop sign.",
+      "cautious": 1,
+      "Chunk": 22
+    }
+  ],
+  "EPA chauffeur 2": [
+    {
+      "Action": "Dismisses stopping at every sign and responds to Bart's actions.",
+      "pragmatic": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Dismisses stopping at every sign and responds to Bart's actions.",
+      "dismissive": 1,
+      "Chunk": 22
+    }
+  ],
+  "Cletus Spuckler": [
+    {
+      "Action": "Volunteers to distract Russ Cargill to help others escape.",
+      "selfless": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Volunteers to distract Russ Cargill to help others escape.",
+      "simple-minded": 1,
+      "Chunk": 23
+    }
+  ],
+  "Lindsay Neagle": [
+    {
+      "Action": "States she can hear birds.",
+      "observant": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "States she can hear birds.",
+      "attuned to nature": 1,
+      "Chunk": 24
+    }
+  ],
+  "Todd": [
+    {
+      "Action": "Does not like Bart being hugged by Ned.",
+      "jealous": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Does not like Bart being hugged by Ned.",
+      "protective": 1,
+      "Chunk": 24
+    }
+  ],
+  "Rod": [
+    {
+      "Action": "Does not like Bart being hugged by Ned.",
+      "jealous": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Does not like Bart being hugged by Ned.",
+      "protective": 1,
+      "Chunk": 24
+    }
+  ],
+  "Bomb-disarming Robot": [
+    {
+      "Action": "Struggles with disarming the bomb and shoots itself.",
+      "overwhelmed": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Struggles with disarming the bomb and shoots itself.",
+      "malfunctioning": 1,
+      "Chunk": 24
+    }
+  ],
+  "Rodd/Todd Flanders": [
+    {
+      "Action": "Providing Bart with the word 'consistency'.",
+      "helpful": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Providing Bart with the word 'consistency'.",
+      "knowledgeable": 1,
+      "Chunk": 25
+    }
+  ],
+  "Todd Flanders": [
+    {
+      "Action": "Expressing a wish for Homer to be his father.",
+      "envious": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Expressing a wish for Homer to be his father.",
+      "idealistic": 1,
+      "Chunk": 25
+    }
+  ],
+  "Martin Prince": [
+    {
+      "Action": "Standing up to bullies and expressing satisfaction.",
+      "assertive": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Standing up to bullies and expressing satisfaction.",
+      "empowered": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Standing up to bullies and expressing satisfaction.",
+      "vindictive": 1,
+      "Chunk": 25
+    }
+  ],
+  "Dr. Nick": [
+    {
+      "Action": "Getting hit by a chunk of the dome and saying goodbye.",
+      "unlucky": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Getting hit by a chunk of the dome and saying goodbye.",
+      "humorous": 1,
+      "Chunk": 25
+    }
+  ],
+  "Santa's Little Helper": [
+    {
+      "Action": "Survives and returns to Bart, implying he did things no dog should do.",
+      "resilient": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Survives and returns to Bart, implying he did things no dog should do.",
+      "loyal": 1,
+      "Chunk": 26
+    }
+  ],
+  "Waylon Smithers, Jr.": [
+    {
+      "Action": "Informs Mr. Burns that everything has been taken from the mansion.",
+      "loyal": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Informs Mr. Burns that everything has been taken from the mansion.",
+      "subservient": 1,
+      "Chunk": 26
+    }
+  ],
+  "Maggie": [
+    {
+      "Action": "Says her first word, 'Sequel'.",
+      "observant": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Says her first word, 'Sequel'.",
+      "communicative": 1,
+      "Chunk": 27
+    }
+  ],
+  "Squeaky-voiced teen": [
+    {
+      "Action": "Complains about his job while cleaning the cinema.",
+      "disillusioned": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Complains about his job while cleaning the cinema.",
+      "frustrated": 1,
+      "Chunk": 27
+    }
+  ]
+}
