@@ -21,7 +21,6 @@ https://docs.google.com/document/d/1avsdgYS7ox7TkIwePbH_oPyruJKGNie8MIbP-6Cbm3U/
 
 ## Examples
 
-See the `examples/` directory for:
 - `demo.ipynb` - Basic usage walkthrough
 - `data/` - Sample data files for testing
 
