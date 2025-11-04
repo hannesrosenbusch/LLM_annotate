@@ -1,25 +1,22 @@
-from openai import OpenAI
-from mistralai import Mistral
-import tkinter as tk
-import json
 import os
 import re
 import ast
+import json
 import itertools
+from collections import Counter, defaultdict
+
 import numpy as np
 from scipy.stats import beta
-from collections import defaultdict
-import tiktoken
-client = OpenAI()
 import matplotlib.pyplot as plt
-from collections import Counter
-import numpy as np
-import json
+import tkinter as tk
+import tiktoken
 
+from openai import OpenAI
 
-def custom_openai(prompt):
-    """Call UVA OpenAI proxy with gpt4o model."""
-    model_they_gave_you_access_to = "gpt4o"
+client = OpenAI()
+
+def custom_openai(prompt,model_they_gave_you_access_to = "gpt4o"):
+    """Call UVA OpenAI proxy."""
     your_api_key = os.getenv("UVA_OPENAI_API_KEY")
     the_base_url_to_always_use = "https://ai-research-proxy.azurewebsites.net/"
 
@@ -32,12 +29,12 @@ def custom_openai(prompt):
     except Exception as e:
         raise ValueError("Error calling OpenAI API:", e)
         
-
-def mistral_llm(prompt):
-    """Call Mistral API with mistral-large-latest model."""
-    client = Mistral(api_key=os.getenv("MISTRAL_API_KEY"))
-    response = client.chat.complete(model="mistral-large-latest", messages=[{"role": "user", "content": prompt}])
-    return response.choices[0].message.content
+# from mistralai import Mistral
+# def mistral_llm(prompt):
+#     """Call Mistral API with mistral-large-latest model."""
+#     client = Mistral(api_key=os.getenv("MISTRAL_API_KEY"))
+#     response = client.chat.complete(model="mistral-large-latest", messages=[{"role": "user", "content": prompt}])
+#     return response.choices[0].message.content
 
 
 def call_model(model, prompt, temperature=0):
@@ -114,7 +111,7 @@ def get_character_embeddings(
         json.dump(character_trait_embeddings, f)
 
 
-def chunk_text(novel_text, outputfile, nr_chunks=None, chunk_size=500, custom_splitter=None, keep_custom_splitter=False):
+def chunk_text(novel_text, outputfile, nr_chunks=None, chunk_size=500, custom_splitter=None, keep_custom_splitter=False, verbose=True):
     """Split novel text into chunks and save to JSON file.
     
     Args:
@@ -166,11 +163,12 @@ def chunk_text(novel_text, outputfile, nr_chunks=None, chunk_size=500, custom_sp
             sentences = [s.strip() for s in sentences if s.strip()]  # Remove empty sentences
             if len(sentences) > 3:
                 last_sentences = " ".join(sentences[-3:])
-                chunks[j] = f"""---END OF PREVIOUS SECTION---\n{last_sentences} \n---TARGET SECTION TO BE ANNOTATED---\n{chunks[j]}"""
+                chunks[j] = f"""END OF PREVIOUSLY ANNOTATED SECTION:\n{last_sentences} \n\nTARGET SECTION TO BE ANNOTATED:\n{chunks[j]}"""
         chunk_dict = {str(idx+1): chunk for idx, chunk in enumerate(chunks)}
     with open(outputfile, "w", encoding="utf-8") as f:
         json.dump(chunk_dict, f, ensure_ascii=False, indent=2)
-    print(f"Saved {len(chunks)} chunks to {outputfile}")
+    if verbose:
+        print(f"Saved {len(chunks)} chunks to {outputfile}")
 
 
 def disambiguate(annotfile, new_annotation_file=None, chunkfile = None, model="gpt-4o", list_of_pseudonym_lists = [], book_title = 'Unknown title'):
@@ -953,7 +951,7 @@ def annotate(
     
     Args:
         chunkfile: Path to text chunks JSON
-        traits: Dict of {trait_name: {trait_explanation, positive_example, negative_example}}
+        traits: Dict of {trait_name: {trait_explanation, positive_examples, negative_examples}}
         target_characters: List of specific character names to annotate
         outputfile: Path to save annotations JSON
         model: LLM model for annotation
@@ -983,8 +981,8 @@ def annotate(
             if traits and char:
                 for trait, info in traits.items():
                     trait_explanation = info['trait_explanation']
-                    pos = info.get("positive_example", info.get("postive_example", ""))
-                    neg = info.get("negative_example", "")
+                    pos = info.get("positive_examples", info.get("postive_examples", ""))
+                    neg = info.get("negative_examples", "")
                     trait_action_examples = []
                     if pos:
                         trait_action_examples.append(f'{{"Character Name": "{char}", "Action": "{pos}", "{trait.capitalize()}": 1}}')
@@ -1001,7 +999,11 @@ def annotate(
                         f"<Excerpt>\n\n...{section}...\n\n</Excerpt>"
                     )
                     response = call_model(model, prompt, temperature=0.0)
-                    dicts = re.findall(r'\{.*?\}', response)
+                    try:
+                        dicts = re.findall(r'\{.*?\}', response)
+                    except Exception:
+                        print("ERROR parsing response:", response)
+                        dicts = []
                     try:
                         dicts = [ast.literal_eval(d) for d in dicts]
                     except Exception:
@@ -1019,8 +1021,8 @@ def annotate(
                 # Trait annotation only (no specific character)
                 for trait, info in traits.items():
                     trait_explanation = info['trait_explanation']
-                    pos = info.get("positive_example", info.get("postive_example", ""))
-                    neg = info.get("negative_example", "")
+                    pos = info.get("positive_examples", info.get("postive_examples", ""))
+                    neg = info.get("negative_examples", "")
                     trait_action_examples = []
                     if pos:
                         trait_action_examples.append(f'{{"Character Name": "John Doe", "Action": "{pos}", "{trait.capitalize()}": 1}}')
