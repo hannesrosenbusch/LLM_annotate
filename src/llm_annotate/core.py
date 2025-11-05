@@ -15,7 +15,7 @@ from openai import OpenAI
 
 client = OpenAI()
 
-def custom_openai(prompt,model_they_gave_you_access_to = "gpt4o"):
+def custom_openai(prompt,model_they_gave_you_access_to = "gpt-4.1-mini"):
     """Call UVA OpenAI proxy."""
     your_api_key = os.getenv("UVA_OPENAI_API_KEY")
     the_base_url_to_always_use = "https://ai-research-proxy.azurewebsites.net/"
