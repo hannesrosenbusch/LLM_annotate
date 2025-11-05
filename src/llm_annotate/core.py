@@ -944,7 +944,7 @@ def annotate(
     traits=None,
     target_characters=None,
     outputfile=None,
-    model="gpt-4o-mini",
+    model="gpt-4.1-mini",
     book_title='Unknown title'
 ):
     """Annotate character actions for specific traits and/or characters.
@@ -990,10 +990,11 @@ def annotate(
                         trait_action_examples.append(f'{{"Character Name": "{char}", "Action": "{neg}", "{trait.capitalize()}": -1}}')
                     trait_action_examples_str = ", ".join(trait_action_examples)
                     prompt = (
-                        f"<Instructions> You analyze the behavior of the literary character: {char}. You read excerpts from the book {book_title} and pay close attention to characters' actions, statements, internal behaviors, and prominent non-actions/omissions.\n"
+                        f"<Instructions> You analyze the behavior of the character: {char}. You read excerpts from the book {book_title} and pay close attention to characters' actions, statements, internal behaviors, and prominent non-actions/omissions.\n"
                         f"Your goal is to find positive and negative indicators of the following trait: {trait} for the character {char}.\n"
                         f"Explanation of trait:\n{trait.capitalize()}: {trait_explanation}\n"
                         f"Example output: [{trait_action_examples_str}, ...]\n"
+                        f"Be measured in your judgment of valid trait indicators.\n"
                         f"Only return a list of dicts with keys 'Character Name', 'Action', and '{trait.capitalize()}' and only use these scores: -1, 0, 1.</Instructions> \n\n"
                         f"<Metadata>Text source: {book_title}; character: {char}</Metadata>\n"
                         f"<Excerpt>\n\n...{section}...\n\n</Excerpt>"
@@ -1030,10 +1031,11 @@ def annotate(
                         trait_action_examples.append(f'{{"Character Name": "Jane Doe", "Action": "{neg}", "{trait.capitalize()}": -1}}')
                     trait_action_examples_str = ", ".join(trait_action_examples)
                     prompt = (
-                        f"<Instructions> You analyze the behavior of literary characters. You read excerpts from books and pay close attention to characters' actions, statements, internal behaviors, and prominent non-actions/omissions.\n"
+                        f"<Instructions> You analyze the behavior of fiction characters. You read excerpts from books and pay close attention to characters' actions, statements, internal behaviors, and prominent non-actions/omissions.\n"
                         f"Your goal is to find positive and negative indicators of the following trait: {trait}.\n"
                         f"Explanation of trait:\n{trait.capitalize()}: {trait_explanation}\n"
                         f"Example output: [{trait_action_examples_str}, ...]\n"
+                        f"Be measured in your judgment of valid trait indicators.\n"
                         f"Only return a list of dicts with keys 'Character Name', 'Action', and '{trait.capitalize()}' and only use these scores: -1, 0, 1.</Instructions> \n\n"
                         f"<Metadata>Text source: {book_title}</Metadata>\n"
                         f"<Excerpt>\n\n...{section}...\n\n</Excerpt>"
@@ -1056,7 +1058,7 @@ def annotate(
             elif char and not traits:
                 # Character annotation only
                 prompt = (
-                    f"<Instructions> You analyze literary characters by closely observing and annotating their actions and thoughts. "
+                    f"<Instructions> You analyze fiction characters by closely observing and annotating their actions and thoughts. "
                     f"Your target is a character named: {char}.\n"
                     """Read through the following excerpt and return a comprehensive list of dictionaries {"Action": "*short description*", "Inferred traits": ["trait1", "trait2", ...] }</Instructions>\n"""
                     f"<Metadata>Text source: {book_title}</Metadata>\n"
@@ -1087,7 +1089,7 @@ def annotate(
 
             else: #neither traits nor characters
                 prompt = (
-                        f"<Instructions> You analyze the behavior of literary characters. You read excerpts from books and pay close attention to characters' actions, statements, internal behaviors, and prominent non-actions/omissions.\n"
+                        f"<Instructions> You analyze the behavior of fiction characters. You read excerpts from books and pay close attention to characters' actions, statements, internal behaviors, and prominent non-actions/omissions.\n"
                         """Read through the following excerpt and return a comprehensive list of dictionaries {"Character Name": "John Doe", "Action": "*short description*", "Inferred traits": ["trait1", "trait2", ...] }</Instructions>\n"""
                         f"<Metadata>Text source: {book_title}</Metadata>\n"
                         f"<Excerpt>\n\n...{section}...\n\n</Excerpt>"
