@@ -27,7 +27,21 @@ def custom_openai(prompt,model_they_gave_you_access_to = "gpt-4.1-mini"):
         messages=[{"role": "user", "content": prompt}])
         return response.choices[0].message.content
     except Exception as e:
-        raise ValueError("Error calling OpenAI API:", e)
+        # Inspect exception text for Azure/OpenAI content-filtering indicators.
+        msg = str(e).lower()
+        if (
+            "contentpolicyviolation" in msg
+            or "content policy" in msg
+            or "filtered due to" in msg
+            or "content_policy" in msg
+            or "contentmanagementpolicy" in msg
+            or "azureexception" in msg
+            or "contentpolicy" in msg
+            or "litellm.contentpolicyviolationerror" in msg
+        ):
+            print("WARNING: The request was blocked by Azure/OpenAI content policy. Returning empty response.")
+            return "[]" 
+        raise ValueError(f"Error calling OpenAI API: {e}")
         
 # from mistralai import Mistral
 # def mistral_llm(prompt):
