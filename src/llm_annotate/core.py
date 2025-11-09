@@ -15,7 +15,7 @@ from openai import OpenAI
 
 client = OpenAI()
 
-def rate_evidence(annotation_file, outputfile, chunkfile, labels=["weak", "moderate", "strong"], skip_zeros=True):
+def rate_evidence(annotation_file, outputfile, chunkfile, labels=["weak", "moderate", "strong"], skip_zeros=True, model="gpt-4.1"):
     """Rates evidence and writes results; parses model output into two keys with fallbacks."""
     with open(annotation_file, "r", encoding="utf-8") as f:
         action_annotations_per_character = json.load(f)
@@ -43,7 +43,7 @@ Given the original text (see below), rate how strong the evidence is for this in
 Rate the indicativeness by responding with exactly this dictionary format: {{"Thoughts": Your consideration of the action with respect to {trait}, "Label": *Your label choice*}}. 
 For the label, choose exactly one from the following options: {', '.join(labels)}.
 </Instruction>"""
-            response = call_model(prompt=prompt, temperature=0, model="gpt-4o-mini")
+            response = call_model(prompt=prompt, temperature=0, model=model)
             print(prompt); print("\n\n\n"); print(response); print("-----")
             # Parse response into two separate keys
             raw = response.strip() if isinstance(response, str) else ""
