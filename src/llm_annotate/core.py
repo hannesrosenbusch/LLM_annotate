@@ -15,6 +15,63 @@ from openai import OpenAI
 
 client = OpenAI()
 
+def rate_evidence(annotation_file, outputfile, chunkfile, labels=["weak", "moderate", "strong"], skip_zeros=True):
+    """Rates evidence and writes results; parses model output into two keys with fallbacks."""
+    with open(annotation_file, "r", encoding="utf-8") as f:
+        action_annotations_per_character = json.load(f)
+    with open(chunkfile, "r", encoding="utf-8") as f:
+        chunks = json.load(f)
+    rated_annotations = {}
+    for character, annotations in action_annotations_per_character.items():
+        rated_annotations[character] = []
+        for annotation in annotations:
+            action = annotation.get("Action", "")
+            chunk = chunks.get(str(annotation.get("Chunk", "")), "")
+            trait = next((k for k in annotation.keys() if k not in ["Action", "Chunk"]), None)
+            if not trait:
+                continue
+            trait_value = annotation[trait]
+            if skip_zeros and trait_value == 0:
+                continue
+            low_high = "high" if trait_value == 1 else "low"
+            prompt = f"""Previously, you noted that an action committed by {character} indicated a {low_high} level of {trait}. 
+Given the original text (see below), rate how strong the evidence is for this inference.
+<Character> {character} </Character>
+<Action> {action} </Action>
+<Text segment> \"{chunk}\" </Text segment>
+<Instruction> Consider how indicative the action by {character} is for the trait {trait}.
+Rate the indicativeness by responding with exactly this dictionary format: {{"Thoughts": Your consideration of the action with respect to {trait}, "Label": *Your label choice*}}. 
+For the label, choose exactly one from the following options: {', '.join(labels)}.
+</Instruction>"""
+            response = call_model(prompt=prompt, temperature=0, model="gpt-4o-mini")
+            print(prompt); print("\n\n\n"); print(response); print("-----")
+            # Parse response into two separate keys
+            raw = response.strip() if isinstance(response, str) else ""
+            thoughts = ""
+            label = ""
+            if raw:
+                try:
+                    obj = json.loads(raw)
+                    thoughts = (obj.get("Thoughts") or "").strip()
+                    label = (obj.get("Label") or "").strip()
+                except Exception:
+                    # Fallback regex extraction
+                    t_m = re.search(r'"?Thoughts"?\s*:\s*"?([^"}]+)"?', raw, re.IGNORECASE)
+                    l_m = re.search(r'"?Label"?\s*:\s*"?([^"}]+)"?', raw, re.IGNORECASE)
+                    if t_m:
+                        thoughts = t_m.group(1).strip()
+                    if l_m:
+                        label = l_m.group(1).strip()
+            rated_annotation = annotation.copy()
+            rated_annotation["Evidence_thoughts"] = thoughts
+            rated_annotation["Evidence_label"] = label
+            rated_annotation["Evidence_raw"] = raw  # optional raw for auditing
+            rated_annotations[character].append(rated_annotation)
+    with open(outputfile, "w", encoding="utf-8") as f:
+        json.dump(rated_annotations, f, ensure_ascii=False, indent=2)
+
+
+
 def custom_openai(prompt,model_they_gave_you_access_to = "gpt-4.1-mini"):
     """Call UVA OpenAI proxy."""
     your_api_key = os.getenv("UVA_OPENAI_API_KEY")
@@ -646,7 +703,7 @@ def score_annotations(annotation_file, outputfile, chunkfile, summaryfile=None, 
 
     annot_text = tk.Text(
         annot_frame, 
-        height=4, 
+        height=8, 
         font=("Consolas", 12), 
         bg='#ffffff', 
         fg='#212529',
@@ -782,12 +839,24 @@ def score_annotations(annotation_file, outputfile, chunkfile, summaryfile=None, 
             annot_text.insert(tk.END, "Character: ", "bold")
             annot_text.insert(tk.END, f"{character}\n")
             
-            # Insert other annotation details with bold keys
+            # Insert other annotation details, excluding chunk/evidence keys here
             for key, value in action.items():
-                if key not in ["Chunk"]:
-                    annot_text.insert(tk.END, f"{key}: ", "bold")
-                    annot_text.insert(tk.END, f"{value}\n")
-            
+                if key in ["Chunk", "Evidence_raw", "Evidence_thoughts", "Evidence_label"]:
+                    continue
+                annot_text.insert(tk.END, f"{key}: ", "bold")
+                annot_text.insert(tk.END, f"{value}\n")
+
+            # Evidence section (if present)
+            has_evidence_label = "Evidence_label" in action and action["Evidence_label"]
+            has_evidence_thoughts = "Evidence_thoughts" in action and action["Evidence_thoughts"]
+            if has_evidence_label or has_evidence_thoughts:
+                if has_evidence_label:
+                    annot_text.insert(tk.END, "Evidence rating: ", "bold")
+                    annot_text.insert(tk.END, f"{action.get('Evidence_label', '')}\n")
+                if has_evidence_thoughts:
+                    annot_text.insert(tk.END, "Thoughts: ", "bold")
+                    annot_text.insert(tk.END, f"{action.get('Evidence_thoughts', '')}\n")
+
             annot_text.config(state=tk.DISABLED)
             
             # Get chunk content
