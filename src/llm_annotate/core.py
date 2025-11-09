@@ -33,18 +33,22 @@ def rate_evidence(annotation_file, outputfile, chunkfile, labels=["weak", "moder
             trait_value = annotation[trait]
             if skip_zeros and trait_value == 0:
                 continue
-            low_high = "high" if trait_value == 1 else "low"
+            if trait_value == 1:
+                low_high = "high"
+            elif trait_value == 0:
+                low_high = "medium"
+            else:
+                low_high = "low"
             prompt = f"""Previously, you noted that an action committed by {character} indicated a {low_high} level of {trait}. 
 Given the original text (see below), rate how strong the evidence is for this inference.
 <Character> {character} </Character>
 <Action> {action} </Action>
 <Text segment> \"{chunk}\" </Text segment>
-<Instruction> Consider how indicative the action by {character} is for the trait {trait}.
-Rate the indicativeness by responding with exactly this dictionary format: {{"Thoughts": Your consideration of the action with respect to {trait}, "Label": *Your label choice*}}. 
-For the label, choose exactly one from the following options: {', '.join(labels)}.
+<Instruction> Consider how indicative the action by {character} was for the trait {trait}.
+Rate the strength of evidence by responding with exactly this dictionary format: {{"Thoughts": Your consideration of the action with respect to {trait}, "Label": *Your label choice*}}. 
+For the label, choose exactly one of the following options: {', '.join(labels)}.
 </Instruction>"""
             response = call_model(prompt=prompt, temperature=0, model=model)
-            print(prompt); print("\n\n\n"); print(response); print("-----")
             # Parse response into two separate keys
             raw = response.strip() if isinstance(response, str) else ""
             thoughts = ""
