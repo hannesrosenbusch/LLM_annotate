@@ -1,9 +1,13 @@
+#TODO structure outputs with custom openai
+
 import os
 import re
 import ast
 import json
 import itertools
 from collections import Counter, defaultdict
+from typing import List
+from pydantic import BaseModel
 
 import numpy as np
 from scipy.stats import beta
@@ -15,91 +19,69 @@ from openai import OpenAI
 
 client = OpenAI()
 
-def rate_evidence(annotation_file, outputfile, chunkfile, labels=["weak", "moderate", "strong"], skip_zeros=True, model="gpt-4.1"):
-    """Rates evidence and writes results; parses model output into two keys with fallbacks."""
-    with open(annotation_file, "r", encoding="utf-8") as f:
-        action_annotations_per_character = json.load(f)
-    with open(chunkfile, "r", encoding="utf-8") as f:
-        chunks = json.load(f)
-    rated_annotations = {}
-    for character, annotations in action_annotations_per_character.items():
-        rated_annotations[character] = []
-        for annotation in annotations:
-            action = annotation.get("Action", "")
-            chunk = chunks.get(str(annotation.get("Chunk", "")), "")
-            trait = next((k for k in annotation.keys() if k not in ["Action", "Chunk"]), None)
-            if not trait:
-                continue
-            trait_value = annotation[trait]
-            if skip_zeros and trait_value == 0:
-                continue
-            if trait_value == 1:
-                low_high = "high"
-            elif trait_value == 0:
-                low_high = "medium"
-            else:
-                low_high = "low"
-            prompt = f"""Previously, you noted that an action committed by {character} indicated a {low_high} level of {trait}. 
-Given the original text (see below), rate how strong the evidence is for this inference.
-<Character> {character} </Character>
-<Action> {action} </Action>
-<Text segment> \"{chunk}\" </Text segment>
-<Instruction> Consider how indicative the action by {character} was for the trait {trait}.
-Rate the strength of evidence by responding with exactly this dictionary format: {{"Thoughts": Your consideration of the action with respect to {trait}, "Label": *Your label choice*}}. 
-For the label, choose exactly one of the following options: {', '.join(labels)}.
-</Instruction>"""
-            response = call_model(prompt=prompt, temperature=0, model=model)
-            # Parse response into two separate keys
-            raw = response.strip() if isinstance(response, str) else ""
-            thoughts = ""
-            label = ""
-            if raw:
-                try:
-                    obj = json.loads(raw)
-                    thoughts = (obj.get("Thoughts") or "").strip()
-                    label = (obj.get("Label") or "").strip()
-                except Exception:
-                    # Fallback regex extraction
-                    t_m = re.search(r'"?Thoughts"?\s*:\s*"?([^"}]+)"?', raw, re.IGNORECASE)
-                    l_m = re.search(r'"?Label"?\s*:\s*"?([^"}]+)"?', raw, re.IGNORECASE)
-                    if t_m:
-                        thoughts = t_m.group(1).strip()
-                    if l_m:
-                        label = l_m.group(1).strip()
-            rated_annotation = annotation.copy()
-            rated_annotation["Evidence_thoughts"] = thoughts
-            rated_annotation["Evidence_label"] = label
-            rated_annotation["Evidence_raw"] = raw  # optional raw for auditing
-            rated_annotations[character].append(rated_annotation)
-    with open(outputfile, "w", encoding="utf-8") as f:
-        json.dump(rated_annotations, f, ensure_ascii=False, indent=2)
+class Annotation(BaseModel):
+    name: str
+    trait: str
+    action: str
+    assessment: str
+    rating: float
+class AnnotationList(BaseModel):
+    characters: List[Annotation]
+
+class SingleAction(BaseModel):
+    name: str
+    action: str
+    traits: List[str]
+class ActionCollection(BaseModel):
+    actions: List[SingleAction]
+
+
+def call_model(model, prompt, temperature=0, text_format=None):
+    """Call an OpenAI model (string) or custom callable function with a prompt."""
+    if isinstance(model, str):
+        if text_format is not None:
+            response = client.responses.parse(model=model, 
+                                                  input=prompt,
+                                                  text_format=text_format,
+                                                  temperature=temperature)
+            return dict(response.output_parsed)
+        else:
+            response = client.chat.completions.create(model=model, 
+                                                      messages=[{"role": "user", "content": prompt}],
+                                                      temperature=temperature)
+            return response.choices[0].message.content
+    elif callable(model):
+        return model(prompt=prompt, temperature=temperature, text_format=text_format)
+    else:
+        raise ValueError("model must be a string or a callable function")
 
 
 
-def custom_openai(prompt,model_they_gave_you_access_to = "gpt-4.1-mini"):
+def custom_openai(prompt,temperature=0, model_they_gave_you_access_to = "gpt-4.1-mini", text_format=None):
     """Call UVA OpenAI proxy."""
     your_api_key = os.getenv("UVA_OPENAI_API_KEY")
     the_base_url_to_always_use = "https://ai-research-proxy.azurewebsites.net/"
 
     client = OpenAI(api_key=your_api_key, base_url=the_base_url_to_always_use)
     try:
+        # if text_format is not None:
+        #     response = client.responses.parse(
+        #         model=model_they_gave_you_access_to,
+        #         input=prompt,
+        #         text_format=text_format,
+        #         temperature=temperature)
+        #     return dict(response.output_parsed)
+        # else:
         response = client.chat.completions.create(
-        model=model_they_gave_you_access_to,
-        messages=[{"role": "user", "content": prompt}])
+            model=model_they_gave_you_access_to,
+            messages=[{"role": "user", "content": prompt}],
+            temperature=temperature)
         return response.choices[0].message.content
+    
     except Exception as e:
         # Inspect exception text for Azure/OpenAI content-filtering indicators.
         msg = str(e).lower()
-        if (
-            "contentpolicyviolation" in msg
-            or "content policy" in msg
-            or "filtered due to" in msg
-            or "content_policy" in msg
-            or "contentmanagementpolicy" in msg
-            or "azureexception" in msg
-            or "contentpolicy" in msg
-            or "litellm.contentpolicyviolationerror" in msg
-        ):
+        if ("content" in msg):
             print("WARNING: The request was blocked by Azure/OpenAI content policy. Returning empty response.")
             return "[]" 
         raise ValueError(f"Error calling OpenAI API: {e}")
@@ -112,15 +94,6 @@ def custom_openai(prompt,model_they_gave_you_access_to = "gpt-4.1-mini"):
 #     return response.choices[0].message.content
 
 
-def call_model(model, prompt, temperature=0):
-    """Call an OpenAI model (string) or custom callable function with a prompt."""
-    if isinstance(model, str):
-        response = client.chat.completions.create(model=model, messages=[{"role": "user", "content": prompt}], temperature=temperature)
-        return response.choices[0].message.content
-    elif callable(model):
-        return model(prompt)
-    else:
-        raise ValueError("model must be a string or a callable function")
     
 
 def get_character_embeddings(
@@ -147,7 +120,7 @@ def get_character_embeddings(
     for actions in annotations.values():
         for a in actions:
             for k in a.keys():
-                if k not in ("Action", "Chunk"):
+                if k not in ("action", "chunk"):
                     trait_counts[k] += 1
 
     # Only keep traits that appear at least min_trait_count times
@@ -346,9 +319,9 @@ def disambiguate(annotfile, new_annotation_file=None, chunkfile = None, model="g
                 sampled_annots = np.random.choice(less_annots, min([2, len(less_annots)]), replace=False)
                 all_match = True
                 for annot in sampled_annots:
-                    # annot should have 'Action' and 'Chunk' keys
-                    chunk_idx = annot.get("Chunk")
-                    action = annot.get("Action")
+                    # annot should have 'action' and 'chunk' keys
+                    chunk_idx = annot.get("chunk")
+                    action = annot.get("action")
                     # Get context: chunk and neighbors
                     chunk_keys = list(chunks.keys())
                     try:
@@ -449,7 +422,7 @@ def compute_annotation_statistics(annotation_file, plot = True, nr_characters_pl
     trait_names = set()
     for actions in annotations.values():
         for a in actions:
-            trait_names.update([k for k in a.keys() if k not in ("Action", "Chunk")])
+            trait_names.update([k for k in a.keys() if k not in ("action", "chunk")])
     trait_names = list(trait_names)
 
     for name, actions in annotations.items():
@@ -532,7 +505,7 @@ def plot_character_trait_profiles(annotations_file_path, top_n_chars=4):
         traits_list = []
         for action in actions:
             for key, value in action.items():
-                if key not in ['Action', 'Chunk'] and value == 1:
+                if key not in ['action', 'chunk'] and value == 1:
                     traits_list.append(key)
         character_traits[character] = traits_list
 
@@ -660,7 +633,7 @@ def score_annotations(annotation_file, outputfile, chunkfile, summaryfile=None, 
     root.configure(bg='#f8f9fa')
     
     # Configure style
-    root.option_add('*Font', 'Segoe\ UI 10')
+    root.option_add('*Font', 'Segoe\\ UI 10')
 
     idx = [start_idx]  # Start from where we left off
     
@@ -707,7 +680,7 @@ def score_annotations(annotation_file, outputfile, chunkfile, summaryfile=None, 
 
     annot_text = tk.Text(
         annot_frame, 
-        height=8, 
+        height=6, 
         font=("Consolas", 12), 
         bg='#ffffff', 
         fg='#212529',
@@ -845,26 +818,26 @@ def score_annotations(annotation_file, outputfile, chunkfile, summaryfile=None, 
             
             # Insert other annotation details, excluding chunk/evidence keys here
             for key, value in action.items():
-                if key in ["Chunk", "Evidence_raw", "Evidence_thoughts", "Evidence_label"]:
+                if key in ["chunk", "evidence_raw", "evidence_thoughts", "evidence_label"]:
                     continue
                 annot_text.insert(tk.END, f"{key}: ", "bold")
                 annot_text.insert(tk.END, f"{value}\n")
 
             # Evidence section (if present)
-            has_evidence_label = "Evidence_label" in action and action["Evidence_label"]
-            has_evidence_thoughts = "Evidence_thoughts" in action and action["Evidence_thoughts"]
+            has_evidence_label = "evidence_label" in action and action["evidence_label"]
+            has_evidence_thoughts = "evidence_thoughts" in action and action["evidence_thoughts"]
             if has_evidence_label or has_evidence_thoughts:
                 if has_evidence_label:
-                    annot_text.insert(tk.END, "Evidence rating: ", "bold")
-                    annot_text.insert(tk.END, f"{action.get('Evidence_label', '')}\n")
+                    annot_text.insert(tk.END, "evidence rating: ", "bold")
+                    annot_text.insert(tk.END, f"{action.get('evidence_label', '')}\n")
                 if has_evidence_thoughts:
-                    annot_text.insert(tk.END, "Thoughts: ", "bold")
-                    annot_text.insert(tk.END, f"{action.get('Evidence_thoughts', '')}\n")
+                    annot_text.insert(tk.END, "thoughts: ", "bold")
+                    annot_text.insert(tk.END, f"{action.get('evidence_thoughts', '')}\n")
 
             annot_text.config(state=tk.DISABLED)
             
             # Get chunk content
-            chunk_num = action.get("Chunk", "Unknown")
+            chunk_num = action.get("chunk", "unknown")
             chunk_content = chunks.get(str(chunk_num), "Chunk content not found")
             
             # Update chunk content with character name highlighting
@@ -1026,13 +999,15 @@ def score_annotations(annotation_file, outputfile, chunkfile, summaryfile=None, 
         json.dump(summary_stats, f, indent=2)
 
 
+
 def annotate(
     chunkfile,
     traits=None,
     target_characters=None,
     outputfile=None,
     model="gpt-4.1-mini",
-    book_title='Unknown title'
+    book_title='Unknown title',
+    rating_scale=[-3, -2, -1, 0, 1, 2, 3]
 ):
     """Annotate character actions for specific traits and/or characters.
     
@@ -1064,147 +1039,123 @@ def annotate(
 
         # For each chunk, annotate for each character and/or trait
         for char in characters if characters else [None]:
-            # If both traits and characters: combine prompts
-            if traits and char:
+            if traits: #if traits given
                 for trait, info in traits.items():
                     trait_explanation = info['trait_explanation']
-                    pos = info.get("positive_examples", info.get("postive_examples", ""))
-                    neg = info.get("negative_examples", "")
-                    trait_action_examples = []
-                    if pos:
-                        trait_action_examples.append(f'{{"Character Name": "{char}", "Action": "{pos}", "{trait.capitalize()}": 1}}')
-                    if neg:
-                        trait_action_examples.append(f'{{"Character Name": "{char}", "Action": "{neg}", "{trait.capitalize()}": -1}}')
-                    trait_action_examples_str = ", ".join(trait_action_examples)
-                    prompt = (
-                        f"<Instructions> You analyze the behavior of the character: {char}. You read excerpts from the book {book_title} and pay close attention to characters' actions, statements, internal behaviors, and prominent non-actions/omissions.\n"
-                        f"Your goal is to find positive and negative indicators of the following trait: {trait} for the character {char}.\n"
-                        f"Explanation of trait:\n{trait.capitalize()}: {trait_explanation}\n"
-                        f"Example output: [{trait_action_examples_str}, ...]\n"
-                        f"Be measured in your judgment of valid trait indicators.\n"
-                        f"Only return a list of dicts with keys 'Character Name', 'Action', and '{trait.capitalize()}' and only use these scores: -1, 0, 1.</Instructions> \n\n"
-                        f"<Metadata>Text source: {book_title}; character: {char}</Metadata>\n"
-                        f"<Excerpt>\n\n...{section}...\n\n</Excerpt>"
-                    )
-                    response = call_model(model, prompt, temperature=0.0)
-                    try:
-                        dicts = re.findall(r'\{.*?\}', response)
-                    except Exception:
-                        print("ERROR parsing response:", response)
-                        dicts = []
-                    try:
-                        dicts = [ast.literal_eval(d) for d in dicts]
-                    except Exception:
-                        dicts = []
-                    for d in dicts:
-                        for key, value in d.items():
-                            if isinstance(value, str) and key.lower() != "character name" and key != "Action":
-                                d["Action"] = value
-                                del d[key]
-                        d["Chunk"] = k+1
-                        if "Character Name" in d:
-                            name = d.pop("Character Name", None)
+                    examples = info.get("examples", [])
+                    trait_action_examples = [f'{{"name": "{example.get("name", char)}", "trait": "{trait.lower()}", "action": "{example["action"]}", "assessment": "{example.get("assessment", "")}", "rating": {example.get("rating", 0)}}}' for example in examples]
+                    trait_action_examples_str = ", ".join(trait_action_examples) if trait_action_examples else f'{{"name": "{char}", "action": "example action", "{trait.lower()}": 0}}'
+                    
+                    if char: #if characters given
+                        prompt = (
+                            f"<Instructions> You analyze the behavior of the character: {char}. You read excerpts from the book {book_title} and pay close attention to {char}'s actions, statements, internal behaviors, and prominent non-actions/omissions.\n"
+                            f"Your goal is to find positive and negative indicators of {char}'s '{trait.lower()}'.\n"
+                            f"Explanation of {trait}: {trait_explanation}\n"
+                            f"Example output: [{trait_action_examples_str}, ...]\n"
+                            f"Be measured in your assessment of trait indicators.\n"
+                            f"Only return a list of dicts with keys 'name', 'trait', 'action', 'assessment', and 'rating', the last of which should be one of these numbers: {rating_scale} to signify the inferable level of {trait.lower()}.</Instructions> \n\n"
+                            f"<Metadata>Text source: {book_title}; name: {char}</Metadata>\n"
+                            f"<Excerpt>\n\n...{section}...\n\n</Excerpt>"
+                        )
+                    else: #if no characters given
+                        prompt = (
+                            f"<Instructions> You analyze the behavior of fiction characters. You read excerpts from the book {book_title} and pay close attention to characters' actions, statements, internal behaviors, and prominent non-actions/omissions.\n"
+                            f"Your goal is to find positive and negative indicators of '{trait.lower()}'.\n"
+                            f"Explanation of {trait}: {trait_explanation}\n"
+                            f"Example output: [{trait_action_examples_str}, ...]\n"
+                            f"Be measured in your assessment of trait indicators.\n"
+                            f"Only return a list of dicts with keys 'name', 'trait', 'action', 'assessment', and 'rating', the last of which should be one of these numbers: {rating_scale} to signify the inferable level of {trait.lower()}.</Instructions> \n\n"
+                            f"<Metadata>Text source: {book_title}</Metadata>\n"
+                            f"<Excerpt>\n\n...{section}...\n\n</Excerpt>"
+                        )
+
+                    response = call_model(model, prompt, temperature=0.0, text_format=AnnotationList)
+                    
+                    if isinstance(response, dict): #if response is "structured" openai json response
+                        response = next(iter(response.values())) #get list from single dict element
+                        for d in response:
+                            d = dict(d)
+                            name = d.pop("name", None)
                             all_annotations[name].append(d)
-            elif traits and not char:
-                # Trait annotation only (no specific character)
-                for trait, info in traits.items():
-                    trait_explanation = info['trait_explanation']
-                    pos = info.get("positive_examples", info.get("postive_examples", ""))
-                    neg = info.get("negative_examples", "")
-                    trait_action_examples = []
-                    if pos:
-                        trait_action_examples.append(f'{{"Character Name": "John Doe", "Action": "{pos}", "{trait.capitalize()}": 1}}')
-                    if neg:
-                        trait_action_examples.append(f'{{"Character Name": "Jane Doe", "Action": "{neg}", "{trait.capitalize()}": -1}}')
-                    trait_action_examples_str = ", ".join(trait_action_examples)
+
+                    elif isinstance(response, str): #if response is a simple string
+                        try:
+                            dicts = re.findall(r'\{.*?\}', response.replace('\n', ' '), re.DOTALL)
+                        except Exception:
+                            print("ERROR parsing response:", response)
+                            dicts = []
+                        try:
+                            dicts = [ast.literal_eval(d) for d in dicts]
+                        except Exception as e:
+                            print("ERROR evaluating dicts:", e)
+                            dicts = []
+                        for d in dicts:
+                            for key, value in d.items():
+                                if isinstance(value, str) and key.lower() != "name" and key.lower() != "action" and key.lower() != "assessment" and key.lower() != "trait": #give action correct name if messed up
+                                    d["action"] = value
+                                    del d[key]
+                            d["chunk"] = k+1
+                            if "name" in d:
+                                name = d.pop("name", None)
+                                all_annotations[name].append(d)
+                    else:
+                        raise ValueError("Unknown response type from model")
+
+
+            else: #no traits given
+                if char: #only characters given
                     prompt = (
-                        f"<Instructions> You analyze the behavior of fiction characters. You read excerpts from books and pay close attention to characters' actions, statements, internal behaviors, and prominent non-actions/omissions.\n"
-                        f"Your goal is to find positive and negative indicators of the following trait: {trait}.\n"
-                        f"Explanation of trait:\n{trait.capitalize()}: {trait_explanation}\n"
-                        f"Example output: [{trait_action_examples_str}, ...]\n"
-                        f"Be measured in your judgment of valid trait indicators.\n"
-                        f"Only return a list of dicts with keys 'Character Name', 'Action', and '{trait.capitalize()}' and only use these scores: -1, 0, 1.</Instructions> \n\n"
+                        f"<Instructions> You analyze fiction characters by closely observing and annotating their actions and thoughts. "
+                        f"Your target is a character named: {char}.\n"
+                        """Read through the following excerpt and return a comprehensive list of dictionaries {"name": "*character name*", "action": "*short description*", "traits": ["trait1", "trait2", ...] }</Instructions>\n"""
                         f"<Metadata>Text source: {book_title}</Metadata>\n"
                         f"<Excerpt>\n\n...{section}...\n\n</Excerpt>"
+                        f"<Reminder> Return only the list of dictionaries for behaviors of {char} with keys action and traits.</Reminder>\n\n"
                     )
-                    response = call_model(model, prompt, temperature=0.0)
-                    dicts = re.findall(r'\{.*?\}', response)
+                else: #nothing given
+                    prompt = (
+                        f"<Instructions> You analyze the behavior of fiction characters. You read excerpts from books and pay close attention to characters' actions, statements, internal behaviors, and prominent non-actions/omissions.\n"
+                        """Read through the following excerpt and return a comprehensive list of dictionaries {"name": "John Doe", "action": "*short description*", "traits": ["trait1", "trait2", ...] }</Instructions>\n"""
+                        f"<Metadata>Text source: {book_title}</Metadata>\n"
+                        f"<Excerpt>\n\n...{section}...\n\n</Excerpt>"
+                        f"<Reminder> Return only the list of dictionaries with keys name, action, and traits.</Reminder>\n\n"
+                    )
+
+                response = call_model(model, prompt, temperature=0, text_format=ActionCollection)
+
+                if isinstance(response, dict):
+                    response = next(iter(response.values())) #get list from single dict element
+                    dicts = [dict(d) for d in response]
+                    for d in dicts:
+                        d["chunk"] = k+1           
+
+                elif isinstance(response, str):
+                    dicts = re.findall(r'\{.*?\}', response.replace('\n', ' '), re.DOTALL)
                     try:
                         dicts = [ast.literal_eval(d) for d in dicts]
                     except Exception:
                         dicts = []
                     for d in dicts:
-                        for key, value in d.items():
-                            if isinstance(value, str) and key.lower() != "character name" and key != "Action":
-                                d["Action"] = value
-                                del d[key]
-                        d["Chunk"] = k+1
-                        if "Character Name" in d:
-                            name = d.pop("Character Name", None)
-                            all_annotations[name].append(d)
-            elif char and not traits:
-                # Character annotation only
-                prompt = (
-                    f"<Instructions> You analyze fiction characters by closely observing and annotating their actions and thoughts. "
-                    f"Your target is a character named: {char}.\n"
-                    """Read through the following excerpt and return a comprehensive list of dictionaries {"Action": "*short description*", "Inferred traits": ["trait1", "trait2", ...] }</Instructions>\n"""
-                    f"<Metadata>Text source: {book_title}</Metadata>\n"
-                    f"<Excerpt>\n\n...{section}...\n\n</Excerpt>"
-                    f"<Reminder> Return only the list of dictionaries for behaviors of {char} with keys Action and Inferred traits.</Reminder>\n\n"
-                )
-                response_text = call_model(model, prompt, temperature=0)
-                dicts = re.findall(r'\{.*?\}', response_text.replace('\n', ' '), re.DOTALL)
-                try:
-                    dicts = [ast.literal_eval(d) for d in dicts]
-                except Exception:
-                    dicts = []
-                for d in dicts:
-                    d["Chunk"] = k+1
-                # Reformat: {"Action": ..., "Inferred traits": [...]} -> {"Action": ..., trait: 1, ...}
+                        d["chunk"] = k+1
+                else:
+                    raise ValueError("Unknown response type from model")
+
+                # Reformat: {"action": ..., "traits": [...]} -> {"action": ..., trait: 1, ...}
                 reformatted_dicts = []
                 for d in dicts:         #if there is a string value and the key.lower() is not character name, make the key "Action" (necessary because sometimes LLM writes 'non-action' etc)
                     for key, value in d.items():
-                        if isinstance(value, str) and key.lower() != "character name" and key != "Action":
-                            d["Action"] = value
+                        if isinstance(value, str) and key.lower() != "name" and key.lower() != "action" and key.lower() != "traits":
+                            d["action"] = value
                             del d[key]
-                    action = d.get("Action", "")
-                    traits_found = d.get("Inferred traits", [])
+                    name = d.get("name", "Unknown")
+                    action = d.get("action", "")
+                    traits_found = d.get("traits", [])
                     for trait in traits_found:
-                        reformatted_dicts.append({"Action": action, trait: 1, "Chunk": d.get("Chunk")})
+                        reformatted_dicts.append({"name": name, "action": action, trait: 1, "chunk": d.get("chunk")})
                 for d in reformatted_dicts:
-                    all_annotations[char].append(d)
+                    name = d.pop("name", "Unknown")
+                    all_annotations[name].append(d)
 
-            else: #neither traits nor characters
-                prompt = (
-                        f"<Instructions> You analyze the behavior of fiction characters. You read excerpts from books and pay close attention to characters' actions, statements, internal behaviors, and prominent non-actions/omissions.\n"
-                        """Read through the following excerpt and return a comprehensive list of dictionaries {"Character Name": "John Doe", "Action": "*short description*", "Inferred traits": ["trait1", "trait2", ...] }</Instructions>\n"""
-                        f"<Metadata>Text source: {book_title}</Metadata>\n"
-                        f"<Excerpt>\n\n...{section}...\n\n</Excerpt>"
-                        f"<Reminder> Return only the list of dictionaries with keys Character Name, Action, and Inferred traits.</Reminder>\n\n"
-                    )
-                response = call_model(model, prompt, temperature=0.0)
-                dicts = re.findall(r'\{.*?\}', response, re.DOTALL)
-                try:
-                    dicts = [ast.literal_eval(d) for d in dicts]
-                except Exception:
-                    dicts = []
-
-                reformatted_dicts = []
-                for d in dicts:
-                    #if there is a string value and the key.lower() is not character name, make the key "Action" (necessary because sometimes LLM writes 'non-action' etc)
-                    for key, value in d.items():
-                        if isinstance(value, str) and key.lower() != "character name" and key != "Action":
-                            d["Action"] = value
-                            del d[key]
-                    action = d.get("Action", "")
-                    traits_found = d.get("Inferred traits", [])
-                    for trait in traits_found:
-                        reformatted_dicts.append({"Character Name": d.get("Character Name"), "Action": action, trait: 1, "Chunk": k+1})
-                for d in reformatted_dicts:
-                    char = d.pop("Character Name", None)
-                    all_annotations[char].append(d)
-
-    #print total number of annotations
     total_annotations = sum(len(v) for v in all_annotations.values())
     print(f"Total annotations collected: {total_annotations}")
     with open(outputfile, "w", encoding="utf-8") as f:
