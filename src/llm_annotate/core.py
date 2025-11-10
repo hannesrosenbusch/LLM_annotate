@@ -57,7 +57,7 @@ def call_model(model, prompt, temperature=0, text_format=None):
 
 
 
-def custom_openai(prompt,temperature=0, model_they_gave_you_access_to = "gpt-4.1-mini", text_format=None):
+def custom_openai(prompt,temperature=0, model_they_gave_you_access_to = "gpt-4.1", text_format=None):
     """Call UVA OpenAI proxy."""
     your_api_key = os.getenv("UVA_OPENAI_API_KEY")
     the_base_url_to_always_use = "https://ai-research-proxy.azurewebsites.net/"
@@ -401,7 +401,7 @@ def disambiguate(annotfile, new_annotation_file=None, chunkfile = None, model="g
         json.dump(annotations, f, ensure_ascii=False, indent=2)
 
 
-def compute_annotation_statistics(annotation_file, plot = True, nr_characters_plotted = 4, outputfile="character_statistics.json"):
+def compute_annotation_statistics(annotation_file, plot = True, nr_characters_plotted = 4, outputfile="character_statistics.json", rating_scale=[-3, -2, -1, 0, 1, 2, 3]):
     """Compute Bayesian statistics and credible intervals for character traits.
     
     Args:
@@ -410,7 +410,7 @@ def compute_annotation_statistics(annotation_file, plot = True, nr_characters_pl
         nr_characters_plotted: Number of top characters to plot
         outputfile: Path to save statistics JSON
     """
-    from scipy.stats import beta
+    from scipy.stats import norm
     #check if action_annotations_per_character is a filename or a dict
     with open(annotation_file, "r", encoding="utf-8") as f:
         annotations = json.load(f)
@@ -419,40 +419,40 @@ def compute_annotation_statistics(annotation_file, plot = True, nr_characters_pl
     credible_intervals = {}
 
     # Extract trait names from the annotation dicts
-    trait_names = set()
+    trait_names = []
     for actions in annotations.values():
         for a in actions:
-            trait_names.update([k for k in a.keys() if k not in ("action", "chunk")])
-    trait_names = list(trait_names)
+            trait_names.append(a["trait"])
+    trait_names = list(set(trait_names)) 
+    print(trait_names)
 
     for name, actions in annotations.items():
         statistics[name] = {}
         credible_intervals[name] = {}
         for trait in trait_names:
-            trait_key = trait
-            trait_values = [a[trait_key] for a in actions if trait_key in a]
+            trait_key = trait.lower()
+            trait_values = [a["rating"] for a in actions if a["trait"].lower() == trait_key]
             try:
                 avg_trait = sum(trait_values) / len(trait_values) if trait_values else 0
             except:
                 print(trait_values)
                 raise ValueError(f"eror")
-            # Bayesian credible interval (beta distribution scaled from -1 to 1)
-            mapped = [(v+1)/2 for v in trait_values]
-            alpha = 1 + sum(mapped)
-            beta_param = 1 + len(mapped) - sum(mapped)
-            lower = beta.ppf(0.025, alpha, beta_param)
-            upper = beta.ppf(0.975, alpha, beta_param)
-            lower = lower*2 - 1
-            upper = upper*2 - 1
+            
+            n = len(trait_values)
+            if n > 1:
+                std_trait = np.std(trait_values, ddof=1)
+                se_trait = std_trait / np.sqrt(n)
+                lower = norm.ppf(0.025, loc=avg_trait, scale=se_trait)
+                upper = norm.ppf(0.975, loc=avg_trait, scale=se_trait)
+            else:
+                # Not enough data for credible interval
+                lower = min(rating_scale)
+                upper = max(rating_scale)
+
             statistics[name][trait] = avg_trait
-            statistics[name][f"{trait}_n_positive"] = sum(1 for v in trait_values if v == 1)
-            statistics[name][f"{trait}_n_negative"] = sum(1 for v in trait_values if v == -1)
-            statistics[name][f"{trait}_n_neutral"] = sum(1 for v in trait_values if v == 0)
             statistics[name][f"{trait}_lower"] = lower
             statistics[name][f"{trait}_upper"] = upper
-            statistics[name][f"{trait}_n"] = len(trait_values)
-            statistics[name][f"{trait}_alpha"] = alpha
-            statistics[name][f"{trait}_beta_param"] = beta_param
+            statistics[name][f"{trait}_n"] = n
 
     #sort characters by number of annotations
     statistics = dict(sorted(statistics.items(), key=lambda item: sum(item[1][f"{trait}_n"] for trait in trait_names), reverse=True))
