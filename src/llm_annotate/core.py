@@ -1099,7 +1099,7 @@ def annotate(
                                 name = d.pop("name", None)
                                 all_annotations[name].append(d)
                     else:
-                        raise ValueError("Unknown response type from model")
+                        print("Unknown response type from model: ", response)
 
 
             else: #no traits given
@@ -1138,7 +1138,7 @@ def annotate(
                     for d in dicts:
                         d["chunk"] = k+1
                 else:
-                    raise ValueError("Unknown response type from model")
+                    print("Unknown response type from model", response)
 
                 # Reformat: {"action": ..., "traits": [...]} -> {"action": ..., trait: 1, ...}
                 reformatted_dicts = []
