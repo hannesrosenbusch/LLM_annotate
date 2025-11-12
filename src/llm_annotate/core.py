@@ -1043,8 +1043,8 @@ def annotate(
                 for trait, info in traits.items():
                     trait_explanation = info['trait_explanation']
                     examples = info.get("examples", [])
-                    trait_action_examples = [f'{{"name": "{example.get("name", char)}", "trait": "{trait.lower()}", "action": "{example["action"]}", "assessment": "{example.get("assessment", "")}", "rating": {example.get("rating", 0)}}}' for example in examples]
-                    trait_action_examples_str = ", ".join(trait_action_examples) if trait_action_examples else f'{{"name": "{char}", "action": "example action", "{trait.lower()}": 0}}'
+                    trait_action_examples = [f'{{"name": "{char if char else example.get("name", "John Doe")}", "trait": "{trait.lower()}", "action": "{example["action"]}", "assessment": "{example.get("assessment", "")}", "rating": {example.get("rating", 0)}}}' for example in examples]
+                    trait_action_examples_str = ", ".join(trait_action_examples) # if trait_action_examples else f'{{"name": "{char}", "action": "example action", "{trait.lower()}": 0}}'
                     
                     if char: #if characters given
                         prompt = (
