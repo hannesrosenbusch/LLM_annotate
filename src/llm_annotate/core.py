@@ -57,7 +57,7 @@ def call_model(model, prompt, temperature=0, text_format=None):
 
 
 
-def custom_openai(prompt,temperature=0, model_they_gave_you_access_to = "gpt-4.1", text_format=None):
+def custom_openai(prompt,temperature=0, model_they_gave_you_access_to = "gpt-4.1-mini", text_format=None):
     """Call UVA OpenAI proxy."""
     your_api_key = os.getenv("UVA_OPENAI_API_KEY")
     the_base_url_to_always_use = "https://ai-research-proxy.azurewebsites.net/"
@@ -1075,6 +1075,7 @@ def annotate(
                         response = next(iter(response.values())) #get list from single dict element
                         for d in response:
                             d = dict(d)
+                            d["chunk"] = k+1
                             name = d.pop("name", None)
                             all_annotations[name].append(d)
 
