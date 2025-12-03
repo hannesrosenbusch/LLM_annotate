@@ -424,14 +424,13 @@ def compute_annotation_statistics(annotation_file, plot = True, nr_characters_pl
         for a in actions:
             trait_names.append(a["trait"])
     trait_names = list(set(trait_names)) 
-    print(trait_names)
 
     for name, actions in annotations.items():
         statistics[name] = {}
         credible_intervals[name] = {}
         for trait in trait_names:
             trait_key = trait.lower()
-            trait_values = [a["rating"] for a in actions if a["trait"].lower() == trait_key]
+            trait_values = [a.get("rating", 1) for a in actions if a["trait"].lower() == trait_key]
             try:
                 avg_trait = sum(trait_values) / len(trait_values) if trait_values else 0
             except:
@@ -504,10 +503,10 @@ def plot_character_trait_profiles(annotations_file_path, top_n_chars=4):
     for character, actions in character_annotations_json.items():
         traits_list = []
         for action in actions:
-            for key, value in action.items():
-                if key not in ['action', 'chunk'] and value == 1:
-                    traits_list.append(key)
+            traits_list.append(action.get("trait"))
         character_traits[character] = traits_list
+    
+    print(f"Total characters: {character_traits}")
 
     # Sort all characters by total number of traits and take top N
     sorted_all_characters = sorted(character_traits.items(), key=lambda x: len(x[1]), reverse=True)
@@ -1111,7 +1110,7 @@ def annotate(
                         """Read through the following excerpt and return a comprehensive list of dictionaries {"name": "*character name*", "action": "*short description*", "traits": ["trait1", "trait2", ...] }</Instructions>\n"""
                         f"<Metadata>Text source: {book_title}</Metadata>\n"
                         f"<Excerpt>\n\n...{section}...\n\n</Excerpt>"
-                        f"<Reminder> Return only the list of dictionaries for behaviors of {char} with keys action and traits.</Reminder>\n\n"
+                        f"<Reminder> Return only the list of dictionaries for behaviors of {char} with the keys name, action, and traits.</Reminder>\n\n"
                     )
                 else: #nothing given
                     prompt = (
@@ -1119,7 +1118,7 @@ def annotate(
                         """Read through the following excerpt and return a comprehensive list of dictionaries {"name": "John Doe", "action": "*short description*", "traits": ["trait1", "trait2", ...] }</Instructions>\n"""
                         f"<Metadata>Text source: {book_title}</Metadata>\n"
                         f"<Excerpt>\n\n...{section}...\n\n</Excerpt>"
-                        f"<Reminder> Return only the list of dictionaries with keys name, action, and traits.</Reminder>\n\n"
+                        f"<Reminder> Return only the list of dictionaries with the keys name, action, and traits.</Reminder>\n\n"
                     )
 
                 response = call_model(model, prompt, temperature=0, text_format=ActionCollection)
@@ -1152,7 +1151,7 @@ def annotate(
                     action = d.get("action", "")
                     traits_found = d.get("traits", [])
                     for trait in traits_found:
-                        reformatted_dicts.append({"name": name, "action": action, trait: 1, "chunk": d.get("chunk")})
+                        reformatted_dicts.append({"name": name, "action": action, "trait": trait, "chunk": d.get("chunk")})
                 for d in reformatted_dicts:
                     name = d.pop("name", "Unknown")
                     all_annotations[name].append(d)
